@@ -1,0 +1,1293 @@
+2022-11-22 20:47:25,956, INFO: Load reinforcement learning trained weights.
+2022-11-22 20:47:25,957, INFO: Load follower1 reinforcement learning trained weights.
+2022-11-22 20:47:25,957, INFO: Load follower2 reinforcement learning trained weights.
+2022-11-22 20:48:02,295, INFO: in Episode 0 has success rate: 0.00, collision rate: 1.00, nav time: 17.70, total reward: 29.3805,V_MeanSquareError:0.4257,times:177
+2022-11-22 20:48:12,803, INFO: in Episode 1 has success rate: 0.00, collision rate: 1.00, nav time: 4.70, total reward: 3.2756,V_MeanSquareError:0.3801,times:47
+2022-11-22 20:49:14,134, INFO: in Episode 2 has success rate: 1.00, collision rate: 0.00, nav time: 28.00, total reward: 55.6505,V_MeanSquareError:0.3670,times:280
+2022-11-22 20:49:14,134, INFO: Has succes Sum_MeanSquareError:0.3670, nav_time: 28.00
+2022-11-22 20:50:14,422, INFO: in Episode 3 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 43.3464,V_MeanSquareError:0.4111,times:302
+2022-11-22 20:50:14,423, INFO: Has succes Sum_MeanSquareError:0.4111, nav_time: 30.20
+2022-11-22 20:51:23,695, INFO: in Episode 4 has success rate: 1.00, collision rate: 0.00, nav time: 33.00, total reward: 47.1919,V_MeanSquareError:0.5354,times:330
+2022-11-22 20:51:23,695, INFO: Has succes Sum_MeanSquareError:0.5354, nav_time: 33.00
+2022-11-22 20:52:26,092, INFO: in Episode 5 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 46.2487,V_MeanSquareError:0.4704,times:306
+2022-11-22 20:52:26,092, INFO: Has succes Sum_MeanSquareError:0.4704, nav_time: 30.60
+2022-11-22 20:53:27,884, INFO: in Episode 6 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 38.3565,V_MeanSquareError:0.4290,times:309
+2022-11-22 20:53:27,884, INFO: Has succes Sum_MeanSquareError:0.4290, nav_time: 30.90
+2022-11-22 20:54:09,663, INFO: in Episode 7 has success rate: 0.00, collision rate: 1.00, nav time: 21.10, total reward: 24.3972,V_MeanSquareError:0.4052,times:211
+2022-11-22 20:55:17,067, INFO: in Episode 8 has success rate: 1.00, collision rate: 0.00, nav time: 35.10, total reward: 10.8105,V_MeanSquareError:0.5441,times:351
+2022-11-22 20:55:17,067, INFO: Has succes Sum_MeanSquareError:0.5441, nav_time: 35.10
+2022-11-22 20:55:40,402, INFO: in Episode 9 has success rate: 0.00, collision rate: 1.00, nav time: 10.50, total reward: 31.1642,V_MeanSquareError:0.2120,times:105
+2022-11-22 20:56:16,156, INFO: in Episode 10 has success rate: 0.00, collision rate: 1.00, nav time: 17.40, total reward: 22.4923,V_MeanSquareError:0.4198,times:174
+2022-11-22 20:56:38,589, INFO: in Episode 11 has success rate: 0.00, collision rate: 1.00, nav time: 12.20, total reward: 3.1870,V_MeanSquareError:0.3927,times:122
+2022-11-22 20:57:39,662, INFO: in Episode 12 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 47.5046,V_MeanSquareError:0.4240,times:306
+2022-11-22 20:57:39,662, INFO: Has succes Sum_MeanSquareError:0.4240, nav_time: 30.60
+2022-11-22 20:58:11,367, INFO: in Episode 13 has success rate: 0.00, collision rate: 1.00, nav time: 15.40, total reward: 22.9709,V_MeanSquareError:0.4163,times:154
+2022-11-22 20:58:43,896, INFO: in Episode 14 has success rate: 0.00, collision rate: 1.00, nav time: 16.10, total reward: -10.8120,V_MeanSquareError:0.4721,times:161
+2022-11-22 20:58:55,443, INFO: in Episode 15 has success rate: 0.00, collision rate: 1.00, nav time: 5.70, total reward: -11.7142,V_MeanSquareError:0.6099,times:57
+2022-11-22 20:59:05,860, INFO: in Episode 16 has success rate: 0.00, collision rate: 1.00, nav time: 4.80, total reward: 5.7753,V_MeanSquareError:0.3306,times:48
+2022-11-22 20:59:28,654, INFO: in Episode 17 has success rate: 0.00, collision rate: 1.00, nav time: 11.40, total reward: 2.1722,V_MeanSquareError:0.3755,times:114
+2022-11-22 21:00:05,160, INFO: in Episode 18 has success rate: 0.00, collision rate: 1.00, nav time: 17.80, total reward: 29.0656,V_MeanSquareError:0.5758,times:178
+2022-11-22 21:00:09,665, INFO: in Episode 19 has success rate: 0.00, collision rate: 1.00, nav time: 2.20, total reward: -10.7665,V_MeanSquareError:0.6516,times:22
+2022-11-22 21:00:15,356, INFO: in Episode 20 has success rate: 0.00, collision rate: 1.00, nav time: 2.70, total reward: -25.8198,V_MeanSquareError:0.7261,times:27
+2022-11-22 21:00:50,041, INFO: in Episode 21 has success rate: 0.00, collision rate: 1.00, nav time: 17.70, total reward: 27.4377,V_MeanSquareError:0.4415,times:177
+2022-11-22 21:01:12,620, INFO: in Episode 22 has success rate: 0.00, collision rate: 1.00, nav time: 11.40, total reward: -3.9801,V_MeanSquareError:0.3631,times:114
+2022-11-22 21:01:43,884, INFO: in Episode 23 has success rate: 0.00, collision rate: 1.00, nav time: 14.50, total reward: 29.7182,V_MeanSquareError:0.4036,times:145
+2022-11-22 21:02:49,787, INFO: in Episode 24 has success rate: 1.00, collision rate: 0.00, nav time: 32.00, total reward: 40.1504,V_MeanSquareError:0.4635,times:320
+2022-11-22 21:02:49,787, INFO: Has succes Sum_MeanSquareError:0.4635, nav_time: 32.00
+2022-11-22 21:03:49,680, INFO: in Episode 25 has success rate: 1.00, collision rate: 0.00, nav time: 29.70, total reward: 48.0005,V_MeanSquareError:0.4072,times:297
+2022-11-22 21:03:49,680, INFO: Has succes Sum_MeanSquareError:0.4072, nav_time: 29.70
+2022-11-22 21:04:12,833, INFO: in Episode 26 has success rate: 0.00, collision rate: 1.00, nav time: 10.60, total reward: 24.7923,V_MeanSquareError:0.2508,times:106
+2022-11-22 21:04:45,320, INFO: in Episode 27 has success rate: 0.00, collision rate: 1.00, nav time: 16.60, total reward: 3.4437,V_MeanSquareError:0.6572,times:166
+2022-11-22 21:05:45,733, INFO: in Episode 28 has success rate: 1.00, collision rate: 0.00, nav time: 29.90, total reward: 39.1704,V_MeanSquareError:0.4168,times:299
+2022-11-22 21:05:45,734, INFO: Has succes Sum_MeanSquareError:0.4168, nav_time: 29.90
+2022-11-22 21:05:56,222, INFO: in Episode 29 has success rate: 0.00, collision rate: 1.00, nav time: 4.80, total reward: 3.0904,V_MeanSquareError:0.4027,times:48
+2022-11-22 21:06:22,895, INFO: in Episode 30 has success rate: 0.00, collision rate: 1.00, nav time: 12.10, total reward: 25.3480,V_MeanSquareError:0.3254,times:121
+2022-11-22 21:07:30,421, INFO: in Episode 31 has success rate: 0.00, collision rate: 1.00, nav time: 34.20, total reward: 6.1197,V_MeanSquareError:0.6144,times:342
+2022-11-22 21:07:35,227, INFO: in Episode 32 has success rate: 0.00, collision rate: 1.00, nav time: 1.80, total reward: -32.0265,V_MeanSquareError:0.4944,times:18
+2022-11-22 21:08:06,745, INFO: in Episode 33 has success rate: 0.00, collision rate: 1.00, nav time: 15.10, total reward: 12.3584,V_MeanSquareError:0.5185,times:151
+2022-11-22 21:09:17,918, INFO: in Episode 34 has success rate: 1.00, collision rate: 0.00, nav time: 36.10, total reward: 18.8131,V_MeanSquareError:0.6249,times:361
+2022-11-22 21:09:17,919, INFO: Has succes Sum_MeanSquareError:0.6249, nav_time: 36.10
+2022-11-22 21:10:19,185, INFO: in Episode 35 has success rate: 1.00, collision rate: 0.00, nav time: 30.30, total reward: 41.9898,V_MeanSquareError:0.4231,times:303
+2022-11-22 21:10:19,185, INFO: Has succes Sum_MeanSquareError:0.4231, nav_time: 30.30
+2022-11-22 21:11:20,434, INFO: in Episode 36 has success rate: 1.00, collision rate: 0.00, nav time: 31.30, total reward: 27.7083,V_MeanSquareError:0.4251,times:313
+2022-11-22 21:11:20,435, INFO: Has succes Sum_MeanSquareError:0.4251, nav_time: 31.30
+2022-11-22 21:12:25,184, INFO: in Episode 37 has success rate: 1.00, collision rate: 0.00, nav time: 32.00, total reward: 39.1385,V_MeanSquareError:0.4797,times:320
+2022-11-22 21:12:25,185, INFO: Has succes Sum_MeanSquareError:0.4797, nav_time: 32.00
+2022-11-22 21:13:26,995, INFO: in Episode 38 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 17.6974,V_MeanSquareError:0.4317,times:310
+2022-11-22 21:13:26,996, INFO: Has succes Sum_MeanSquareError:0.4317, nav_time: 31.00
+2022-11-22 21:14:12,014, INFO: in Episode 39 has success rate: 0.00, collision rate: 1.00, nav time: 21.90, total reward: 38.6891,V_MeanSquareError:0.4189,times:219
+2022-11-22 21:14:46,711, INFO: in Episode 40 has success rate: 0.00, collision rate: 1.00, nav time: 17.00, total reward: 1.5324,V_MeanSquareError:0.5468,times:170
+2022-11-22 21:15:19,927, INFO: in Episode 41 has success rate: 0.00, collision rate: 1.00, nav time: 15.60, total reward: 25.2762,V_MeanSquareError:0.4384,times:156
+2022-11-22 21:16:26,466, INFO: in Episode 42 has success rate: 1.00, collision rate: 0.00, nav time: 32.60, total reward: 41.6090,V_MeanSquareError:0.5388,times:326
+2022-11-22 21:16:26,466, INFO: Has succes Sum_MeanSquareError:0.5388, nav_time: 32.60
+2022-11-22 21:17:31,077, INFO: in Episode 43 has success rate: 1.00, collision rate: 0.00, nav time: 32.60, total reward: 44.4862,V_MeanSquareError:0.4698,times:326
+2022-11-22 21:17:31,077, INFO: Has succes Sum_MeanSquareError:0.4698, nav_time: 32.60
+2022-11-22 21:18:40,689, INFO: in Episode 44 has success rate: 1.00, collision rate: 0.00, nav time: 33.80, total reward: 2.2620,V_MeanSquareError:0.6606,times:338
+2022-11-22 21:18:40,690, INFO: Has succes Sum_MeanSquareError:0.6606, nav_time: 33.80
+2022-11-22 21:19:12,588, INFO: in Episode 45 has success rate: 0.00, collision rate: 1.00, nav time: 15.10, total reward: 20.0475,V_MeanSquareError:0.4425,times:151
+2022-11-22 21:19:24,264, INFO: in Episode 46 has success rate: 0.00, collision rate: 1.00, nav time: 4.70, total reward: 2.9612,V_MeanSquareError:0.4074,times:47
+2022-11-22 21:19:30,495, INFO: in Episode 47 has success rate: 0.00, collision rate: 1.00, nav time: 2.50, total reward: 1.8513,V_MeanSquareError:0.3853,times:25
+2022-11-22 21:20:35,885, INFO: in Episode 48 has success rate: 1.00, collision rate: 0.00, nav time: 32.10, total reward: 40.0752,V_MeanSquareError:0.4494,times:321
+2022-11-22 21:20:35,885, INFO: Has succes Sum_MeanSquareError:0.4494, nav_time: 32.10
+2022-11-22 21:21:00,716, INFO: in Episode 49 has success rate: 0.00, collision rate: 1.00, nav time: 11.70, total reward: 28.9517,V_MeanSquareError:0.2666,times:117
+2022-11-22 21:22:03,275, INFO: in Episode 50 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 45.3906,V_MeanSquareError:0.4069,times:306
+2022-11-22 21:22:03,275, INFO: Has succes Sum_MeanSquareError:0.4069, nav_time: 30.60
+2022-11-22 21:22:49,511, INFO: in Episode 51 has success rate: 0.00, collision rate: 1.00, nav time: 21.70, total reward: 18.9779,V_MeanSquareError:0.4704,times:217
+2022-11-22 21:23:45,521, INFO: in Episode 52 has success rate: 0.00, collision rate: 1.00, nav time: 25.90, total reward: 43.6983,V_MeanSquareError:0.4134,times:259
+2022-11-22 21:24:50,374, INFO: in Episode 53 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 30.1655,V_MeanSquareError:0.4323,times:308
+2022-11-22 21:24:50,374, INFO: Has succes Sum_MeanSquareError:0.4323, nav_time: 30.80
+2022-11-22 21:25:28,904, INFO: in Episode 54 has success rate: 0.00, collision rate: 1.00, nav time: 16.80, total reward: 27.6279,V_MeanSquareError:0.3930,times:168
+2022-11-22 21:26:38,456, INFO: in Episode 55 has success rate: 1.00, collision rate: 0.00, nav time: 33.90, total reward: 5.2833,V_MeanSquareError:0.5719,times:339
+2022-11-22 21:26:38,456, INFO: Has succes Sum_MeanSquareError:0.5719, nav_time: 33.90
+2022-11-22 21:27:54,184, INFO: in Episode 56 has success rate: 1.00, collision rate: 0.00, nav time: 36.80, total reward: -3.6497,V_MeanSquareError:0.6008,times:368
+2022-11-22 21:27:54,184, INFO: Has succes Sum_MeanSquareError:0.6008, nav_time: 36.80
+2022-11-22 21:28:19,018, INFO: in Episode 57 has success rate: 0.00, collision rate: 1.00, nav time: 11.40, total reward: 30.1459,V_MeanSquareError:0.2641,times:114
+2022-11-22 21:28:55,540, INFO: in Episode 58 has success rate: 0.00, collision rate: 1.00, nav time: 17.20, total reward: 27.2113,V_MeanSquareError:0.4022,times:172
+2022-11-22 21:29:05,493, INFO: in Episode 59 has success rate: 0.00, collision rate: 1.00, nav time: 3.20, total reward: -0.9043,V_MeanSquareError:0.4831,times:32
+2022-11-22 21:30:13,784, INFO: in Episode 60 has success rate: 1.00, collision rate: 0.00, nav time: 32.00, total reward: 45.9859,V_MeanSquareError:0.4803,times:320
+2022-11-22 21:30:13,785, INFO: Has succes Sum_MeanSquareError:0.4803, nav_time: 32.00
+2022-11-22 21:31:21,195, INFO: in Episode 61 has success rate: 1.00, collision rate: 0.00, nav time: 31.60, total reward: 22.9661,V_MeanSquareError:0.4750,times:316
+2022-11-22 21:31:21,195, INFO: Has succes Sum_MeanSquareError:0.4750, nav_time: 31.60
+2022-11-22 21:31:26,030, INFO: in Episode 62 has success rate: 0.00, collision rate: 1.00, nav time: 1.90, total reward: -22.1092,V_MeanSquareError:0.6161,times:19
+2022-11-22 21:32:32,201, INFO: in Episode 63 has success rate: 1.00, collision rate: 0.00, nav time: 31.90, total reward: 57.3928,V_MeanSquareError:0.5095,times:319
+2022-11-22 21:32:32,202, INFO: Has succes Sum_MeanSquareError:0.5095, nav_time: 31.90
+2022-11-22 21:33:04,351, INFO: in Episode 64 has success rate: 0.00, collision rate: 1.00, nav time: 14.80, total reward: 21.2543,V_MeanSquareError:0.4263,times:148
+2022-11-22 21:34:09,241, INFO: in Episode 65 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 34.9644,V_MeanSquareError:0.4237,times:302
+2022-11-22 21:34:09,241, INFO: Has succes Sum_MeanSquareError:0.4237, nav_time: 30.20
+2022-11-22 21:35:03,775, INFO: in Episode 66 has success rate: 0.00, collision rate: 1.00, nav time: 26.40, total reward: -38.3878,V_MeanSquareError:0.4154,times:264
+2022-11-22 21:36:10,540, INFO: in Episode 67 has success rate: 1.00, collision rate: 0.00, nav time: 31.30, total reward: 49.9999,V_MeanSquareError:0.4386,times:313
+2022-11-22 21:36:10,540, INFO: Has succes Sum_MeanSquareError:0.4386, nav_time: 31.30
+2022-11-22 21:36:47,030, INFO: in Episode 68 has success rate: 0.00, collision rate: 1.00, nav time: 16.30, total reward: 20.8381,V_MeanSquareError:0.4020,times:163
+2022-11-22 21:37:50,857, INFO: in Episode 69 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 28.5934,V_MeanSquareError:0.4204,times:308
+2022-11-22 21:37:50,858, INFO: Has succes Sum_MeanSquareError:0.4204, nav_time: 30.80
+2022-11-22 21:39:00,896, INFO: in Episode 70 has success rate: 1.00, collision rate: 0.00, nav time: 32.30, total reward: 46.7063,V_MeanSquareError:0.5303,times:323
+2022-11-22 21:39:00,896, INFO: Has succes Sum_MeanSquareError:0.5303, nav_time: 32.30
+2022-11-22 21:40:08,434, INFO: in Episode 71 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 36.2025,V_MeanSquareError:0.4353,times:307
+2022-11-22 21:40:08,434, INFO: Has succes Sum_MeanSquareError:0.4353, nav_time: 30.70
+2022-11-22 21:41:11,140, INFO: in Episode 72 has success rate: 1.00, collision rate: 0.00, nav time: 30.00, total reward: 51.6401,V_MeanSquareError:0.4251,times:300
+2022-11-22 21:41:11,140, INFO: Has succes Sum_MeanSquareError:0.4251, nav_time: 30.00
+2022-11-22 21:41:59,073, INFO: in Episode 73 has success rate: 0.00, collision rate: 1.00, nav time: 22.30, total reward: -1.8636,V_MeanSquareError:0.5417,times:223
+2022-11-22 21:42:06,214, INFO: in Episode 74 has success rate: 0.00, collision rate: 1.00, nav time: 3.00, total reward: 1.6968,V_MeanSquareError:0.4495,times:30
+2022-11-22 21:43:06,049, INFO: in Episode 75 has success rate: 0.00, collision rate: 1.00, nav time: 28.70, total reward: 49.8280,V_MeanSquareError:0.4325,times:287
+2022-11-22 21:43:45,371, INFO: in Episode 76 has success rate: 0.00, collision rate: 1.00, nav time: 18.40, total reward: 14.2326,V_MeanSquareError:0.4246,times:184
+2022-11-22 21:44:44,259, INFO: in Episode 77 has success rate: 0.00, collision rate: 1.00, nav time: 27.70, total reward: 48.0682,V_MeanSquareError:0.4194,times:277
+2022-11-22 21:45:43,279, INFO: in Episode 78 has success rate: 1.00, collision rate: 0.00, nav time: 28.60, total reward: 55.3886,V_MeanSquareError:0.3688,times:286
+2022-11-22 21:45:43,279, INFO: Has succes Sum_MeanSquareError:0.3688, nav_time: 28.60
+2022-11-22 21:46:48,055, INFO: in Episode 79 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 29.1561,V_MeanSquareError:0.4317,times:310
+2022-11-22 21:46:48,055, INFO: Has succes Sum_MeanSquareError:0.4317, nav_time: 31.00
+2022-11-22 21:47:54,881, INFO: in Episode 80 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 38.4045,V_MeanSquareError:0.4894,times:310
+2022-11-22 21:47:54,882, INFO: Has succes Sum_MeanSquareError:0.4894, nav_time: 31.00
+2022-11-22 21:49:02,983, INFO: in Episode 81 has success rate: 1.00, collision rate: 0.00, nav time: 31.80, total reward: 48.8011,V_MeanSquareError:0.4762,times:318
+2022-11-22 21:49:02,983, INFO: Has succes Sum_MeanSquareError:0.4762, nav_time: 31.80
+2022-11-22 21:49:43,809, INFO: in Episode 82 has success rate: 0.00, collision rate: 1.00, nav time: 18.10, total reward: 5.0401,V_MeanSquareError:0.4306,times:181
+2022-11-22 21:50:21,472, INFO: in Episode 83 has success rate: 0.00, collision rate: 1.00, nav time: 17.60, total reward: 28.8768,V_MeanSquareError:0.4930,times:176
+2022-11-22 21:51:24,038, INFO: in Episode 84 has success rate: 0.00, collision rate: 1.00, nav time: 29.30, total reward: 48.3685,V_MeanSquareError:0.4344,times:293
+2022-11-22 21:52:29,953, INFO: in Episode 85 has success rate: 1.00, collision rate: 0.00, nav time: 31.70, total reward: 27.7554,V_MeanSquareError:0.4463,times:317
+2022-11-22 21:52:29,953, INFO: Has succes Sum_MeanSquareError:0.4463, nav_time: 31.70
+2022-11-22 21:53:39,797, INFO: in Episode 86 has success rate: 1.00, collision rate: 0.00, nav time: 32.80, total reward: 1.5370,V_MeanSquareError:0.6282,times:328
+2022-11-22 21:53:39,798, INFO: Has succes Sum_MeanSquareError:0.6282, nav_time: 32.80
+2022-11-22 21:54:40,536, INFO: in Episode 87 has success rate: 1.00, collision rate: 0.00, nav time: 27.30, total reward: 58.4509,V_MeanSquareError:0.3420,times:273
+2022-11-22 21:54:40,536, INFO: Has succes Sum_MeanSquareError:0.3420, nav_time: 27.30
+2022-11-22 21:55:52,827, INFO: in Episode 88 has success rate: 1.00, collision rate: 0.00, nav time: 34.70, total reward: 28.0528,V_MeanSquareError:0.6151,times:347
+2022-11-22 21:55:52,828, INFO: Has succes Sum_MeanSquareError:0.6151, nav_time: 34.70
+2022-11-22 21:56:48,891, INFO: in Episode 89 has success rate: 0.00, collision rate: 1.00, nav time: 26.90, total reward: 47.2074,V_MeanSquareError:0.3866,times:269
+2022-11-22 21:58:02,204, INFO: in Episode 90 has success rate: 1.00, collision rate: 0.00, nav time: 34.10, total reward: 24.9541,V_MeanSquareError:0.5800,times:341
+2022-11-22 21:58:02,204, INFO: Has succes Sum_MeanSquareError:0.5800, nav_time: 34.10
+2022-11-22 21:59:04,924, INFO: in Episode 91 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 45.9532,V_MeanSquareError:0.4177,times:304
+2022-11-22 21:59:04,925, INFO: Has succes Sum_MeanSquareError:0.4177, nav_time: 30.40
+2022-11-22 21:59:35,284, INFO: in Episode 92 has success rate: 0.00, collision rate: 1.00, nav time: 13.90, total reward: -40.9097,V_MeanSquareError:0.4063,times:139
+2022-11-22 21:59:42,511, INFO: in Episode 93 has success rate: 0.00, collision rate: 1.00, nav time: 3.10, total reward: -0.6309,V_MeanSquareError:0.4918,times:31
+2022-11-22 22:00:45,608, INFO: in Episode 94 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 44.7920,V_MeanSquareError:0.4189,times:304
+2022-11-22 22:00:45,609, INFO: Has succes Sum_MeanSquareError:0.4189, nav_time: 30.40
+2022-11-22 22:01:50,092, INFO: in Episode 95 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 49.8970,V_MeanSquareError:0.4266,times:307
+2022-11-22 22:01:50,092, INFO: Has succes Sum_MeanSquareError:0.4266, nav_time: 30.70
+2022-11-22 22:02:53,064, INFO: in Episode 96 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 42.6603,V_MeanSquareError:0.4249,times:302
+2022-11-22 22:02:53,064, INFO: Has succes Sum_MeanSquareError:0.4249, nav_time: 30.20
+2022-11-22 22:03:24,785, INFO: in Episode 97 has success rate: 0.00, collision rate: 1.00, nav time: 15.30, total reward: 16.7444,V_MeanSquareError:0.5585,times:153
+2022-11-22 22:04:30,882, INFO: in Episode 98 has success rate: 1.00, collision rate: 0.00, nav time: 31.50, total reward: 42.2787,V_MeanSquareError:0.4645,times:315
+2022-11-22 22:04:30,883, INFO: Has succes Sum_MeanSquareError:0.4645, nav_time: 31.50
+2022-11-22 22:05:32,466, INFO: in Episode 99 has success rate: 1.00, collision rate: 0.00, nav time: 29.10, total reward: 34.3049,V_MeanSquareError:0.3865,times:291
+2022-11-22 22:05:32,466, INFO: Has succes Sum_MeanSquareError:0.3865, nav_time: 29.10
+2022-11-22 22:06:48,739, INFO: in Episode 100 has success rate: 1.00, collision rate: 0.00, nav time: 35.00, total reward: 6.2532,V_MeanSquareError:0.8260,times:350
+2022-11-22 22:06:48,739, INFO: Has succes Sum_MeanSquareError:0.8260, nav_time: 35.00
+2022-11-22 22:07:26,394, INFO: in Episode 101 has success rate: 0.00, collision rate: 1.00, nav time: 16.80, total reward: 26.5631,V_MeanSquareError:0.4259,times:168
+2022-11-22 22:07:32,869, INFO: in Episode 102 has success rate: 0.00, collision rate: 1.00, nav time: 2.70, total reward: 1.5172,V_MeanSquareError:0.4746,times:27
+2022-11-22 22:08:36,121, INFO: in Episode 103 has success rate: 1.00, collision rate: 0.00, nav time: 31.10, total reward: 53.9525,V_MeanSquareError:0.4449,times:311
+2022-11-22 22:08:36,122, INFO: Has succes Sum_MeanSquareError:0.4449, nav_time: 31.10
+2022-11-22 22:09:42,932, INFO: in Episode 104 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 53.0797,V_MeanSquareError:0.4490,times:307
+2022-11-22 22:09:42,932, INFO: Has succes Sum_MeanSquareError:0.4490, nav_time: 30.70
+2022-11-22 22:10:21,236, INFO: in Episode 105 has success rate: 0.00, collision rate: 1.00, nav time: 17.40, total reward: 23.8621,V_MeanSquareError:0.4912,times:174
+2022-11-22 22:11:27,312, INFO: in Episode 106 has success rate: 1.00, collision rate: 0.00, nav time: 31.10, total reward: 32.4539,V_MeanSquareError:0.4475,times:311
+2022-11-22 22:11:27,313, INFO: Has succes Sum_MeanSquareError:0.4475, nav_time: 31.10
+2022-11-22 22:12:12,775, INFO: in Episode 107 has success rate: 0.00, collision rate: 1.00, nav time: 21.40, total reward: 14.0238,V_MeanSquareError:0.4802,times:214
+2022-11-22 22:13:23,286, INFO: in Episode 108 has success rate: 1.00, collision rate: 0.00, nav time: 32.60, total reward: 27.1224,V_MeanSquareError:0.5962,times:326
+2022-11-22 22:13:23,286, INFO: Has succes Sum_MeanSquareError:0.5962, nav_time: 32.60
+2022-11-22 22:14:08,462, INFO: in Episode 109 has success rate: 0.00, collision rate: 1.00, nav time: 21.00, total reward: -1.1973,V_MeanSquareError:0.7597,times:210
+2022-11-22 22:14:44,414, INFO: in Episode 110 has success rate: 0.00, collision rate: 1.00, nav time: 16.40, total reward: 3.7529,V_MeanSquareError:0.5132,times:164
+2022-11-22 22:15:51,186, INFO: in Episode 111 has success rate: 1.00, collision rate: 0.00, nav time: 31.40, total reward: 40.9981,V_MeanSquareError:0.5467,times:314
+2022-11-22 22:15:51,187, INFO: Has succes Sum_MeanSquareError:0.5467, nav_time: 31.40
+2022-11-22 22:16:54,666, INFO: in Episode 112 has success rate: 0.00, collision rate: 1.00, nav time: 29.70, total reward: 39.6736,V_MeanSquareError:0.4819,times:297
+2022-11-22 22:18:05,700, INFO: in Episode 113 has success rate: 1.00, collision rate: 0.00, nav time: 33.60, total reward: 35.8978,V_MeanSquareError:0.5777,times:336
+2022-11-22 22:18:05,700, INFO: Has succes Sum_MeanSquareError:0.5777, nav_time: 33.60
+2022-11-22 22:19:07,264, INFO: in Episode 114 has success rate: 1.00, collision rate: 0.00, nav time: 28.90, total reward: 52.2135,V_MeanSquareError:0.3767,times:289
+2022-11-22 22:19:07,264, INFO: Has succes Sum_MeanSquareError:0.3767, nav_time: 28.90
+2022-11-22 22:20:15,654, INFO: in Episode 115 has success rate: 1.00, collision rate: 0.00, nav time: 32.40, total reward: 40.1826,V_MeanSquareError:0.5402,times:324
+2022-11-22 22:20:15,655, INFO: Has succes Sum_MeanSquareError:0.5402, nav_time: 32.40
+2022-11-22 22:21:21,868, INFO: in Episode 116 has success rate: 1.00, collision rate: 0.00, nav time: 32.00, total reward: 31.8598,V_MeanSquareError:0.4770,times:320
+2022-11-22 22:21:21,868, INFO: Has succes Sum_MeanSquareError:0.4770, nav_time: 32.00
+2022-11-22 22:21:51,240, INFO: in Episode 117 has success rate: 0.00, collision rate: 1.00, nav time: 13.10, total reward: 27.0340,V_MeanSquareError:0.3207,times:131
+2022-11-22 22:22:52,507, INFO: in Episode 118 has success rate: 1.00, collision rate: 0.00, nav time: 29.10, total reward: 52.6942,V_MeanSquareError:0.3758,times:291
+2022-11-22 22:22:52,507, INFO: Has succes Sum_MeanSquareError:0.3758, nav_time: 29.10
+2022-11-22 22:23:21,583, INFO: in Episode 119 has success rate: 0.00, collision rate: 1.00, nav time: 13.40, total reward: 17.6261,V_MeanSquareError:0.3608,times:134
+2022-11-22 22:24:27,570, INFO: in Episode 120 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 56.0399,V_MeanSquareError:0.4432,times:306
+2022-11-22 22:24:27,571, INFO: Has succes Sum_MeanSquareError:0.4432, nav_time: 30.60
+2022-11-22 22:25:20,819, INFO: in Episode 121 has success rate: 0.00, collision rate: 1.00, nav time: 25.80, total reward: 32.0814,V_MeanSquareError:0.4006,times:258
+2022-11-22 22:26:23,572, INFO: in Episode 122 has success rate: 0.00, collision rate: 1.00, nav time: 29.50, total reward: 26.2658,V_MeanSquareError:0.5677,times:295
+2022-11-22 22:27:31,319, INFO: in Episode 123 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 51.3856,V_MeanSquareError:0.4306,times:305
+2022-11-22 22:27:31,320, INFO: Has succes Sum_MeanSquareError:0.4306, nav_time: 30.50
+2022-11-22 22:28:40,797, INFO: in Episode 124 has success rate: 1.00, collision rate: 0.00, nav time: 33.20, total reward: 29.7295,V_MeanSquareError:0.6388,times:332
+2022-11-22 22:28:40,797, INFO: Has succes Sum_MeanSquareError:0.6388, nav_time: 33.20
+2022-11-22 22:29:37,774, INFO: in Episode 125 has success rate: 0.00, collision rate: 1.00, nav time: 26.10, total reward: 33.2946,V_MeanSquareError:0.4148,times:261
+2022-11-22 22:30:41,536, INFO: in Episode 126 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 40.2372,V_MeanSquareError:0.4792,times:307
+2022-11-22 22:30:41,537, INFO: Has succes Sum_MeanSquareError:0.4792, nav_time: 30.70
+2022-11-22 22:31:47,628, INFO: in Episode 127 has success rate: 1.00, collision rate: 0.00, nav time: 31.70, total reward: 39.3316,V_MeanSquareError:0.4595,times:317
+2022-11-22 22:31:47,628, INFO: Has succes Sum_MeanSquareError:0.4595, nav_time: 31.70
+2022-11-22 22:32:53,349, INFO: in Episode 128 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 41.8102,V_MeanSquareError:0.4299,times:312
+2022-11-22 22:32:53,349, INFO: Has succes Sum_MeanSquareError:0.4299, nav_time: 31.20
+2022-11-22 22:33:36,971, INFO: in Episode 129 has success rate: 0.00, collision rate: 1.00, nav time: 20.70, total reward: 26.2288,V_MeanSquareError:0.4294,times:207
+2022-11-22 22:34:41,147, INFO: in Episode 130 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 48.8226,V_MeanSquareError:0.4244,times:305
+2022-11-22 22:34:41,147, INFO: Has succes Sum_MeanSquareError:0.4244, nav_time: 30.50
+2022-11-22 22:35:49,406, INFO: in Episode 131 has success rate: 1.00, collision rate: 0.00, nav time: 32.40, total reward: 37.7713,V_MeanSquareError:0.5166,times:324
+2022-11-22 22:35:49,407, INFO: Has succes Sum_MeanSquareError:0.5166, nav_time: 32.40
+2022-11-22 22:36:32,407, INFO: in Episode 132 has success rate: 0.00, collision rate: 1.00, nav time: 20.20, total reward: 2.8768,V_MeanSquareError:0.6259,times:202
+2022-11-22 22:37:17,630, INFO: in Episode 133 has success rate: 0.00, collision rate: 1.00, nav time: 21.00, total reward: 23.9292,V_MeanSquareError:0.4632,times:210
+2022-11-22 22:38:22,514, INFO: in Episode 134 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 52.6770,V_MeanSquareError:0.4387,times:305
+2022-11-22 22:38:22,515, INFO: Has succes Sum_MeanSquareError:0.4387, nav_time: 30.50
+2022-11-22 22:39:05,246, INFO: in Episode 135 has success rate: 0.00, collision rate: 1.00, nav time: 19.20, total reward: 5.5915,V_MeanSquareError:0.4720,times:192
+2022-11-22 22:40:06,750, INFO: in Episode 136 has success rate: 0.00, collision rate: 1.00, nav time: 29.10, total reward: 30.3559,V_MeanSquareError:0.4957,times:291
+2022-11-22 22:41:07,177, INFO: in Episode 137 has success rate: 0.00, collision rate: 1.00, nav time: 28.70, total reward: -60.9500,V_MeanSquareError:0.9354,times:287
+2022-11-22 22:42:27,663, INFO: in Episode 138 has success rate: 1.00, collision rate: 0.00, nav time: 38.70, total reward: 0.2157,V_MeanSquareError:0.8099,times:387
+2022-11-22 22:42:27,663, INFO: Has succes Sum_MeanSquareError:0.8099, nav_time: 38.70
+2022-11-22 22:42:57,932, INFO: in Episode 139 has success rate: 0.00, collision rate: 1.00, nav time: 13.90, total reward: 20.1781,V_MeanSquareError:0.4186,times:139
+2022-11-22 22:44:00,965, INFO: in Episode 140 has success rate: 0.00, collision rate: 1.00, nav time: 28.80, total reward: 37.4546,V_MeanSquareError:0.4463,times:288
+2022-11-22 22:45:07,871, INFO: in Episode 141 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 42.6409,V_MeanSquareError:0.4491,times:305
+2022-11-22 22:45:07,871, INFO: Has succes Sum_MeanSquareError:0.4491, nav_time: 30.50
+2022-11-22 22:45:15,260, INFO: in Episode 142 has success rate: 0.00, collision rate: 1.00, nav time: 2.60, total reward: 1.9808,V_MeanSquareError:0.3621,times:26
+2022-11-22 22:45:59,896, INFO: in Episode 143 has success rate: 0.00, collision rate: 1.00, nav time: 20.80, total reward: 29.4870,V_MeanSquareError:0.4126,times:208
+2022-11-22 22:47:07,122, INFO: in Episode 144 has success rate: 1.00, collision rate: 0.00, nav time: 31.40, total reward: 41.6680,V_MeanSquareError:0.4560,times:314
+2022-11-22 22:47:07,122, INFO: Has succes Sum_MeanSquareError:0.4560, nav_time: 31.40
+2022-11-22 22:47:14,936, INFO: in Episode 145 has success rate: 0.00, collision rate: 1.00, nav time: 3.00, total reward: 1.9930,V_MeanSquareError:0.4185,times:30
+2022-11-22 22:48:21,336, INFO: in Episode 146 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 30.3208,V_MeanSquareError:0.4491,times:308
+2022-11-22 22:48:21,336, INFO: Has succes Sum_MeanSquareError:0.4491, nav_time: 30.80
+2022-11-22 22:49:31,258, INFO: in Episode 147 has success rate: 1.00, collision rate: 0.00, nav time: 31.70, total reward: 17.4889,V_MeanSquareError:0.5273,times:317
+2022-11-22 22:49:31,258, INFO: Has succes Sum_MeanSquareError:0.5273, nav_time: 31.70
+2022-11-22 22:50:36,816, INFO: in Episode 148 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 47.5090,V_MeanSquareError:0.4641,times:309
+2022-11-22 22:50:36,817, INFO: Has succes Sum_MeanSquareError:0.4641, nav_time: 30.90
+2022-11-22 22:51:44,108, INFO: in Episode 149 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 52.5802,V_MeanSquareError:0.4336,times:307
+2022-11-22 22:51:44,109, INFO: Has succes Sum_MeanSquareError:0.4336, nav_time: 30.70
+2022-11-22 22:52:51,249, INFO: in Episode 150 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 46.0589,V_MeanSquareError:0.5327,times:312
+2022-11-22 22:52:51,250, INFO: Has succes Sum_MeanSquareError:0.5327, nav_time: 31.20
+2022-11-22 22:52:59,517, INFO: in Episode 151 has success rate: 0.00, collision rate: 1.00, nav time: 2.70, total reward: 0.3620,V_MeanSquareError:0.4662,times:27
+2022-11-22 22:54:01,053, INFO: in Episode 152 has success rate: 1.00, collision rate: 0.00, nav time: 28.40, total reward: 47.8463,V_MeanSquareError:0.3608,times:284
+2022-11-22 22:54:01,054, INFO: Has succes Sum_MeanSquareError:0.3608, nav_time: 28.40
+2022-11-22 22:55:04,729, INFO: in Episode 153 has success rate: 1.00, collision rate: 0.00, nav time: 29.00, total reward: 62.4033,V_MeanSquareError:0.4058,times:290
+2022-11-22 22:55:04,730, INFO: Has succes Sum_MeanSquareError:0.4058, nav_time: 29.00
+2022-11-22 22:56:08,237, INFO: in Episode 154 has success rate: 1.00, collision rate: 0.00, nav time: 30.30, total reward: 46.4109,V_MeanSquareError:0.4228,times:303
+2022-11-22 22:56:08,237, INFO: Has succes Sum_MeanSquareError:0.4228, nav_time: 30.30
+2022-11-22 22:57:16,231, INFO: in Episode 155 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 44.0676,V_MeanSquareError:0.4314,times:309
+2022-11-22 22:57:16,232, INFO: Has succes Sum_MeanSquareError:0.4314, nav_time: 30.90
+2022-11-22 22:58:27,670, INFO: in Episode 156 has success rate: 1.00, collision rate: 0.00, nav time: 33.00, total reward: 47.4478,V_MeanSquareError:0.5429,times:330
+2022-11-22 22:58:27,671, INFO: Has succes Sum_MeanSquareError:0.5429, nav_time: 33.00
+2022-11-22 22:59:32,425, INFO: in Episode 157 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 38.0427,V_MeanSquareError:0.4368,times:305
+2022-11-22 22:59:32,425, INFO: Has succes Sum_MeanSquareError:0.4368, nav_time: 30.50
+2022-11-22 23:00:41,629, INFO: in Episode 158 has success rate: 1.00, collision rate: 0.00, nav time: 31.80, total reward: 33.7532,V_MeanSquareError:0.5062,times:318
+2022-11-22 23:00:41,629, INFO: Has succes Sum_MeanSquareError:0.5062, nav_time: 31.80
+2022-11-22 23:01:50,300, INFO: in Episode 159 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 42.9362,V_MeanSquareError:0.4478,times:309
+2022-11-22 23:01:50,300, INFO: Has succes Sum_MeanSquareError:0.4478, nav_time: 30.90
+2022-11-22 23:02:51,719, INFO: in Episode 160 has success rate: 1.00, collision rate: 0.00, nav time: 28.60, total reward: 54.9747,V_MeanSquareError:0.3811,times:286
+2022-11-22 23:02:51,719, INFO: Has succes Sum_MeanSquareError:0.3811, nav_time: 28.60
+2022-11-22 23:03:02,004, INFO: in Episode 161 has success rate: 0.00, collision rate: 1.00, nav time: 4.00, total reward: 1.6395,V_MeanSquareError:0.3564,times:40
+2022-11-22 23:03:33,554, INFO: in Episode 162 has success rate: 0.00, collision rate: 1.00, nav time: 14.30, total reward: 12.6700,V_MeanSquareError:0.4954,times:143
+2022-11-22 23:04:06,792, INFO: in Episode 163 has success rate: 0.00, collision rate: 1.00, nav time: 15.50, total reward: 29.5878,V_MeanSquareError:0.3844,times:155
+2022-11-22 23:05:18,764, INFO: in Episode 164 has success rate: 1.00, collision rate: 0.00, nav time: 32.60, total reward: 44.0983,V_MeanSquareError:0.5926,times:326
+2022-11-22 23:05:18,765, INFO: Has succes Sum_MeanSquareError:0.5926, nav_time: 32.60
+2022-11-22 23:05:28,494, INFO: in Episode 165 has success rate: 0.00, collision rate: 1.00, nav time: 3.30, total reward: -1.8436,V_MeanSquareError:0.4673,times:33
+2022-11-22 23:06:36,049, INFO: in Episode 166 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 50.6046,V_MeanSquareError:0.4444,times:309
+2022-11-22 23:06:36,050, INFO: Has succes Sum_MeanSquareError:0.4444, nav_time: 30.90
+2022-11-22 23:07:43,364, INFO: in Episode 167 has success rate: 1.00, collision rate: 0.00, nav time: 31.90, total reward: 40.3681,V_MeanSquareError:0.4432,times:319
+2022-11-22 23:07:43,364, INFO: Has succes Sum_MeanSquareError:0.4432, nav_time: 31.90
+2022-11-22 23:08:43,833, INFO: in Episode 168 has success rate: 0.00, collision rate: 1.00, nav time: 27.80, total reward: 42.3971,V_MeanSquareError:0.4436,times:278
+2022-11-22 23:09:48,754, INFO: in Episode 169 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 38.4067,V_MeanSquareError:0.4359,times:302
+2022-11-22 23:09:48,755, INFO: Has succes Sum_MeanSquareError:0.4359, nav_time: 30.20
+2022-11-22 23:10:36,461, INFO: in Episode 170 has success rate: 0.00, collision rate: 1.00, nav time: 21.80, total reward: -16.4425,V_MeanSquareError:0.5684,times:218
+2022-11-22 23:11:41,593, INFO: in Episode 171 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 33.9255,V_MeanSquareError:0.4433,times:310
+2022-11-22 23:11:41,594, INFO: Has succes Sum_MeanSquareError:0.4433, nav_time: 31.00
+2022-11-22 23:12:35,888, INFO: in Episode 172 has success rate: 0.00, collision rate: 1.00, nav time: 25.20, total reward: 31.8126,V_MeanSquareError:0.3951,times:252
+2022-11-22 23:13:41,179, INFO: in Episode 173 has success rate: 1.00, collision rate: 0.00, nav time: 30.30, total reward: 43.3831,V_MeanSquareError:0.4217,times:303
+2022-11-22 23:13:41,180, INFO: Has succes Sum_MeanSquareError:0.4217, nav_time: 30.30
+2022-11-22 23:14:18,066, INFO: in Episode 174 has success rate: 0.00, collision rate: 1.00, nav time: 16.60, total reward: -604.7633,V_MeanSquareError:0.6417,times:166
+2022-11-22 23:15:23,290, INFO: in Episode 175 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 46.4780,V_MeanSquareError:0.4839,times:308
+2022-11-22 23:15:23,290, INFO: Has succes Sum_MeanSquareError:0.4839, nav_time: 30.80
+2022-11-22 23:16:28,978, INFO: in Episode 176 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 52.7992,V_MeanSquareError:0.4439,times:302
+2022-11-22 23:16:28,978, INFO: Has succes Sum_MeanSquareError:0.4439, nav_time: 30.20
+2022-11-22 23:17:34,662, INFO: in Episode 177 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 46.9272,V_MeanSquareError:0.4714,times:309
+2022-11-22 23:17:34,662, INFO: Has succes Sum_MeanSquareError:0.4714, nav_time: 30.90
+2022-11-22 23:18:40,598, INFO: in Episode 178 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 47.8558,V_MeanSquareError:0.4305,times:307
+2022-11-22 23:18:40,598, INFO: Has succes Sum_MeanSquareError:0.4305, nav_time: 30.70
+2022-11-22 23:19:17,433, INFO: in Episode 179 has success rate: 0.00, collision rate: 1.00, nav time: 16.10, total reward: 29.9312,V_MeanSquareError:0.3940,times:161
+2022-11-22 23:19:54,955, INFO: in Episode 180 has success rate: 0.00, collision rate: 1.00, nav time: 17.40, total reward: -0.8389,V_MeanSquareError:0.7118,times:174
+2022-11-22 23:21:01,666, INFO: in Episode 181 has success rate: 1.00, collision rate: 0.00, nav time: 32.20, total reward: 29.2570,V_MeanSquareError:0.4764,times:322
+2022-11-22 23:21:01,666, INFO: Has succes Sum_MeanSquareError:0.4764, nav_time: 32.20
+2022-11-22 23:22:06,662, INFO: in Episode 182 has success rate: 1.00, collision rate: 0.00, nav time: 29.60, total reward: 45.9085,V_MeanSquareError:0.4590,times:296
+2022-11-22 23:22:06,663, INFO: Has succes Sum_MeanSquareError:0.4590, nav_time: 29.60
+2022-11-22 23:22:41,973, INFO: in Episode 183 has success rate: 0.00, collision rate: 1.00, nav time: 16.60, total reward: 27.7383,V_MeanSquareError:0.4093,times:166
+2022-11-22 23:23:21,521, INFO: in Episode 184 has success rate: 0.00, collision rate: 1.00, nav time: 17.50, total reward: 22.4160,V_MeanSquareError:0.4404,times:175
+2022-11-22 23:24:30,775, INFO: in Episode 185 has success rate: 1.00, collision rate: 0.00, nav time: 31.50, total reward: 48.0666,V_MeanSquareError:0.4582,times:315
+2022-11-22 23:24:30,776, INFO: Has succes Sum_MeanSquareError:0.4582, nav_time: 31.50
+2022-11-22 23:25:37,602, INFO: in Episode 186 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 46.6816,V_MeanSquareError:0.4377,times:309
+2022-11-22 23:25:37,602, INFO: Has succes Sum_MeanSquareError:0.4377, nav_time: 30.90
+2022-11-22 23:26:20,497, INFO: in Episode 187 has success rate: 0.00, collision rate: 1.00, nav time: 19.80, total reward: 38.3832,V_MeanSquareError:0.3567,times:198
+2022-11-22 23:27:21,138, INFO: in Episode 188 has success rate: 1.00, collision rate: 0.00, nav time: 28.10, total reward: 49.5629,V_MeanSquareError:0.3594,times:281
+2022-11-22 23:27:21,139, INFO: Has succes Sum_MeanSquareError:0.3594, nav_time: 28.10
+2022-11-22 23:28:28,330, INFO: in Episode 189 has success rate: 1.00, collision rate: 0.00, nav time: 31.80, total reward: 40.9240,V_MeanSquareError:0.4698,times:318
+2022-11-22 23:28:28,331, INFO: Has succes Sum_MeanSquareError:0.4698, nav_time: 31.80
+2022-11-22 23:29:36,169, INFO: in Episode 190 has success rate: 1.00, collision rate: 0.00, nav time: 31.50, total reward: 36.4047,V_MeanSquareError:0.5697,times:315
+2022-11-22 23:29:36,169, INFO: Has succes Sum_MeanSquareError:0.5697, nav_time: 31.50
+2022-11-22 23:29:44,028, INFO: in Episode 191 has success rate: 0.00, collision rate: 1.00, nav time: 2.90, total reward: 0.4487,V_MeanSquareError:0.4640,times:29
+2022-11-22 23:30:48,908, INFO: in Episode 192 has success rate: 0.00, collision rate: 1.00, nav time: 30.60, total reward: 46.3938,V_MeanSquareError:0.4296,times:306
+2022-11-22 23:31:25,574, INFO: in Episode 193 has success rate: 0.00, collision rate: 1.00, nav time: 16.70, total reward: 27.7221,V_MeanSquareError:0.4458,times:167
+2022-11-22 23:31:52,857, INFO: in Episode 194 has success rate: 0.00, collision rate: 1.00, nav time: 11.80, total reward: 33.8700,V_MeanSquareError:0.2577,times:118
+2022-11-22 23:32:01,950, INFO: in Episode 195 has success rate: 0.00, collision rate: 1.00, nav time: 2.80, total reward: 2.0915,V_MeanSquareError:0.3468,times:28
+2022-11-22 23:33:06,574, INFO: in Episode 196 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 55.1778,V_MeanSquareError:0.4288,times:302
+2022-11-22 23:33:06,574, INFO: Has succes Sum_MeanSquareError:0.4288, nav_time: 30.20
+2022-11-22 23:34:14,613, INFO: in Episode 197 has success rate: 1.00, collision rate: 0.00, nav time: 31.80, total reward: 31.9340,V_MeanSquareError:0.6036,times:318
+2022-11-22 23:34:14,613, INFO: Has succes Sum_MeanSquareError:0.6036, nav_time: 31.80
+2022-11-22 23:35:21,951, INFO: in Episode 198 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 43.2276,V_MeanSquareError:0.5061,times:312
+2022-11-22 23:35:21,951, INFO: Has succes Sum_MeanSquareError:0.5061, nav_time: 31.20
+2022-11-22 23:36:28,142, INFO: in Episode 199 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 47.2368,V_MeanSquareError:0.4413,times:307
+2022-11-22 23:36:28,143, INFO: Has succes Sum_MeanSquareError:0.4413, nav_time: 30.70
+2022-11-22 23:37:41,534, INFO: in Episode 200 has success rate: 1.00, collision rate: 0.00, nav time: 33.70, total reward: 31.9286,V_MeanSquareError:0.5742,times:337
+2022-11-22 23:37:41,535, INFO: Has succes Sum_MeanSquareError:0.5742, nav_time: 33.70
+2022-11-22 23:38:46,198, INFO: in Episode 201 has success rate: 1.00, collision rate: 0.00, nav time: 30.00, total reward: 50.5624,V_MeanSquareError:0.4360,times:300
+2022-11-22 23:38:46,198, INFO: Has succes Sum_MeanSquareError:0.4360, nav_time: 30.00
+2022-11-22 23:40:01,721, INFO: in Episode 202 has success rate: 1.00, collision rate: 0.00, nav time: 35.50, total reward: 30.4803,V_MeanSquareError:0.6179,times:355
+2022-11-22 23:40:01,722, INFO: Has succes Sum_MeanSquareError:0.6179, nav_time: 35.50
+2022-11-22 23:41:06,689, INFO: in Episode 203 has success rate: 1.00, collision rate: 0.00, nav time: 29.60, total reward: 53.8897,V_MeanSquareError:0.4091,times:296
+2022-11-22 23:41:06,689, INFO: Has succes Sum_MeanSquareError:0.4091, nav_time: 29.60
+2022-11-22 23:42:11,978, INFO: in Episode 204 has success rate: 1.00, collision rate: 0.00, nav time: 30.00, total reward: 49.1644,V_MeanSquareError:0.4451,times:300
+2022-11-22 23:42:11,979, INFO: Has succes Sum_MeanSquareError:0.4451, nav_time: 30.00
+2022-11-22 23:42:50,862, INFO: in Episode 205 has success rate: 0.00, collision rate: 1.00, nav time: 17.90, total reward: -18.9186,V_MeanSquareError:0.7965,times:179
+2022-11-22 23:43:38,524, INFO: in Episode 206 has success rate: 0.00, collision rate: 1.00, nav time: 21.40, total reward: 14.2546,V_MeanSquareError:0.5125,times:214
+2022-11-22 23:44:43,875, INFO: in Episode 207 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 47.1307,V_MeanSquareError:0.4513,times:312
+2022-11-22 23:44:43,876, INFO: Has succes Sum_MeanSquareError:0.4513, nav_time: 31.20
+2022-11-22 23:45:10,183, INFO: in Episode 208 has success rate: 0.00, collision rate: 1.00, nav time: 11.70, total reward: 31.5644,V_MeanSquareError:0.2544,times:117
+2022-11-22 23:46:16,361, INFO: in Episode 209 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 62.1070,V_MeanSquareError:0.4357,times:304
+2022-11-22 23:46:16,362, INFO: Has succes Sum_MeanSquareError:0.4357, nav_time: 30.40
+2022-11-22 23:47:24,890, INFO: in Episode 210 has success rate: 1.00, collision rate: 0.00, nav time: 31.30, total reward: 44.8478,V_MeanSquareError:0.4558,times:313
+2022-11-22 23:47:24,891, INFO: Has succes Sum_MeanSquareError:0.4558, nav_time: 31.30
+2022-11-22 23:48:44,319, INFO: in Episode 211 has success rate: 1.00, collision rate: 0.00, nav time: 37.70, total reward: 20.6810,V_MeanSquareError:0.8622,times:377
+2022-11-22 23:48:44,319, INFO: Has succes Sum_MeanSquareError:0.8622, nav_time: 37.70
+2022-11-22 23:49:51,405, INFO: in Episode 212 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 40.9590,V_MeanSquareError:0.4580,times:310
+2022-11-22 23:49:51,405, INFO: Has succes Sum_MeanSquareError:0.4580, nav_time: 31.00
+2022-11-22 23:49:55,534, INFO: in Episode 213 has success rate: 0.00, collision rate: 1.00, nav time: 1.60, total reward: -9.1386,V_MeanSquareError:0.5176,times:16
+2022-11-22 23:50:41,050, INFO: in Episode 214 has success rate: 0.00, collision rate: 1.00, nav time: 20.80, total reward: 1.6327,V_MeanSquareError:0.5214,times:208
+2022-11-22 23:51:54,757, INFO: in Episode 215 has success rate: 1.00, collision rate: 0.00, nav time: 34.00, total reward: 16.9628,V_MeanSquareError:0.5271,times:340
+2022-11-22 23:51:54,757, INFO: Has succes Sum_MeanSquareError:0.5271, nav_time: 34.00
+2022-11-22 23:52:59,614, INFO: in Episode 216 has success rate: 1.00, collision rate: 0.00, nav time: 29.40, total reward: 54.4422,V_MeanSquareError:0.4118,times:294
+2022-11-22 23:52:59,615, INFO: Has succes Sum_MeanSquareError:0.4118, nav_time: 29.40
+2022-11-22 23:54:08,528, INFO: in Episode 217 has success rate: 1.00, collision rate: 0.00, nav time: 31.90, total reward: 33.6226,V_MeanSquareError:0.5126,times:319
+2022-11-22 23:54:08,528, INFO: Has succes Sum_MeanSquareError:0.5126, nav_time: 31.90
+2022-11-22 23:54:51,978, INFO: in Episode 218 has success rate: 0.00, collision rate: 1.00, nav time: 20.00, total reward: 21.1298,V_MeanSquareError:0.4811,times:200
+2022-11-22 23:55:48,691, INFO: in Episode 219 has success rate: 0.00, collision rate: 1.00, nav time: 26.50, total reward: 34.0836,V_MeanSquareError:0.4121,times:265
+2022-11-22 23:56:50,820, INFO: in Episode 220 has success rate: 1.00, collision rate: 0.00, nav time: 28.90, total reward: 49.6380,V_MeanSquareError:0.4350,times:289
+2022-11-22 23:56:50,821, INFO: Has succes Sum_MeanSquareError:0.4350, nav_time: 28.90
+2022-11-22 23:57:21,154, INFO: in Episode 221 has success rate: 0.00, collision rate: 1.00, nav time: 13.80, total reward: 6.3905,V_MeanSquareError:0.4608,times:138
+2022-11-22 23:58:30,812, INFO: in Episode 222 has success rate: 1.00, collision rate: 0.00, nav time: 31.90, total reward: 45.1087,V_MeanSquareError:0.4825,times:319
+2022-11-22 23:58:30,812, INFO: Has succes Sum_MeanSquareError:0.4825, nav_time: 31.90
+2022-11-22 23:59:12,663, INFO: in Episode 223 has success rate: 0.00, collision rate: 1.00, nav time: 18.60, total reward: -3.7217,V_MeanSquareError:0.4842,times:186
+2022-11-23 00:00:14,665, INFO: in Episode 224 has success rate: 1.00, collision rate: 0.00, nav time: 29.10, total reward: 40.1917,V_MeanSquareError:0.3705,times:291
+2022-11-23 00:00:14,665, INFO: Has succes Sum_MeanSquareError:0.3705, nav_time: 29.10
+2022-11-23 00:01:22,661, INFO: in Episode 225 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 52.6362,V_MeanSquareError:0.4433,times:306
+2022-11-23 00:01:22,661, INFO: Has succes Sum_MeanSquareError:0.4433, nav_time: 30.60
+2022-11-23 00:02:38,993, INFO: in Episode 226 has success rate: 1.00, collision rate: 0.00, nav time: 36.20, total reward: 0.5389,V_MeanSquareError:0.8781,times:362
+2022-11-23 00:02:38,994, INFO: Has succes Sum_MeanSquareError:0.8781, nav_time: 36.20
+2022-11-23 00:03:42,398, INFO: in Episode 227 has success rate: 1.00, collision rate: 0.00, nav time: 29.40, total reward: 51.2820,V_MeanSquareError:0.4176,times:294
+2022-11-23 00:03:42,398, INFO: Has succes Sum_MeanSquareError:0.4176, nav_time: 29.40
+2022-11-23 00:04:57,249, INFO: in Episode 228 has success rate: 1.00, collision rate: 0.00, nav time: 34.80, total reward: 14.5877,V_MeanSquareError:0.5983,times:348
+2022-11-23 00:04:57,249, INFO: Has succes Sum_MeanSquareError:0.5983, nav_time: 34.80
+2022-11-23 00:06:05,848, INFO: in Episode 229 has success rate: 1.00, collision rate: 0.00, nav time: 31.80, total reward: 42.6842,V_MeanSquareError:0.4774,times:318
+2022-11-23 00:06:05,848, INFO: Has succes Sum_MeanSquareError:0.4774, nav_time: 31.80
+2022-11-23 00:07:13,511, INFO: in Episode 230 has success rate: 1.00, collision rate: 0.00, nav time: 31.10, total reward: 58.2788,V_MeanSquareError:0.5452,times:311
+2022-11-23 00:07:13,511, INFO: Has succes Sum_MeanSquareError:0.5452, nav_time: 31.10
+2022-11-23 00:08:25,728, INFO: in Episode 231 has success rate: 1.00, collision rate: 0.00, nav time: 33.80, total reward: 36.3367,V_MeanSquareError:0.5316,times:338
+2022-11-23 00:08:25,728, INFO: Has succes Sum_MeanSquareError:0.5316, nav_time: 33.80
+2022-11-23 00:09:31,342, INFO: in Episode 232 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 37.0441,V_MeanSquareError:0.4421,times:308
+2022-11-23 00:09:31,343, INFO: Has succes Sum_MeanSquareError:0.4421, nav_time: 30.80
+2022-11-23 00:10:38,348, INFO: in Episode 233 has success rate: 1.00, collision rate: 0.00, nav time: 30.10, total reward: 36.2624,V_MeanSquareError:0.5093,times:301
+2022-11-23 00:10:38,348, INFO: Has succes Sum_MeanSquareError:0.5093, nav_time: 30.10
+2022-11-23 00:11:02,256, INFO: in Episode 234 has success rate: 0.00, collision rate: 1.00, nav time: 11.00, total reward: 26.2167,V_MeanSquareError:0.2827,times:110
+2022-11-23 00:12:07,932, INFO: in Episode 235 has success rate: 1.00, collision rate: 0.00, nav time: 30.00, total reward: 54.2857,V_MeanSquareError:0.4480,times:300
+2022-11-23 00:12:07,932, INFO: Has succes Sum_MeanSquareError:0.4480, nav_time: 30.00
+2022-11-23 00:13:15,108, INFO: in Episode 236 has success rate: 1.00, collision rate: 0.00, nav time: 31.10, total reward: 28.4056,V_MeanSquareError:0.4323,times:311
+2022-11-23 00:13:15,108, INFO: Has succes Sum_MeanSquareError:0.4323, nav_time: 31.10
+2022-11-23 00:14:19,639, INFO: in Episode 237 has success rate: 1.00, collision rate: 0.00, nav time: 29.10, total reward: 52.9841,V_MeanSquareError:0.4186,times:291
+2022-11-23 00:14:19,640, INFO: Has succes Sum_MeanSquareError:0.4186, nav_time: 29.10
+2022-11-23 00:15:17,561, INFO: in Episode 238 has success rate: 0.00, collision rate: 1.00, nav time: 26.10, total reward: 20.3099,V_MeanSquareError:0.4564,times:261
+2022-11-23 00:16:23,375, INFO: in Episode 239 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 54.2466,V_MeanSquareError:0.4659,times:308
+2022-11-23 00:16:23,376, INFO: Has succes Sum_MeanSquareError:0.4659, nav_time: 30.80
+2022-11-23 00:17:30,030, INFO: in Episode 240 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 47.9500,V_MeanSquareError:0.4383,times:308
+2022-11-23 00:17:30,030, INFO: Has succes Sum_MeanSquareError:0.4383, nav_time: 30.80
+2022-11-23 00:18:39,997, INFO: in Episode 241 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 35.6496,V_MeanSquareError:0.5021,times:312
+2022-11-23 00:18:39,998, INFO: Has succes Sum_MeanSquareError:0.5021, nav_time: 31.20
+2022-11-23 00:19:49,085, INFO: in Episode 242 has success rate: 1.00, collision rate: 0.00, nav time: 31.70, total reward: 45.3514,V_MeanSquareError:0.4633,times:317
+2022-11-23 00:19:49,085, INFO: Has succes Sum_MeanSquareError:0.4633, nav_time: 31.70
+2022-11-23 00:20:59,690, INFO: in Episode 243 has success rate: 1.00, collision rate: 0.00, nav time: 32.00, total reward: 42.2512,V_MeanSquareError:0.5450,times:320
+2022-11-23 00:20:59,691, INFO: Has succes Sum_MeanSquareError:0.5450, nav_time: 32.00
+2022-11-23 00:21:42,917, INFO: in Episode 244 has success rate: 0.00, collision rate: 1.00, nav time: 20.70, total reward: 21.8043,V_MeanSquareError:0.5479,times:207
+2022-11-23 00:22:11,201, INFO: in Episode 245 has success rate: 0.00, collision rate: 1.00, nav time: 12.60, total reward: 25.4967,V_MeanSquareError:0.2781,times:126
+2022-11-23 00:22:34,786, INFO: in Episode 246 has success rate: 0.00, collision rate: 1.00, nav time: 10.80, total reward: 29.3807,V_MeanSquareError:0.2287,times:108
+2022-11-23 00:23:19,761, INFO: in Episode 247 has success rate: 0.00, collision rate: 1.00, nav time: 20.40, total reward: 14.7287,V_MeanSquareError:0.6282,times:204
+2022-11-23 00:23:56,869, INFO: in Episode 248 has success rate: 0.00, collision rate: 1.00, nav time: 17.20, total reward: 25.6454,V_MeanSquareError:0.4232,times:172
+2022-11-23 00:25:10,760, INFO: in Episode 249 has success rate: 1.00, collision rate: 0.00, nav time: 34.00, total reward: 38.7121,V_MeanSquareError:0.5944,times:340
+2022-11-23 00:25:10,761, INFO: Has succes Sum_MeanSquareError:0.5944, nav_time: 34.00
+2022-11-23 00:25:17,257, INFO: in Episode 250 has success rate: 0.00, collision rate: 1.00, nav time: 2.60, total reward: 1.5904,V_MeanSquareError:0.4314,times:26
+2022-11-23 00:26:22,226, INFO: in Episode 251 has success rate: 1.00, collision rate: 0.00, nav time: 29.60, total reward: 49.3967,V_MeanSquareError:0.4618,times:296
+2022-11-23 00:26:22,226, INFO: Has succes Sum_MeanSquareError:0.4618, nav_time: 29.60
+2022-11-23 00:27:25,379, INFO: in Episode 252 has success rate: 1.00, collision rate: 0.00, nav time: 28.30, total reward: 56.7591,V_MeanSquareError:0.3618,times:283
+2022-11-23 00:27:25,380, INFO: Has succes Sum_MeanSquareError:0.3618, nav_time: 28.30
+2022-11-23 00:28:29,121, INFO: in Episode 253 has success rate: 1.00, collision rate: 0.00, nav time: 29.70, total reward: 51.5272,V_MeanSquareError:0.4133,times:297
+2022-11-23 00:28:29,121, INFO: Has succes Sum_MeanSquareError:0.4133, nav_time: 29.70
+2022-11-23 00:29:40,881, INFO: in Episode 254 has success rate: 1.00, collision rate: 0.00, nav time: 33.30, total reward: 39.0086,V_MeanSquareError:0.7243,times:333
+2022-11-23 00:29:40,881, INFO: Has succes Sum_MeanSquareError:0.7243, nav_time: 33.30
+2022-11-23 00:30:12,659, INFO: in Episode 255 has success rate: 0.00, collision rate: 1.00, nav time: 13.40, total reward: 8.3199,V_MeanSquareError:0.3579,times:134
+2022-11-23 00:31:21,459, INFO: in Episode 256 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 46.8228,V_MeanSquareError:0.4516,times:309
+2022-11-23 00:31:21,459, INFO: Has succes Sum_MeanSquareError:0.4516, nav_time: 30.90
+2022-11-23 00:32:30,354, INFO: in Episode 257 has success rate: 1.00, collision rate: 0.00, nav time: 32.20, total reward: 37.3140,V_MeanSquareError:0.5886,times:322
+2022-11-23 00:32:30,354, INFO: Has succes Sum_MeanSquareError:0.5886, nav_time: 32.20
+2022-11-23 00:33:30,989, INFO: in Episode 258 has success rate: 1.00, collision rate: 0.00, nav time: 28.00, total reward: 57.2231,V_MeanSquareError:0.3594,times:280
+2022-11-23 00:33:30,989, INFO: Has succes Sum_MeanSquareError:0.3594, nav_time: 28.00
+2022-11-23 00:34:35,535, INFO: in Episode 259 has success rate: 0.00, collision rate: 1.00, nav time: 29.70, total reward: 30.5269,V_MeanSquareError:0.6281,times:297
+2022-11-23 00:34:44,992, INFO: in Episode 260 has success rate: 0.00, collision rate: 1.00, nav time: 4.00, total reward: 2.3291,V_MeanSquareError:0.4431,times:40
+2022-11-23 00:35:55,277, INFO: in Episode 261 has success rate: 1.00, collision rate: 0.00, nav time: 32.80, total reward: 22.9592,V_MeanSquareError:0.5146,times:328
+2022-11-23 00:35:55,278, INFO: Has succes Sum_MeanSquareError:0.5146, nav_time: 32.80
+2022-11-23 00:37:07,011, INFO: in Episode 262 has success rate: 1.00, collision rate: 0.00, nav time: 32.90, total reward: 28.3091,V_MeanSquareError:0.5098,times:329
+2022-11-23 00:37:07,011, INFO: Has succes Sum_MeanSquareError:0.5098, nav_time: 32.90
+2022-11-23 00:37:44,710, INFO: in Episode 263 has success rate: 0.00, collision rate: 1.00, nav time: 17.30, total reward: 23.3123,V_MeanSquareError:0.4294,times:173
+2022-11-23 00:38:46,121, INFO: in Episode 264 has success rate: 1.00, collision rate: 0.00, nav time: 27.80, total reward: 63.6134,V_MeanSquareError:0.3597,times:278
+2022-11-23 00:38:46,122, INFO: Has succes Sum_MeanSquareError:0.3597, nav_time: 27.80
+2022-11-23 00:39:14,905, INFO: in Episode 265 has success rate: 0.00, collision rate: 1.00, nav time: 12.70, total reward: 33.7425,V_MeanSquareError:0.3082,times:127
+2022-11-23 00:40:01,224, INFO: in Episode 266 has success rate: 0.00, collision rate: 1.00, nav time: 21.60, total reward: 21.7334,V_MeanSquareError:0.8796,times:216
+2022-11-23 00:40:07,389, INFO: in Episode 267 has success rate: 0.00, collision rate: 1.00, nav time: 2.40, total reward: 1.6972,V_MeanSquareError:0.4146,times:24
+2022-11-23 00:41:06,800, INFO: in Episode 268 has success rate: 1.00, collision rate: 0.00, nav time: 28.10, total reward: 44.0413,V_MeanSquareError:0.3543,times:281
+2022-11-23 00:41:06,800, INFO: Has succes Sum_MeanSquareError:0.3543, nav_time: 28.10
+2022-11-23 00:42:09,040, INFO: in Episode 269 has success rate: 1.00, collision rate: 0.00, nav time: 28.50, total reward: 48.2316,V_MeanSquareError:0.3680,times:285
+2022-11-23 00:42:09,040, INFO: Has succes Sum_MeanSquareError:0.3680, nav_time: 28.50
+2022-11-23 00:43:17,503, INFO: in Episode 270 has success rate: 1.00, collision rate: 0.00, nav time: 32.10, total reward: 40.5201,V_MeanSquareError:0.4672,times:321
+2022-11-23 00:43:17,503, INFO: Has succes Sum_MeanSquareError:0.4672, nav_time: 32.10
+2022-11-23 00:44:15,420, INFO: in Episode 271 has success rate: 0.00, collision rate: 1.00, nav time: 26.70, total reward: 42.8084,V_MeanSquareError:0.4820,times:267
+2022-11-23 00:45:26,880, INFO: in Episode 272 has success rate: 1.00, collision rate: 0.00, nav time: 32.90, total reward: 24.4921,V_MeanSquareError:0.5237,times:329
+2022-11-23 00:45:26,881, INFO: Has succes Sum_MeanSquareError:0.5237, nav_time: 32.90
+2022-11-23 00:46:38,137, INFO: in Episode 273 has success rate: 1.00, collision rate: 0.00, nav time: 31.90, total reward: 54.8992,V_MeanSquareError:0.5601,times:319
+2022-11-23 00:46:38,138, INFO: Has succes Sum_MeanSquareError:0.5601, nav_time: 31.90
+2022-11-23 00:46:45,161, INFO: in Episode 274 has success rate: 0.00, collision rate: 1.00, nav time: 2.90, total reward: 2.0959,V_MeanSquareError:0.3782,times:29
+2022-11-23 00:47:47,684, INFO: in Episode 275 has success rate: 1.00, collision rate: 0.00, nav time: 28.60, total reward: 52.6792,V_MeanSquareError:0.3949,times:286
+2022-11-23 00:47:47,684, INFO: Has succes Sum_MeanSquareError:0.3949, nav_time: 28.60
+2022-11-23 00:48:49,420, INFO: in Episode 276 has success rate: 0.00, collision rate: 1.00, nav time: 29.00, total reward: 46.2497,V_MeanSquareError:0.4525,times:290
+2022-11-23 00:50:00,300, INFO: in Episode 277 has success rate: 1.00, collision rate: 0.00, nav time: 32.40, total reward: 50.1454,V_MeanSquareError:0.5488,times:324
+2022-11-23 00:50:00,301, INFO: Has succes Sum_MeanSquareError:0.5488, nav_time: 32.40
+2022-11-23 00:50:07,431, INFO: in Episode 278 has success rate: 0.00, collision rate: 1.00, nav time: 2.80, total reward: 1.7894,V_MeanSquareError:0.4192,times:28
+2022-11-23 00:50:37,673, INFO: in Episode 279 has success rate: 0.00, collision rate: 1.00, nav time: 12.90, total reward: 23.8556,V_MeanSquareError:0.3069,times:129
+2022-11-23 00:51:48,356, INFO: in Episode 280 has success rate: 1.00, collision rate: 0.00, nav time: 32.00, total reward: 40.9839,V_MeanSquareError:0.4855,times:320
+2022-11-23 00:51:48,356, INFO: Has succes Sum_MeanSquareError:0.4855, nav_time: 32.00
+2022-11-23 00:52:32,260, INFO: in Episode 281 has success rate: 0.00, collision rate: 1.00, nav time: 19.70, total reward: -1.6360,V_MeanSquareError:0.6141,times:197
+2022-11-23 00:53:39,631, INFO: in Episode 282 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 42.0567,V_MeanSquareError:0.4875,times:304
+2022-11-23 00:53:39,631, INFO: Has succes Sum_MeanSquareError:0.4875, nav_time: 30.40
+2022-11-23 00:54:52,934, INFO: in Episode 283 has success rate: 1.00, collision rate: 0.00, nav time: 32.30, total reward: 45.8471,V_MeanSquareError:0.5872,times:323
+2022-11-23 00:54:52,934, INFO: Has succes Sum_MeanSquareError:0.5872, nav_time: 32.30
+2022-11-23 00:56:08,182, INFO: in Episode 284 has success rate: 1.00, collision rate: 0.00, nav time: 33.50, total reward: 41.4754,V_MeanSquareError:0.5774,times:335
+2022-11-23 00:56:08,182, INFO: Has succes Sum_MeanSquareError:0.5774, nav_time: 33.50
+2022-11-23 00:56:33,275, INFO: in Episode 285 has success rate: 0.00, collision rate: 1.00, nav time: 10.70, total reward: 31.1518,V_MeanSquareError:0.2345,times:107
+2022-11-23 00:57:50,223, INFO: in Episode 286 has success rate: 1.00, collision rate: 0.00, nav time: 34.30, total reward: 46.0827,V_MeanSquareError:0.6618,times:343
+2022-11-23 00:57:50,224, INFO: Has succes Sum_MeanSquareError:0.6618, nav_time: 34.30
+2022-11-23 00:58:57,767, INFO: in Episode 287 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 46.6426,V_MeanSquareError:0.4519,times:308
+2022-11-23 00:58:57,767, INFO: Has succes Sum_MeanSquareError:0.4519, nav_time: 30.80
+2022-11-23 01:00:10,520, INFO: in Episode 288 has success rate: 1.00, collision rate: 0.00, nav time: 32.60, total reward: 51.9481,V_MeanSquareError:0.5451,times:326
+2022-11-23 01:00:10,520, INFO: Has succes Sum_MeanSquareError:0.5451, nav_time: 32.60
+2022-11-23 01:00:48,347, INFO: in Episode 289 has success rate: 0.00, collision rate: 1.00, nav time: 16.70, total reward: 26.9292,V_MeanSquareError:0.4297,times:167
+2022-11-23 01:01:57,976, INFO: in Episode 290 has success rate: 1.00, collision rate: 0.00, nav time: 31.70, total reward: 43.7404,V_MeanSquareError:0.4872,times:317
+2022-11-23 01:01:57,976, INFO: Has succes Sum_MeanSquareError:0.4872, nav_time: 31.70
+2022-11-23 01:03:05,536, INFO: in Episode 291 has success rate: 1.00, collision rate: 0.00, nav time: 30.10, total reward: 52.0597,V_MeanSquareError:0.4156,times:301
+2022-11-23 01:03:05,537, INFO: Has succes Sum_MeanSquareError:0.4156, nav_time: 30.10
+2022-11-23 01:04:15,067, INFO: in Episode 292 has success rate: 1.00, collision rate: 0.00, nav time: 31.80, total reward: 48.4132,V_MeanSquareError:0.5546,times:318
+2022-11-23 01:04:15,068, INFO: Has succes Sum_MeanSquareError:0.5546, nav_time: 31.80
+2022-11-23 01:05:32,788, INFO: in Episode 293 has success rate: 1.00, collision rate: 0.00, nav time: 35.40, total reward: 11.7438,V_MeanSquareError:0.7458,times:354
+2022-11-23 01:05:32,788, INFO: Has succes Sum_MeanSquareError:0.7458, nav_time: 35.40
+2022-11-23 01:06:35,623, INFO: in Episode 294 has success rate: 1.00, collision rate: 0.00, nav time: 28.60, total reward: 47.5777,V_MeanSquareError:0.3835,times:286
+2022-11-23 01:06:35,623, INFO: Has succes Sum_MeanSquareError:0.3835, nav_time: 28.60
+2022-11-23 01:07:11,053, INFO: in Episode 295 has success rate: 0.00, collision rate: 1.00, nav time: 16.70, total reward: 23.8990,V_MeanSquareError:0.4408,times:167
+2022-11-23 01:08:17,447, INFO: in Episode 296 has success rate: 1.00, collision rate: 0.00, nav time: 29.80, total reward: 50.7805,V_MeanSquareError:0.4259,times:298
+2022-11-23 01:08:17,447, INFO: Has succes Sum_MeanSquareError:0.4259, nav_time: 29.80
+2022-11-23 01:09:27,520, INFO: in Episode 297 has success rate: 1.00, collision rate: 0.00, nav time: 31.50, total reward: 38.7231,V_MeanSquareError:0.6125,times:315
+2022-11-23 01:09:27,520, INFO: Has succes Sum_MeanSquareError:0.6125, nav_time: 31.50
+2022-11-23 01:09:34,127, INFO: in Episode 298 has success rate: 0.00, collision rate: 1.00, nav time: 2.30, total reward: 1.8036,V_MeanSquareError:0.3550,times:23
+2022-11-23 01:10:46,006, INFO: in Episode 299 has success rate: 1.00, collision rate: 0.00, nav time: 33.90, total reward: 16.9542,V_MeanSquareError:0.7319,times:339
+2022-11-23 01:10:46,006, INFO: Has succes Sum_MeanSquareError:0.7319, nav_time: 33.90
+2022-11-23 01:11:23,139, INFO: in Episode 300 has success rate: 0.00, collision rate: 1.00, nav time: 16.50, total reward: 35.0504,V_MeanSquareError:0.5019,times:165
+2022-11-23 01:12:26,566, INFO: in Episode 301 has success rate: 1.00, collision rate: 0.00, nav time: 29.30, total reward: 53.8438,V_MeanSquareError:0.4096,times:293
+2022-11-23 01:12:26,567, INFO: Has succes Sum_MeanSquareError:0.4096, nav_time: 29.30
+2022-11-23 01:13:37,194, INFO: in Episode 302 has success rate: 1.00, collision rate: 0.00, nav time: 32.10, total reward: 55.2779,V_MeanSquareError:0.5380,times:321
+2022-11-23 01:13:37,195, INFO: Has succes Sum_MeanSquareError:0.5380, nav_time: 32.10
+2022-11-23 01:14:43,686, INFO: in Episode 303 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 51.9075,V_MeanSquareError:0.4908,times:312
+2022-11-23 01:14:43,687, INFO: Has succes Sum_MeanSquareError:0.4908, nav_time: 31.20
+2022-11-23 01:15:21,266, INFO: in Episode 304 has success rate: 0.00, collision rate: 1.00, nav time: 16.80, total reward: 30.2691,V_MeanSquareError:0.4006,times:168
+2022-11-23 01:16:24,876, INFO: in Episode 305 has success rate: 0.00, collision rate: 1.00, nav time: 29.60, total reward: 48.3274,V_MeanSquareError:0.5039,times:296
+2022-11-23 01:17:27,746, INFO: in Episode 306 has success rate: 1.00, collision rate: 0.00, nav time: 29.70, total reward: 51.8202,V_MeanSquareError:0.4210,times:297
+2022-11-23 01:17:27,747, INFO: Has succes Sum_MeanSquareError:0.4210, nav_time: 29.70
+2022-11-23 01:18:31,900, INFO: in Episode 307 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 42.5517,V_MeanSquareError:0.5144,times:302
+2022-11-23 01:18:31,900, INFO: Has succes Sum_MeanSquareError:0.5144, nav_time: 30.20
+2022-11-23 01:19:33,842, INFO: in Episode 308 has success rate: 1.00, collision rate: 0.00, nav time: 28.30, total reward: 57.3860,V_MeanSquareError:0.3791,times:283
+2022-11-23 01:19:33,843, INFO: Has succes Sum_MeanSquareError:0.3791, nav_time: 28.30
+2022-11-23 01:20:36,526, INFO: in Episode 309 has success rate: 1.00, collision rate: 0.00, nav time: 29.40, total reward: 54.8586,V_MeanSquareError:0.4112,times:294
+2022-11-23 01:20:36,526, INFO: Has succes Sum_MeanSquareError:0.4112, nav_time: 29.40
+2022-11-23 01:21:03,255, INFO: in Episode 310 has success rate: 0.00, collision rate: 1.00, nav time: 11.40, total reward: 34.1241,V_MeanSquareError:0.2664,times:114
+2022-11-23 01:22:09,928, INFO: in Episode 311 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 47.9762,V_MeanSquareError:0.4858,times:310
+2022-11-23 01:22:09,929, INFO: Has succes Sum_MeanSquareError:0.4858, nav_time: 31.00
+2022-11-23 01:23:14,669, INFO: in Episode 312 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 49.1141,V_MeanSquareError:0.4730,times:307
+2022-11-23 01:23:14,670, INFO: Has succes Sum_MeanSquareError:0.4730, nav_time: 30.70
+2022-11-23 01:24:24,832, INFO: in Episode 313 has success rate: 1.00, collision rate: 0.00, nav time: 32.40, total reward: 51.0645,V_MeanSquareError:0.5773,times:324
+2022-11-23 01:24:24,832, INFO: Has succes Sum_MeanSquareError:0.5773, nav_time: 32.40
+2022-11-23 01:25:36,547, INFO: in Episode 314 has success rate: 1.00, collision rate: 0.00, nav time: 32.20, total reward: 36.6553,V_MeanSquareError:0.5283,times:322
+2022-11-23 01:25:36,547, INFO: Has succes Sum_MeanSquareError:0.5283, nav_time: 32.20
+2022-11-23 01:26:41,201, INFO: in Episode 315 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 50.1508,V_MeanSquareError:0.4609,times:302
+2022-11-23 01:26:41,201, INFO: Has succes Sum_MeanSquareError:0.4609, nav_time: 30.20
+2022-11-23 01:27:50,212, INFO: in Episode 316 has success rate: 1.00, collision rate: 0.00, nav time: 32.20, total reward: 15.5814,V_MeanSquareError:0.5586,times:322
+2022-11-23 01:27:50,212, INFO: Has succes Sum_MeanSquareError:0.5586, nav_time: 32.20
+2022-11-23 01:28:55,021, INFO: in Episode 317 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 59.7600,V_MeanSquareError:0.4254,times:304
+2022-11-23 01:28:55,022, INFO: Has succes Sum_MeanSquareError:0.4254, nav_time: 30.40
+2022-11-23 01:29:56,876, INFO: in Episode 318 has success rate: 1.00, collision rate: 0.00, nav time: 28.90, total reward: 52.8349,V_MeanSquareError:0.3955,times:289
+2022-11-23 01:29:56,876, INFO: Has succes Sum_MeanSquareError:0.3955, nav_time: 28.90
+2022-11-23 01:31:04,083, INFO: in Episode 319 has success rate: 1.00, collision rate: 0.00, nav time: 31.50, total reward: 39.8079,V_MeanSquareError:0.4995,times:315
+2022-11-23 01:31:04,083, INFO: Has succes Sum_MeanSquareError:0.4995, nav_time: 31.50
+2022-11-23 01:31:38,517, INFO: in Episode 320 has success rate: 0.00, collision rate: 1.00, nav time: 14.80, total reward: 33.8195,V_MeanSquareError:0.6015,times:148
+2022-11-23 01:32:47,198, INFO: in Episode 321 has success rate: 1.00, collision rate: 0.00, nav time: 32.30, total reward: 39.9272,V_MeanSquareError:0.5045,times:323
+2022-11-23 01:32:47,198, INFO: Has succes Sum_MeanSquareError:0.5045, nav_time: 32.30
+2022-11-23 01:33:53,221, INFO: in Episode 322 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 53.4680,V_MeanSquareError:0.4386,times:306
+2022-11-23 01:33:53,221, INFO: Has succes Sum_MeanSquareError:0.4386, nav_time: 30.60
+2022-11-23 01:35:02,925, INFO: in Episode 323 has success rate: 1.00, collision rate: 0.00, nav time: 32.30, total reward: 49.3482,V_MeanSquareError:0.5784,times:323
+2022-11-23 01:35:02,926, INFO: Has succes Sum_MeanSquareError:0.5784, nav_time: 32.30
+2022-11-23 01:36:07,123, INFO: in Episode 324 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 44.9658,V_MeanSquareError:0.4124,times:304
+2022-11-23 01:36:07,123, INFO: Has succes Sum_MeanSquareError:0.4124, nav_time: 30.40
+2022-11-23 01:37:14,485, INFO: in Episode 325 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 44.1912,V_MeanSquareError:0.4647,times:304
+2022-11-23 01:37:14,485, INFO: Has succes Sum_MeanSquareError:0.4647, nav_time: 30.40
+2022-11-23 01:38:18,561, INFO: in Episode 326 has success rate: 1.00, collision rate: 0.00, nav time: 29.20, total reward: 58.0547,V_MeanSquareError:0.3989,times:292
+2022-11-23 01:38:18,562, INFO: Has succes Sum_MeanSquareError:0.3989, nav_time: 29.20
+2022-11-23 01:39:27,349, INFO: in Episode 327 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 46.5762,V_MeanSquareError:0.4983,times:306
+2022-11-23 01:39:27,350, INFO: Has succes Sum_MeanSquareError:0.4983, nav_time: 30.60
+2022-11-23 01:40:32,060, INFO: in Episode 328 has success rate: 1.00, collision rate: 0.00, nav time: 29.30, total reward: 55.2926,V_MeanSquareError:0.4366,times:293
+2022-11-23 01:40:32,061, INFO: Has succes Sum_MeanSquareError:0.4366, nav_time: 29.30
+2022-11-23 01:41:53,051, INFO: in Episode 329 has success rate: 1.00, collision rate: 0.00, nav time: 37.40, total reward: 18.2305,V_MeanSquareError:0.8699,times:374
+2022-11-23 01:41:53,051, INFO: Has succes Sum_MeanSquareError:0.8699, nav_time: 37.40
+2022-11-23 01:42:00,982, INFO: in Episode 330 has success rate: 0.00, collision rate: 1.00, nav time: 2.90, total reward: 2.2239,V_MeanSquareError:0.3474,times:29
+2022-11-23 01:43:09,925, INFO: in Episode 331 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 52.4987,V_MeanSquareError:0.4701,times:312
+2022-11-23 01:43:09,925, INFO: Has succes Sum_MeanSquareError:0.4701, nav_time: 31.20
+2022-11-23 01:44:19,919, INFO: in Episode 332 has success rate: 1.00, collision rate: 0.00, nav time: 31.40, total reward: 40.6527,V_MeanSquareError:0.4636,times:314
+2022-11-23 01:44:19,920, INFO: Has succes Sum_MeanSquareError:0.4636, nav_time: 31.40
+2022-11-23 01:45:40,536, INFO: in Episode 333 has success rate: 1.00, collision rate: 0.00, nav time: 36.80, total reward: 34.3939,V_MeanSquareError:0.8826,times:368
+2022-11-23 01:45:40,536, INFO: Has succes Sum_MeanSquareError:0.8826, nav_time: 36.80
+2022-11-23 01:46:54,517, INFO: in Episode 334 has success rate: 1.00, collision rate: 0.00, nav time: 32.80, total reward: 30.6679,V_MeanSquareError:0.6558,times:328
+2022-11-23 01:46:54,517, INFO: Has succes Sum_MeanSquareError:0.6558, nav_time: 32.80
+2022-11-23 01:47:15,323, INFO: in Episode 335 has success rate: 0.00, collision rate: 1.00, nav time: 8.60, total reward: 28.2508,V_MeanSquareError:0.1994,times:86
+2022-11-23 01:48:21,282, INFO: in Episode 336 has success rate: 1.00, collision rate: 0.00, nav time: 29.70, total reward: 46.2613,V_MeanSquareError:0.4609,times:297
+2022-11-23 01:48:21,282, INFO: Has succes Sum_MeanSquareError:0.4609, nav_time: 29.70
+2022-11-23 01:49:38,292, INFO: in Episode 337 has success rate: 1.00, collision rate: 0.00, nav time: 35.40, total reward: 34.1039,V_MeanSquareError:0.6629,times:354
+2022-11-23 01:49:38,292, INFO: Has succes Sum_MeanSquareError:0.6629, nav_time: 35.40
+2022-11-23 01:50:43,459, INFO: in Episode 338 has success rate: 0.00, collision rate: 1.00, nav time: 29.10, total reward: 35.5587,V_MeanSquareError:0.4636,times:291
+2022-11-23 01:51:49,252, INFO: in Episode 339 has success rate: 1.00, collision rate: 0.00, nav time: 29.30, total reward: 30.0694,V_MeanSquareError:0.4551,times:293
+2022-11-23 01:51:49,253, INFO: Has succes Sum_MeanSquareError:0.4551, nav_time: 29.30
+2022-11-23 01:52:55,507, INFO: in Episode 340 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 50.1202,V_MeanSquareError:0.4726,times:305
+2022-11-23 01:52:55,507, INFO: Has succes Sum_MeanSquareError:0.4726, nav_time: 30.50
+2022-11-23 01:54:02,771, INFO: in Episode 341 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 51.1622,V_MeanSquareError:0.4617,times:307
+2022-11-23 01:54:02,772, INFO: Has succes Sum_MeanSquareError:0.4617, nav_time: 30.70
+2022-11-23 01:54:40,297, INFO: in Episode 342 has success rate: 0.00, collision rate: 1.00, nav time: 17.30, total reward: 29.6462,V_MeanSquareError:0.4785,times:173
+2022-11-23 01:55:42,923, INFO: in Episode 343 has success rate: 1.00, collision rate: 0.00, nav time: 27.50, total reward: 61.0233,V_MeanSquareError:0.3475,times:275
+2022-11-23 01:55:42,924, INFO: Has succes Sum_MeanSquareError:0.3475, nav_time: 27.50
+2022-11-23 01:56:44,864, INFO: in Episode 344 has success rate: 1.00, collision rate: 0.00, nav time: 28.90, total reward: 52.4826,V_MeanSquareError:0.3810,times:289
+2022-11-23 01:56:44,864, INFO: Has succes Sum_MeanSquareError:0.3810, nav_time: 28.90
+2022-11-23 01:57:56,896, INFO: in Episode 345 has success rate: 1.00, collision rate: 0.00, nav time: 33.00, total reward: 20.6162,V_MeanSquareError:0.6773,times:330
+2022-11-23 01:57:56,896, INFO: Has succes Sum_MeanSquareError:0.6773, nav_time: 33.00
+2022-11-23 01:58:02,331, INFO: in Episode 346 has success rate: 0.00, collision rate: 1.00, nav time: 2.00, total reward: -23.5229,V_MeanSquareError:0.5189,times:20
+2022-11-23 01:58:42,866, INFO: in Episode 347 has success rate: 0.00, collision rate: 1.00, nav time: 18.60, total reward: 2.9663,V_MeanSquareError:0.7708,times:186
+2022-11-23 01:59:53,456, INFO: in Episode 348 has success rate: 1.00, collision rate: 0.00, nav time: 32.30, total reward: 46.5549,V_MeanSquareError:0.5721,times:323
+2022-11-23 01:59:53,456, INFO: Has succes Sum_MeanSquareError:0.5721, nav_time: 32.30
+2022-11-23 02:00:52,271, INFO: in Episode 349 has success rate: 0.00, collision rate: 1.00, nav time: 26.60, total reward: 58.2090,V_MeanSquareError:0.3764,times:266
+2022-11-23 02:01:58,511, INFO: in Episode 350 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 48.9263,V_MeanSquareError:0.4913,times:305
+2022-11-23 02:01:58,511, INFO: Has succes Sum_MeanSquareError:0.4913, nav_time: 30.50
+2022-11-23 02:03:04,903, INFO: in Episode 351 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 57.1882,V_MeanSquareError:0.4534,times:304
+2022-11-23 02:03:04,904, INFO: Has succes Sum_MeanSquareError:0.4534, nav_time: 30.40
+2022-11-23 02:04:13,869, INFO: in Episode 352 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 46.4659,V_MeanSquareError:0.4977,times:312
+2022-11-23 02:04:13,870, INFO: Has succes Sum_MeanSquareError:0.4977, nav_time: 31.20
+2022-11-23 02:05:20,627, INFO: in Episode 353 has success rate: 1.00, collision rate: 0.00, nav time: 30.30, total reward: 48.5862,V_MeanSquareError:0.4565,times:303
+2022-11-23 02:05:20,627, INFO: Has succes Sum_MeanSquareError:0.4565, nav_time: 30.30
+2022-11-23 02:06:25,402, INFO: in Episode 354 has success rate: 1.00, collision rate: 0.00, nav time: 29.00, total reward: 54.0074,V_MeanSquareError:0.4383,times:290
+2022-11-23 02:06:25,403, INFO: Has succes Sum_MeanSquareError:0.4383, nav_time: 29.00
+2022-11-23 02:07:30,903, INFO: in Episode 355 has success rate: 1.00, collision rate: 0.00, nav time: 29.40, total reward: 55.3873,V_MeanSquareError:0.4237,times:294
+2022-11-23 02:07:30,904, INFO: Has succes Sum_MeanSquareError:0.4237, nav_time: 29.40
+2022-11-23 02:07:57,526, INFO: in Episode 356 has success rate: 0.00, collision rate: 1.00, nav time: 11.70, total reward: 30.5434,V_MeanSquareError:0.2962,times:117
+2022-11-23 02:09:12,170, INFO: in Episode 357 has success rate: 1.00, collision rate: 0.00, nav time: 34.60, total reward: 34.2518,V_MeanSquareError:0.7081,times:346
+2022-11-23 02:09:12,171, INFO: Has succes Sum_MeanSquareError:0.7081, nav_time: 34.60
+2022-11-23 02:09:51,939, INFO: in Episode 358 has success rate: 0.00, collision rate: 1.00, nav time: 18.50, total reward: -12.1897,V_MeanSquareError:0.4310,times:185
+2022-11-23 02:10:53,200, INFO: in Episode 359 has success rate: 1.00, collision rate: 0.00, nav time: 28.50, total reward: 56.5916,V_MeanSquareError:0.3775,times:285
+2022-11-23 02:10:53,200, INFO: Has succes Sum_MeanSquareError:0.3775, nav_time: 28.50
+2022-11-23 02:11:58,938, INFO: in Episode 360 has success rate: 1.00, collision rate: 0.00, nav time: 30.30, total reward: 52.2792,V_MeanSquareError:0.4572,times:303
+2022-11-23 02:11:58,938, INFO: Has succes Sum_MeanSquareError:0.4572, nav_time: 30.30
+2022-11-23 02:13:05,126, INFO: in Episode 361 has success rate: 1.00, collision rate: 0.00, nav time: 31.50, total reward: 49.1126,V_MeanSquareError:0.4665,times:315
+2022-11-23 02:13:05,127, INFO: Has succes Sum_MeanSquareError:0.4665, nav_time: 31.50
+2022-11-23 02:14:10,114, INFO: in Episode 362 has success rate: 1.00, collision rate: 0.00, nav time: 29.70, total reward: 49.7544,V_MeanSquareError:0.4257,times:297
+2022-11-23 02:14:10,115, INFO: Has succes Sum_MeanSquareError:0.4257, nav_time: 29.70
+2022-11-23 02:15:19,175, INFO: in Episode 363 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 46.5021,V_MeanSquareError:0.4582,times:307
+2022-11-23 02:15:19,176, INFO: Has succes Sum_MeanSquareError:0.4582, nav_time: 30.70
+2022-11-23 02:16:26,800, INFO: in Episode 364 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 38.9239,V_MeanSquareError:0.4720,times:309
+2022-11-23 02:16:26,800, INFO: Has succes Sum_MeanSquareError:0.4720, nav_time: 30.90
+2022-11-23 02:17:36,900, INFO: in Episode 365 has success rate: 1.00, collision rate: 0.00, nav time: 32.10, total reward: 33.7317,V_MeanSquareError:0.4936,times:321
+2022-11-23 02:17:36,900, INFO: Has succes Sum_MeanSquareError:0.4936, nav_time: 32.10
+2022-11-23 02:18:47,920, INFO: in Episode 366 has success rate: 1.00, collision rate: 0.00, nav time: 32.30, total reward: 36.7764,V_MeanSquareError:0.5154,times:323
+2022-11-23 02:18:47,920, INFO: Has succes Sum_MeanSquareError:0.5154, nav_time: 32.30
+2022-11-23 02:18:54,336, INFO: in Episode 367 has success rate: 0.00, collision rate: 1.00, nav time: 2.40, total reward: 1.8416,V_MeanSquareError:0.3736,times:24
+2022-11-23 02:20:04,502, INFO: in Episode 368 has success rate: 1.00, collision rate: 0.00, nav time: 31.60, total reward: 49.5864,V_MeanSquareError:0.4812,times:316
+2022-11-23 02:20:04,503, INFO: Has succes Sum_MeanSquareError:0.4812, nav_time: 31.60
+2022-11-23 02:21:10,008, INFO: in Episode 369 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 49.6713,V_MeanSquareError:0.4356,times:305
+2022-11-23 02:21:10,008, INFO: Has succes Sum_MeanSquareError:0.4356, nav_time: 30.50
+2022-11-23 02:22:14,431, INFO: in Episode 370 has success rate: 1.00, collision rate: 0.00, nav time: 28.90, total reward: 56.7471,V_MeanSquareError:0.4196,times:289
+2022-11-23 02:22:14,431, INFO: Has succes Sum_MeanSquareError:0.4196, nav_time: 28.90
+2022-11-23 02:23:21,657, INFO: in Episode 371 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 49.3601,V_MeanSquareError:0.4266,times:305
+2022-11-23 02:23:21,658, INFO: Has succes Sum_MeanSquareError:0.4266, nav_time: 30.50
+2022-11-23 02:24:31,043, INFO: in Episode 372 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 47.4047,V_MeanSquareError:0.4704,times:308
+2022-11-23 02:24:31,043, INFO: Has succes Sum_MeanSquareError:0.4704, nav_time: 30.80
+2022-11-23 02:25:40,137, INFO: in Episode 373 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 42.8735,V_MeanSquareError:0.4612,times:307
+2022-11-23 02:25:40,137, INFO: Has succes Sum_MeanSquareError:0.4612, nav_time: 30.70
+2022-11-23 02:26:53,716, INFO: in Episode 374 has success rate: 1.00, collision rate: 0.00, nav time: 33.10, total reward: 50.1535,V_MeanSquareError:0.5996,times:331
+2022-11-23 02:26:53,717, INFO: Has succes Sum_MeanSquareError:0.5996, nav_time: 33.10
+2022-11-23 02:27:58,854, INFO: in Episode 375 has success rate: 1.00, collision rate: 0.00, nav time: 29.10, total reward: 56.1143,V_MeanSquareError:0.3932,times:291
+2022-11-23 02:27:58,854, INFO: Has succes Sum_MeanSquareError:0.3932, nav_time: 29.10
+2022-11-23 02:28:36,746, INFO: in Episode 376 has success rate: 0.00, collision rate: 1.00, nav time: 16.90, total reward: 26.4512,V_MeanSquareError:0.4135,times:169
+2022-11-23 02:29:51,462, INFO: in Episode 377 has success rate: 1.00, collision rate: 0.00, nav time: 33.80, total reward: 41.9668,V_MeanSquareError:0.5908,times:338
+2022-11-23 02:29:51,462, INFO: Has succes Sum_MeanSquareError:0.5908, nav_time: 33.80
+2022-11-23 02:31:01,360, INFO: in Episode 378 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 51.7816,V_MeanSquareError:0.4237,times:304
+2022-11-23 02:31:01,361, INFO: Has succes Sum_MeanSquareError:0.4237, nav_time: 30.40
+2022-11-23 02:31:08,447, INFO: in Episode 379 has success rate: 0.00, collision rate: 1.00, nav time: 2.80, total reward: -26.8001,V_MeanSquareError:0.7037,times:28
+2022-11-23 02:32:17,241, INFO: in Episode 380 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 55.1736,V_MeanSquareError:0.4645,times:304
+2022-11-23 02:32:17,241, INFO: Has succes Sum_MeanSquareError:0.4645, nav_time: 30.40
+2022-11-23 02:32:47,231, INFO: in Episode 381 has success rate: 0.00, collision rate: 1.00, nav time: 12.80, total reward: 35.4851,V_MeanSquareError:0.3107,times:128
+2022-11-23 02:33:25,861, INFO: in Episode 382 has success rate: 0.00, collision rate: 1.00, nav time: 17.00, total reward: 19.5144,V_MeanSquareError:0.4699,times:170
+2022-11-23 02:34:38,638, INFO: in Episode 383 has success rate: 1.00, collision rate: 0.00, nav time: 32.40, total reward: 48.7575,V_MeanSquareError:0.5271,times:324
+2022-11-23 02:34:38,638, INFO: Has succes Sum_MeanSquareError:0.5271, nav_time: 32.40
+2022-11-23 02:35:47,864, INFO: in Episode 384 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 49.9949,V_MeanSquareError:0.4409,times:302
+2022-11-23 02:35:47,864, INFO: Has succes Sum_MeanSquareError:0.4409, nav_time: 30.20
+2022-11-23 02:36:53,806, INFO: in Episode 385 has success rate: 1.00, collision rate: 0.00, nav time: 29.50, total reward: 59.3207,V_MeanSquareError:0.4050,times:295
+2022-11-23 02:36:53,806, INFO: Has succes Sum_MeanSquareError:0.4050, nav_time: 29.50
+2022-11-23 02:38:02,782, INFO: in Episode 386 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 47.2524,V_MeanSquareError:0.5212,times:310
+2022-11-23 02:38:02,782, INFO: Has succes Sum_MeanSquareError:0.5212, nav_time: 31.00
+2022-11-23 02:39:11,542, INFO: in Episode 387 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 40.4102,V_MeanSquareError:0.4510,times:306
+2022-11-23 02:39:11,543, INFO: Has succes Sum_MeanSquareError:0.4510, nav_time: 30.60
+2022-11-23 02:40:19,467, INFO: in Episode 388 has success rate: 1.00, collision rate: 0.00, nav time: 30.10, total reward: 58.0267,V_MeanSquareError:0.4832,times:301
+2022-11-23 02:40:19,468, INFO: Has succes Sum_MeanSquareError:0.4832, nav_time: 30.10
+2022-11-23 02:41:24,228, INFO: in Episode 389 has success rate: 1.00, collision rate: 0.00, nav time: 29.00, total reward: 50.4490,V_MeanSquareError:0.4436,times:290
+2022-11-23 02:41:24,229, INFO: Has succes Sum_MeanSquareError:0.4436, nav_time: 29.00
+2022-11-23 02:42:31,414, INFO: in Episode 390 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 45.2390,V_MeanSquareError:0.4429,times:308
+2022-11-23 02:42:31,415, INFO: Has succes Sum_MeanSquareError:0.4429, nav_time: 30.80
+2022-11-23 02:42:38,155, INFO: in Episode 391 has success rate: 0.00, collision rate: 1.00, nav time: 2.50, total reward: 0.4809,V_MeanSquareError:0.4458,times:25
+2022-11-23 02:43:45,209, INFO: in Episode 392 has success rate: 1.00, collision rate: 0.00, nav time: 29.30, total reward: 48.3531,V_MeanSquareError:0.4281,times:293
+2022-11-23 02:43:45,209, INFO: Has succes Sum_MeanSquareError:0.4281, nav_time: 29.30
+2022-11-23 02:44:56,191, INFO: in Episode 393 has success rate: 1.00, collision rate: 0.00, nav time: 31.70, total reward: 48.7019,V_MeanSquareError:0.5431,times:317
+2022-11-23 02:44:56,191, INFO: Has succes Sum_MeanSquareError:0.5431, nav_time: 31.70
+2022-11-23 02:46:01,868, INFO: in Episode 394 has success rate: 1.00, collision rate: 0.00, nav time: 28.90, total reward: 58.3870,V_MeanSquareError:0.4067,times:289
+2022-11-23 02:46:01,868, INFO: Has succes Sum_MeanSquareError:0.4067, nav_time: 28.90
+2022-11-23 02:47:15,265, INFO: in Episode 395 has success rate: 1.00, collision rate: 0.00, nav time: 33.20, total reward: 46.5721,V_MeanSquareError:0.5606,times:332
+2022-11-23 02:47:15,265, INFO: Has succes Sum_MeanSquareError:0.5606, nav_time: 33.20
+2022-11-23 02:48:21,855, INFO: in Episode 396 has success rate: 1.00, collision rate: 0.00, nav time: 29.30, total reward: 60.5582,V_MeanSquareError:0.4579,times:293
+2022-11-23 02:48:21,855, INFO: Has succes Sum_MeanSquareError:0.4579, nav_time: 29.30
+2022-11-23 02:49:33,920, INFO: in Episode 397 has success rate: 1.00, collision rate: 0.00, nav time: 31.40, total reward: 36.1801,V_MeanSquareError:0.5231,times:314
+2022-11-23 02:49:33,920, INFO: Has succes Sum_MeanSquareError:0.5231, nav_time: 31.40
+2022-11-23 02:50:46,760, INFO: in Episode 398 has success rate: 1.00, collision rate: 0.00, nav time: 30.30, total reward: 55.4526,V_MeanSquareError:0.4790,times:303
+2022-11-23 02:50:46,760, INFO: Has succes Sum_MeanSquareError:0.4790, nav_time: 30.30
+2022-11-23 02:51:59,391, INFO: in Episode 399 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 44.4204,V_MeanSquareError:0.4660,times:312
+2022-11-23 02:51:59,391, INFO: Has succes Sum_MeanSquareError:0.4660, nav_time: 31.20
+2022-11-23 02:53:09,662, INFO: in Episode 400 has success rate: 1.00, collision rate: 0.00, nav time: 29.80, total reward: 55.9082,V_MeanSquareError:0.4119,times:298
+2022-11-23 02:53:09,663, INFO: Has succes Sum_MeanSquareError:0.4119, nav_time: 29.80
+2022-11-23 02:53:37,841, INFO: in Episode 401 has success rate: 0.00, collision rate: 1.00, nav time: 11.20, total reward: 31.2244,V_MeanSquareError:0.2407,times:112
+2022-11-23 02:54:47,539, INFO: in Episode 402 has success rate: 1.00, collision rate: 0.00, nav time: 29.80, total reward: 45.3691,V_MeanSquareError:0.4521,times:298
+2022-11-23 02:54:47,539, INFO: Has succes Sum_MeanSquareError:0.4521, nav_time: 29.80
+2022-11-23 02:55:59,432, INFO: in Episode 403 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 47.0157,V_MeanSquareError:0.4579,times:304
+2022-11-23 02:55:59,433, INFO: Has succes Sum_MeanSquareError:0.4579, nav_time: 30.40
+2022-11-23 02:57:14,696, INFO: in Episode 404 has success rate: 1.00, collision rate: 0.00, nav time: 33.10, total reward: 25.2379,V_MeanSquareError:0.5577,times:331
+2022-11-23 02:57:14,696, INFO: Has succes Sum_MeanSquareError:0.5577, nav_time: 33.10
+2022-11-23 02:57:21,516, INFO: in Episode 405 has success rate: 0.00, collision rate: 1.00, nav time: 2.30, total reward: 1.8575,V_MeanSquareError:0.3402,times:23
+2022-11-23 02:57:30,079, INFO: in Episode 406 has success rate: 0.00, collision rate: 1.00, nav time: 3.00, total reward: 2.2384,V_MeanSquareError:0.3634,times:30
+2022-11-23 02:58:45,831, INFO: in Episode 407 has success rate: 1.00, collision rate: 0.00, nav time: 32.10, total reward: 45.3467,V_MeanSquareError:0.5539,times:321
+2022-11-23 02:58:45,832, INFO: Has succes Sum_MeanSquareError:0.5539, nav_time: 32.10
+2022-11-23 02:59:36,791, INFO: in Episode 408 has success rate: 0.00, collision rate: 1.00, nav time: 21.10, total reward: 33.6746,V_MeanSquareError:0.4884,times:211
+2022-11-23 03:00:49,192, INFO: in Episode 409 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 45.6220,V_MeanSquareError:0.4773,times:309
+2022-11-23 03:00:49,192, INFO: Has succes Sum_MeanSquareError:0.4773, nav_time: 30.90
+2022-11-23 03:02:06,368, INFO: in Episode 410 has success rate: 1.00, collision rate: 0.00, nav time: 32.20, total reward: 41.9197,V_MeanSquareError:0.5706,times:322
+2022-11-23 03:02:06,369, INFO: Has succes Sum_MeanSquareError:0.5706, nav_time: 32.20
+2022-11-23 03:03:14,862, INFO: in Episode 411 has success rate: 1.00, collision rate: 0.00, nav time: 29.30, total reward: 57.3429,V_MeanSquareError:0.4014,times:293
+2022-11-23 03:03:14,862, INFO: Has succes Sum_MeanSquareError:0.4014, nav_time: 29.30
+2022-11-23 03:04:29,439, INFO: in Episode 412 has success rate: 1.00, collision rate: 0.00, nav time: 32.20, total reward: 31.4921,V_MeanSquareError:0.5358,times:322
+2022-11-23 03:04:29,439, INFO: Has succes Sum_MeanSquareError:0.5358, nav_time: 32.20
+2022-11-23 03:05:41,726, INFO: in Episode 413 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 44.8453,V_MeanSquareError:0.4812,times:305
+2022-11-23 03:05:41,727, INFO: Has succes Sum_MeanSquareError:0.4812, nav_time: 30.50
+2022-11-23 03:06:53,537, INFO: in Episode 414 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 50.4473,V_MeanSquareError:0.4496,times:302
+2022-11-23 03:06:53,537, INFO: Has succes Sum_MeanSquareError:0.4496, nav_time: 30.20
+2022-11-23 03:07:34,431, INFO: in Episode 415 has success rate: 0.00, collision rate: 1.00, nav time: 16.50, total reward: 31.0576,V_MeanSquareError:0.4754,times:165
+2022-11-23 03:08:05,887, INFO: in Episode 416 has success rate: 0.00, collision rate: 1.00, nav time: 13.00, total reward: 28.2373,V_MeanSquareError:0.3213,times:130
+2022-11-23 03:09:16,393, INFO: in Episode 417 has success rate: 1.00, collision rate: 0.00, nav time: 29.40, total reward: 54.1182,V_MeanSquareError:0.4579,times:294
+2022-11-23 03:09:16,393, INFO: Has succes Sum_MeanSquareError:0.4579, nav_time: 29.40
+2022-11-23 03:10:39,870, INFO: in Episode 418 has success rate: 1.00, collision rate: 0.00, nav time: 35.70, total reward: 36.7018,V_MeanSquareError:0.6978,times:357
+2022-11-23 03:10:39,870, INFO: Has succes Sum_MeanSquareError:0.6978, nav_time: 35.70
+2022-11-23 03:12:02,222, INFO: in Episode 419 has success rate: 1.00, collision rate: 0.00, nav time: 36.00, total reward: 21.9440,V_MeanSquareError:0.8433,times:360
+2022-11-23 03:12:02,222, INFO: Has succes Sum_MeanSquareError:0.8433, nav_time: 36.00
+2022-11-23 03:13:14,916, INFO: in Episode 420 has success rate: 1.00, collision rate: 0.00, nav time: 29.90, total reward: 48.9741,V_MeanSquareError:0.4532,times:299
+2022-11-23 03:13:14,917, INFO: Has succes Sum_MeanSquareError:0.4532, nav_time: 29.90
+2022-11-23 03:14:24,821, INFO: in Episode 421 has success rate: 1.00, collision rate: 0.00, nav time: 29.50, total reward: 55.4441,V_MeanSquareError:0.4089,times:295
+2022-11-23 03:14:24,821, INFO: Has succes Sum_MeanSquareError:0.4089, nav_time: 29.50
+2022-11-23 03:15:37,305, INFO: in Episode 422 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 47.2024,V_MeanSquareError:0.4440,times:309
+2022-11-23 03:15:37,306, INFO: Has succes Sum_MeanSquareError:0.4440, nav_time: 30.90
+2022-11-23 03:16:47,814, INFO: in Episode 423 has success rate: 0.00, collision rate: 1.00, nav time: 29.50, total reward: 17.3357,V_MeanSquareError:0.5708,times:295
+2022-11-23 03:17:16,622, INFO: in Episode 424 has success rate: 0.00, collision rate: 1.00, nav time: 11.20, total reward: 30.4968,V_MeanSquareError:0.2305,times:112
+2022-11-23 03:18:31,467, INFO: in Episode 425 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 53.9411,V_MeanSquareError:0.4804,times:307
+2022-11-23 03:18:31,467, INFO: Has succes Sum_MeanSquareError:0.4804, nav_time: 30.70
+2022-11-23 03:19:43,170, INFO: in Episode 426 has success rate: 1.00, collision rate: 0.00, nav time: 30.30, total reward: 49.9312,V_MeanSquareError:0.4533,times:303
+2022-11-23 03:19:43,170, INFO: Has succes Sum_MeanSquareError:0.4533, nav_time: 30.30
+2022-11-23 03:20:26,525, INFO: in Episode 427 has success rate: 0.00, collision rate: 1.00, nav time: 17.90, total reward: 33.9431,V_MeanSquareError:0.6726,times:179
+2022-11-23 03:21:36,016, INFO: in Episode 428 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 49.0287,V_MeanSquareError:0.4330,times:302
+2022-11-23 03:21:36,016, INFO: Has succes Sum_MeanSquareError:0.4330, nav_time: 30.20
+2022-11-23 03:22:44,619, INFO: in Episode 429 has success rate: 1.00, collision rate: 0.00, nav time: 28.70, total reward: 53.3274,V_MeanSquareError:0.4148,times:287
+2022-11-23 03:22:44,620, INFO: Has succes Sum_MeanSquareError:0.4148, nav_time: 28.70
+2022-11-23 03:23:55,179, INFO: in Episode 430 has success rate: 1.00, collision rate: 0.00, nav time: 30.10, total reward: 45.2253,V_MeanSquareError:0.4260,times:301
+2022-11-23 03:23:55,179, INFO: Has succes Sum_MeanSquareError:0.4260, nav_time: 30.10
+2022-11-23 03:25:10,942, INFO: in Episode 431 has success rate: 1.00, collision rate: 0.00, nav time: 31.30, total reward: 47.6371,V_MeanSquareError:0.5024,times:313
+2022-11-23 03:25:10,942, INFO: Has succes Sum_MeanSquareError:0.5024, nav_time: 31.30
+2022-11-23 03:26:23,478, INFO: in Episode 432 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 54.8062,V_MeanSquareError:0.4721,times:302
+2022-11-23 03:26:23,479, INFO: Has succes Sum_MeanSquareError:0.4721, nav_time: 30.20
+2022-11-23 03:27:39,656, INFO: in Episode 433 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 41.5536,V_MeanSquareError:0.4522,times:307
+2022-11-23 03:27:39,656, INFO: Has succes Sum_MeanSquareError:0.4522, nav_time: 30.70
+2022-11-23 03:28:51,795, INFO: in Episode 434 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 40.2778,V_MeanSquareError:0.4671,times:305
+2022-11-23 03:28:51,795, INFO: Has succes Sum_MeanSquareError:0.4671, nav_time: 30.50
+2022-11-23 03:30:04,439, INFO: in Episode 435 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 43.0185,V_MeanSquareError:0.4920,times:305
+2022-11-23 03:30:04,440, INFO: Has succes Sum_MeanSquareError:0.4920, nav_time: 30.50
+2022-11-23 03:30:46,507, INFO: in Episode 436 has success rate: 0.00, collision rate: 1.00, nav time: 17.30, total reward: -15.9358,V_MeanSquareError:0.5578,times:173
+2022-11-23 03:31:59,272, INFO: in Episode 437 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 47.4922,V_MeanSquareError:0.4448,times:302
+2022-11-23 03:31:59,272, INFO: Has succes Sum_MeanSquareError:0.4448, nav_time: 30.20
+2022-11-23 03:33:15,976, INFO: in Episode 438 has success rate: 1.00, collision rate: 0.00, nav time: 32.30, total reward: 56.5740,V_MeanSquareError:0.5446,times:323
+2022-11-23 03:33:15,976, INFO: Has succes Sum_MeanSquareError:0.5446, nav_time: 32.30
+2022-11-23 03:34:29,471, INFO: in Episode 439 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 49.4317,V_MeanSquareError:0.5813,times:312
+2022-11-23 03:34:29,472, INFO: Has succes Sum_MeanSquareError:0.5813, nav_time: 31.20
+2022-11-23 03:35:40,480, INFO: in Episode 440 has success rate: 1.00, collision rate: 0.00, nav time: 29.60, total reward: 50.7389,V_MeanSquareError:0.4166,times:296
+2022-11-23 03:35:40,480, INFO: Has succes Sum_MeanSquareError:0.4166, nav_time: 29.60
+2022-11-23 03:36:45,289, INFO: in Episode 441 has success rate: 1.00, collision rate: 0.00, nav time: 27.80, total reward: 57.4926,V_MeanSquareError:0.3389,times:278
+2022-11-23 03:36:45,289, INFO: Has succes Sum_MeanSquareError:0.3389, nav_time: 27.80
+2022-11-23 03:38:03,949, INFO: in Episode 442 has success rate: 1.00, collision rate: 0.00, nav time: 32.50, total reward: 37.4170,V_MeanSquareError:0.5756,times:325
+2022-11-23 03:38:03,949, INFO: Has succes Sum_MeanSquareError:0.5756, nav_time: 32.50
+2022-11-23 03:39:15,233, INFO: in Episode 443 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 46.8829,V_MeanSquareError:0.4286,times:308
+2022-11-23 03:39:15,234, INFO: Has succes Sum_MeanSquareError:0.4286, nav_time: 30.80
+2022-11-23 03:40:24,996, INFO: in Episode 444 has success rate: 1.00, collision rate: 0.00, nav time: 30.00, total reward: 50.9015,V_MeanSquareError:0.4783,times:300
+2022-11-23 03:40:24,996, INFO: Has succes Sum_MeanSquareError:0.4783, nav_time: 30.00
+2022-11-23 03:41:44,402, INFO: in Episode 445 has success rate: 1.00, collision rate: 0.00, nav time: 33.60, total reward: 26.8152,V_MeanSquareError:0.5564,times:336
+2022-11-23 03:41:44,402, INFO: Has succes Sum_MeanSquareError:0.5564, nav_time: 33.60
+2022-11-23 03:43:00,504, INFO: in Episode 446 has success rate: 1.00, collision rate: 0.00, nav time: 32.60, total reward: 40.0260,V_MeanSquareError:0.5723,times:326
+2022-11-23 03:43:00,505, INFO: Has succes Sum_MeanSquareError:0.5723, nav_time: 32.60
+2022-11-23 03:44:13,129, INFO: in Episode 447 has success rate: 1.00, collision rate: 0.00, nav time: 30.30, total reward: 39.3534,V_MeanSquareError:0.4388,times:303
+2022-11-23 03:44:13,130, INFO: Has succes Sum_MeanSquareError:0.4388, nav_time: 30.30
+2022-11-23 03:45:29,991, INFO: in Episode 448 has success rate: 1.00, collision rate: 0.00, nav time: 32.10, total reward: 62.4419,V_MeanSquareError:0.6308,times:321
+2022-11-23 03:45:29,992, INFO: Has succes Sum_MeanSquareError:0.6308, nav_time: 32.10
+2022-11-23 03:46:49,976, INFO: in Episode 449 has success rate: 1.00, collision rate: 0.00, nav time: 33.50, total reward: 39.8830,V_MeanSquareError:0.6800,times:335
+2022-11-23 03:46:49,977, INFO: Has succes Sum_MeanSquareError:0.6800, nav_time: 33.50
+2022-11-23 03:48:02,467, INFO: in Episode 450 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 55.7413,V_MeanSquareError:0.5080,times:302
+2022-11-23 03:48:02,467, INFO: Has succes Sum_MeanSquareError:0.5080, nav_time: 30.20
+2022-11-23 03:48:11,325, INFO: in Episode 451 has success rate: 0.00, collision rate: 1.00, nav time: 3.00, total reward: 1.5192,V_MeanSquareError:0.4243,times:30
+2022-11-23 03:49:22,459, INFO: in Episode 452 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 51.2288,V_MeanSquareError:0.4534,times:302
+2022-11-23 03:49:22,459, INFO: Has succes Sum_MeanSquareError:0.4534, nav_time: 30.20
+2022-11-23 03:50:37,124, INFO: in Episode 453 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 56.3039,V_MeanSquareError:0.4601,times:310
+2022-11-23 03:50:37,125, INFO: Has succes Sum_MeanSquareError:0.4601, nav_time: 31.00
+2022-11-23 03:51:57,981, INFO: in Episode 454 has success rate: 1.00, collision rate: 0.00, nav time: 33.00, total reward: 39.7515,V_MeanSquareError:0.6948,times:330
+2022-11-23 03:51:57,982, INFO: Has succes Sum_MeanSquareError:0.6948, nav_time: 33.00
+2022-11-23 03:53:12,040, INFO: in Episode 455 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 42.9577,V_MeanSquareError:0.4989,times:308
+2022-11-23 03:53:12,041, INFO: Has succes Sum_MeanSquareError:0.4989, nav_time: 30.80
+2022-11-23 03:53:19,390, INFO: in Episode 456 has success rate: 0.00, collision rate: 1.00, nav time: 2.70, total reward: -5.8236,V_MeanSquareError:0.5190,times:27
+2022-11-23 03:54:36,089, INFO: in Episode 457 has success rate: 1.00, collision rate: 0.00, nav time: 31.40, total reward: 58.9644,V_MeanSquareError:0.4758,times:314
+2022-11-23 03:54:36,089, INFO: Has succes Sum_MeanSquareError:0.4758, nav_time: 31.40
+2022-11-23 03:55:51,989, INFO: in Episode 458 has success rate: 1.00, collision rate: 0.00, nav time: 31.50, total reward: 49.1549,V_MeanSquareError:0.4550,times:315
+2022-11-23 03:55:51,990, INFO: Has succes Sum_MeanSquareError:0.4550, nav_time: 31.50
+2022-11-23 03:56:01,677, INFO: in Episode 459 has success rate: 0.00, collision rate: 1.00, nav time: 3.20, total reward: 2.5585,V_MeanSquareError:0.3348,times:32
+2022-11-23 03:57:15,595, INFO: in Episode 460 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 56.9056,V_MeanSquareError:0.4606,times:307
+2022-11-23 03:57:15,595, INFO: Has succes Sum_MeanSquareError:0.4606, nav_time: 30.70
+2022-11-23 03:58:26,006, INFO: in Episode 461 has success rate: 1.00, collision rate: 0.00, nav time: 29.90, total reward: 51.2661,V_MeanSquareError:0.4207,times:299
+2022-11-23 03:58:26,007, INFO: Has succes Sum_MeanSquareError:0.4207, nav_time: 29.90
+2022-11-23 03:59:31,325, INFO: in Episode 462 has success rate: 1.00, collision rate: 0.00, nav time: 27.90, total reward: 58.1485,V_MeanSquareError:0.3774,times:279
+2022-11-23 03:59:31,325, INFO: Has succes Sum_MeanSquareError:0.3774, nav_time: 27.90
+2022-11-23 04:00:46,633, INFO: in Episode 463 has success rate: 1.00, collision rate: 0.00, nav time: 32.10, total reward: 33.3833,V_MeanSquareError:0.6288,times:321
+2022-11-23 04:00:46,634, INFO: Has succes Sum_MeanSquareError:0.6288, nav_time: 32.10
+2022-11-23 04:02:19,095, INFO: in Episode 464 has success rate: 0.00, collision rate: 0.00, nav time: 40.10, total reward: -17.2455,V_MeanSquareError:0.9416,times:401
+2022-11-23 04:03:34,246, INFO: in Episode 465 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 52.3461,V_MeanSquareError:0.5054,times:309
+2022-11-23 04:03:34,247, INFO: Has succes Sum_MeanSquareError:0.5054, nav_time: 30.90
+2022-11-23 04:04:41,551, INFO: in Episode 466 has success rate: 1.00, collision rate: 0.00, nav time: 27.90, total reward: 60.2661,V_MeanSquareError:0.3567,times:279
+2022-11-23 04:04:41,552, INFO: Has succes Sum_MeanSquareError:0.3567, nav_time: 27.90
+2022-11-23 04:06:12,928, INFO: in Episode 467 has success rate: 1.00, collision rate: 0.00, nav time: 38.10, total reward: 35.4392,V_MeanSquareError:0.8399,times:381
+2022-11-23 04:06:12,929, INFO: Has succes Sum_MeanSquareError:0.8399, nav_time: 38.10
+2022-11-23 04:07:45,948, INFO: in Episode 468 has success rate: 1.00, collision rate: 0.00, nav time: 38.30, total reward: 37.8778,V_MeanSquareError:0.8956,times:383
+2022-11-23 04:07:45,948, INFO: Has succes Sum_MeanSquareError:0.8956, nav_time: 38.30
+2022-11-23 04:09:06,722, INFO: in Episode 469 has success rate: 1.00, collision rate: 0.00, nav time: 33.00, total reward: 39.3031,V_MeanSquareError:0.5977,times:330
+2022-11-23 04:09:06,723, INFO: Has succes Sum_MeanSquareError:0.5977, nav_time: 33.00
+2022-11-23 04:10:31,557, INFO: in Episode 470 has success rate: 1.00, collision rate: 0.00, nav time: 34.90, total reward: 48.0317,V_MeanSquareError:0.7002,times:349
+2022-11-23 04:10:31,557, INFO: Has succes Sum_MeanSquareError:0.7002, nav_time: 34.90
+2022-11-23 04:11:45,000, INFO: in Episode 471 has success rate: 1.00, collision rate: 0.00, nav time: 30.30, total reward: 54.7631,V_MeanSquareError:0.4474,times:303
+2022-11-23 04:11:45,001, INFO: Has succes Sum_MeanSquareError:0.4474, nav_time: 30.30
+2022-11-23 04:12:53,529, INFO: in Episode 472 has success rate: 1.00, collision rate: 0.00, nav time: 28.70, total reward: 55.4944,V_MeanSquareError:0.4224,times:287
+2022-11-23 04:12:53,530, INFO: Has succes Sum_MeanSquareError:0.4224, nav_time: 28.70
+2022-11-23 04:14:08,655, INFO: in Episode 473 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 59.3256,V_MeanSquareError:0.5288,times:308
+2022-11-23 04:14:08,656, INFO: Has succes Sum_MeanSquareError:0.5288, nav_time: 30.80
+2022-11-23 04:15:20,056, INFO: in Episode 474 has success rate: 1.00, collision rate: 0.00, nav time: 30.30, total reward: 44.0363,V_MeanSquareError:0.4837,times:303
+2022-11-23 04:15:20,057, INFO: Has succes Sum_MeanSquareError:0.4837, nav_time: 30.30
+2022-11-23 04:16:31,126, INFO: in Episode 475 has success rate: 1.00, collision rate: 0.00, nav time: 29.80, total reward: 60.0058,V_MeanSquareError:0.4554,times:298
+2022-11-23 04:16:31,126, INFO: Has succes Sum_MeanSquareError:0.4554, nav_time: 29.80
+2022-11-23 04:16:41,150, INFO: in Episode 476 has success rate: 0.00, collision rate: 1.00, nav time: 3.00, total reward: 2.3725,V_MeanSquareError:0.3442,times:30
+2022-11-23 04:17:49,871, INFO: in Episode 477 has success rate: 1.00, collision rate: 0.00, nav time: 28.30, total reward: 63.9589,V_MeanSquareError:0.3745,times:283
+2022-11-23 04:17:49,872, INFO: Has succes Sum_MeanSquareError:0.3745, nav_time: 28.30
+2022-11-23 04:19:04,399, INFO: in Episode 478 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 48.8669,V_MeanSquareError:0.4375,times:302
+2022-11-23 04:19:04,399, INFO: Has succes Sum_MeanSquareError:0.4375, nav_time: 30.20
+2022-11-23 04:20:28,410, INFO: in Episode 479 has success rate: 1.00, collision rate: 0.00, nav time: 35.30, total reward: 39.1209,V_MeanSquareError:0.6483,times:353
+2022-11-23 04:20:28,410, INFO: Has succes Sum_MeanSquareError:0.6483, nav_time: 35.30
+2022-11-23 04:21:35,256, INFO: in Episode 480 has success rate: 1.00, collision rate: 0.00, nav time: 28.10, total reward: 60.7359,V_MeanSquareError:0.3725,times:281
+2022-11-23 04:21:35,257, INFO: Has succes Sum_MeanSquareError:0.3725, nav_time: 28.10
+2022-11-23 04:22:55,011, INFO: in Episode 481 has success rate: 1.00, collision rate: 0.00, nav time: 33.00, total reward: 48.1146,V_MeanSquareError:0.6229,times:330
+2022-11-23 04:22:55,012, INFO: Has succes Sum_MeanSquareError:0.6229, nav_time: 33.00
+2022-11-23 04:24:13,838, INFO: in Episode 482 has success rate: 1.00, collision rate: 0.00, nav time: 32.20, total reward: 44.4273,V_MeanSquareError:0.5887,times:322
+2022-11-23 04:24:13,838, INFO: Has succes Sum_MeanSquareError:0.5887, nav_time: 32.20
+2022-11-23 04:25:24,897, INFO: in Episode 483 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 45.9837,V_MeanSquareError:0.4593,times:302
+2022-11-23 04:25:24,898, INFO: Has succes Sum_MeanSquareError:0.4593, nav_time: 30.20
+2022-11-23 04:26:37,143, INFO: in Episode 484 has success rate: 1.00, collision rate: 0.00, nav time: 30.00, total reward: 56.7251,V_MeanSquareError:0.4408,times:300
+2022-11-23 04:26:37,144, INFO: Has succes Sum_MeanSquareError:0.4408, nav_time: 30.00
+2022-11-23 04:27:51,011, INFO: in Episode 485 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 42.3919,V_MeanSquareError:0.4984,times:304
+2022-11-23 04:27:51,011, INFO: Has succes Sum_MeanSquareError:0.4984, nav_time: 30.40
+2022-11-23 04:29:00,897, INFO: in Episode 486 has success rate: 1.00, collision rate: 0.00, nav time: 29.00, total reward: 66.8529,V_MeanSquareError:0.4210,times:290
+2022-11-23 04:29:00,897, INFO: Has succes Sum_MeanSquareError:0.4210, nav_time: 29.00
+2022-11-23 04:30:13,265, INFO: in Episode 487 has success rate: 1.00, collision rate: 0.00, nav time: 30.30, total reward: 49.3249,V_MeanSquareError:0.4741,times:303
+2022-11-23 04:30:13,266, INFO: Has succes Sum_MeanSquareError:0.4741, nav_time: 30.30
+2022-11-23 04:31:28,868, INFO: in Episode 488 has success rate: 1.00, collision rate: 0.00, nav time: 31.70, total reward: 58.8492,V_MeanSquareError:0.4943,times:317
+2022-11-23 04:31:28,869, INFO: Has succes Sum_MeanSquareError:0.4943, nav_time: 31.70
+2022-11-23 04:32:42,265, INFO: in Episode 489 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 52.5121,V_MeanSquareError:0.4689,times:312
+2022-11-23 04:32:42,266, INFO: Has succes Sum_MeanSquareError:0.4689, nav_time: 31.20
+2022-11-23 04:33:58,695, INFO: in Episode 490 has success rate: 1.00, collision rate: 0.00, nav time: 31.50, total reward: 33.7846,V_MeanSquareError:0.5623,times:315
+2022-11-23 04:33:58,696, INFO: Has succes Sum_MeanSquareError:0.5623, nav_time: 31.50
+2022-11-23 04:35:07,283, INFO: in Episode 491 has success rate: 1.00, collision rate: 0.00, nav time: 28.40, total reward: 65.7586,V_MeanSquareError:0.3970,times:284
+2022-11-23 04:35:07,283, INFO: Has succes Sum_MeanSquareError:0.3970, nav_time: 28.40
+2022-11-23 04:36:24,070, INFO: in Episode 492 has success rate: 1.00, collision rate: 0.00, nav time: 31.90, total reward: 51.9324,V_MeanSquareError:0.4741,times:319
+2022-11-23 04:36:24,070, INFO: Has succes Sum_MeanSquareError:0.4741, nav_time: 31.90
+2022-11-23 04:37:38,117, INFO: in Episode 493 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 60.7318,V_MeanSquareError:0.5095,times:308
+2022-11-23 04:37:38,118, INFO: Has succes Sum_MeanSquareError:0.5095, nav_time: 30.80
+2022-11-23 04:38:53,164, INFO: in Episode 494 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 59.8016,V_MeanSquareError:0.5613,times:307
+2022-11-23 04:38:53,164, INFO: Has succes Sum_MeanSquareError:0.5613, nav_time: 30.70
+2022-11-23 04:40:13,311, INFO: in Episode 495 has success rate: 1.00, collision rate: 0.00, nav time: 33.40, total reward: 43.2333,V_MeanSquareError:0.6037,times:334
+2022-11-23 04:40:13,312, INFO: Has succes Sum_MeanSquareError:0.6037, nav_time: 33.40
+2022-11-23 04:41:23,502, INFO: in Episode 496 has success rate: 1.00, collision rate: 0.00, nav time: 29.20, total reward: 47.3079,V_MeanSquareError:0.4223,times:292
+2022-11-23 04:41:23,502, INFO: Has succes Sum_MeanSquareError:0.4223, nav_time: 29.20
+2022-11-23 04:42:33,406, INFO: in Episode 497 has success rate: 1.00, collision rate: 0.00, nav time: 29.00, total reward: 47.5956,V_MeanSquareError:0.3831,times:290
+2022-11-23 04:42:33,406, INFO: Has succes Sum_MeanSquareError:0.3831, nav_time: 29.00
+2022-11-23 04:43:46,786, INFO: in Episode 498 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 47.1436,V_MeanSquareError:0.5287,times:305
+2022-11-23 04:43:46,786, INFO: Has succes Sum_MeanSquareError:0.5287, nav_time: 30.50
+2022-11-23 04:44:16,784, INFO: in Episode 499 has success rate: 0.00, collision rate: 1.00, nav time: 11.90, total reward: 34.0026,V_MeanSquareError:0.2554,times:119
+2022-11-23 04:45:25,509, INFO: in Episode 500 has success rate: 1.00, collision rate: 0.00, nav time: 28.20, total reward: 67.3615,V_MeanSquareError:0.3956,times:282
+2022-11-23 04:45:25,510, INFO: Has succes Sum_MeanSquareError:0.3956, nav_time: 28.20
+2022-11-23 04:46:39,887, INFO: in Episode 501 has success rate: 1.00, collision rate: 0.00, nav time: 31.10, total reward: 47.6530,V_MeanSquareError:0.4767,times:311
+2022-11-23 04:46:39,888, INFO: Has succes Sum_MeanSquareError:0.4767, nav_time: 31.10
+2022-11-23 04:47:52,510, INFO: in Episode 502 has success rate: 1.00, collision rate: 0.00, nav time: 30.00, total reward: 59.5260,V_MeanSquareError:0.4422,times:300
+2022-11-23 04:47:52,511, INFO: Has succes Sum_MeanSquareError:0.4422, nav_time: 30.00
+2022-11-23 04:48:34,751, INFO: in Episode 503 has success rate: 0.00, collision rate: 1.00, nav time: 17.50, total reward: 31.6202,V_MeanSquareError:0.4460,times:175
+2022-11-23 04:49:32,984, INFO: in Episode 504 has success rate: 0.00, collision rate: 1.00, nav time: 24.40, total reward: -27.5211,V_MeanSquareError:1.0771,times:244
+2022-11-23 04:50:39,984, INFO: in Episode 505 has success rate: 1.00, collision rate: 0.00, nav time: 27.90, total reward: 56.3542,V_MeanSquareError:0.3457,times:279
+2022-11-23 04:50:39,985, INFO: Has succes Sum_MeanSquareError:0.3457, nav_time: 27.90
+2022-11-23 04:51:54,553, INFO: in Episode 506 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 39.2599,V_MeanSquareError:0.4407,times:302
+2022-11-23 04:51:54,554, INFO: Has succes Sum_MeanSquareError:0.4407, nav_time: 30.20
+2022-11-23 04:52:28,374, INFO: in Episode 507 has success rate: 0.00, collision rate: 1.00, nav time: 13.30, total reward: 19.9259,V_MeanSquareError:0.3541,times:133
+2022-11-23 04:53:42,750, INFO: in Episode 508 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 63.8306,V_MeanSquareError:0.4873,times:304
+2022-11-23 04:53:42,750, INFO: Has succes Sum_MeanSquareError:0.4873, nav_time: 30.40
+2022-11-23 04:54:57,853, INFO: in Episode 509 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 40.2250,V_MeanSquareError:0.4591,times:312
+2022-11-23 04:54:57,853, INFO: Has succes Sum_MeanSquareError:0.4591, nav_time: 31.20
+2022-11-23 04:56:09,492, INFO: in Episode 510 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 44.5187,V_MeanSquareError:0.4189,times:306
+2022-11-23 04:56:09,493, INFO: Has succes Sum_MeanSquareError:0.4189, nav_time: 30.60
+2022-11-23 04:57:28,538, INFO: in Episode 511 has success rate: 1.00, collision rate: 0.00, nav time: 32.90, total reward: 60.0225,V_MeanSquareError:0.5910,times:329
+2022-11-23 04:57:28,538, INFO: Has succes Sum_MeanSquareError:0.5910, nav_time: 32.90
+2022-11-23 04:58:43,602, INFO: in Episode 512 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 42.9932,V_MeanSquareError:0.4655,times:309
+2022-11-23 04:58:43,603, INFO: Has succes Sum_MeanSquareError:0.4655, nav_time: 30.90
+2022-11-23 05:00:02,215, INFO: in Episode 513 has success rate: 1.00, collision rate: 0.00, nav time: 32.20, total reward: 56.3614,V_MeanSquareError:0.6077,times:322
+2022-11-23 05:00:02,216, INFO: Has succes Sum_MeanSquareError:0.6077, nav_time: 32.20
+2022-11-23 05:01:12,533, INFO: in Episode 514 has success rate: 1.00, collision rate: 0.00, nav time: 29.70, total reward: 56.1899,V_MeanSquareError:0.4504,times:297
+2022-11-23 05:01:12,534, INFO: Has succes Sum_MeanSquareError:0.4504, nav_time: 29.70
+2022-11-23 05:02:29,852, INFO: in Episode 515 has success rate: 1.00, collision rate: 0.00, nav time: 32.00, total reward: 51.9187,V_MeanSquareError:0.5435,times:320
+2022-11-23 05:02:29,852, INFO: Has succes Sum_MeanSquareError:0.5435, nav_time: 32.00
+2022-11-23 05:03:42,466, INFO: in Episode 516 has success rate: 1.00, collision rate: 0.00, nav time: 29.70, total reward: 54.1226,V_MeanSquareError:0.4534,times:297
+2022-11-23 05:03:42,467, INFO: Has succes Sum_MeanSquareError:0.4534, nav_time: 29.70
+2022-11-23 05:05:10,028, INFO: in Episode 517 has success rate: 1.00, collision rate: 0.00, nav time: 35.10, total reward: 35.7336,V_MeanSquareError:0.7791,times:351
+2022-11-23 05:05:10,028, INFO: Has succes Sum_MeanSquareError:0.7791, nav_time: 35.10
+2022-11-23 05:06:20,329, INFO: in Episode 518 has success rate: 1.00, collision rate: 0.00, nav time: 29.20, total reward: 58.3467,V_MeanSquareError:0.4665,times:292
+2022-11-23 05:06:20,330, INFO: Has succes Sum_MeanSquareError:0.4665, nav_time: 29.20
+2022-11-23 05:07:39,850, INFO: in Episode 519 has success rate: 1.00, collision rate: 0.00, nav time: 32.30, total reward: 58.0940,V_MeanSquareError:0.5637,times:323
+2022-11-23 05:07:39,850, INFO: Has succes Sum_MeanSquareError:0.5637, nav_time: 32.30
+2022-11-23 05:08:59,637, INFO: in Episode 520 has success rate: 1.00, collision rate: 0.00, nav time: 32.80, total reward: 46.7129,V_MeanSquareError:0.7378,times:328
+2022-11-23 05:08:59,637, INFO: Has succes Sum_MeanSquareError:0.7378, nav_time: 32.80
+2022-11-23 05:10:15,699, INFO: in Episode 521 has success rate: 1.00, collision rate: 0.00, nav time: 31.70, total reward: 52.9065,V_MeanSquareError:0.5291,times:317
+2022-11-23 05:10:15,699, INFO: Has succes Sum_MeanSquareError:0.5291, nav_time: 31.70
+2022-11-23 05:10:48,268, INFO: in Episode 522 has success rate: 0.00, collision rate: 1.00, nav time: 13.20, total reward: 25.1673,V_MeanSquareError:0.3570,times:132
+2022-11-23 05:12:02,360, INFO: in Episode 523 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 49.6687,V_MeanSquareError:0.4925,times:305
+2022-11-23 05:12:02,360, INFO: Has succes Sum_MeanSquareError:0.4925, nav_time: 30.50
+2022-11-23 05:13:11,419, INFO: in Episode 524 has success rate: 1.00, collision rate: 0.00, nav time: 28.70, total reward: 61.1025,V_MeanSquareError:0.4134,times:287
+2022-11-23 05:13:11,419, INFO: Has succes Sum_MeanSquareError:0.4134, nav_time: 28.70
+2022-11-23 05:14:26,063, INFO: in Episode 525 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 52.7067,V_MeanSquareError:0.4453,times:304
+2022-11-23 05:14:26,064, INFO: Has succes Sum_MeanSquareError:0.4453, nav_time: 30.40
+2022-11-23 05:15:41,013, INFO: in Episode 526 has success rate: 1.00, collision rate: 0.00, nav time: 31.10, total reward: 54.4043,V_MeanSquareError:0.5048,times:311
+2022-11-23 05:15:41,013, INFO: Has succes Sum_MeanSquareError:0.5048, nav_time: 31.10
+2022-11-23 05:17:12,925, INFO: in Episode 527 has success rate: 1.00, collision rate: 0.00, nav time: 38.00, total reward: 35.7305,V_MeanSquareError:0.8342,times:380
+2022-11-23 05:17:12,926, INFO: Has succes Sum_MeanSquareError:0.8342, nav_time: 38.00
+2022-11-23 05:17:40,104, INFO: in Episode 528 has success rate: 0.00, collision rate: 1.00, nav time: 10.60, total reward: 34.1207,V_MeanSquareError:0.2209,times:106
+2022-11-23 05:18:53,705, INFO: in Episode 529 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 54.9710,V_MeanSquareError:0.5576,times:306
+2022-11-23 05:18:53,705, INFO: Has succes Sum_MeanSquareError:0.5576, nav_time: 30.60
+2022-11-23 05:20:06,936, INFO: in Episode 530 has success rate: 1.00, collision rate: 0.00, nav time: 30.10, total reward: 45.8551,V_MeanSquareError:0.4592,times:301
+2022-11-23 05:20:06,936, INFO: Has succes Sum_MeanSquareError:0.4592, nav_time: 30.10
+2022-11-23 05:21:22,116, INFO: in Episode 531 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 38.6148,V_MeanSquareError:0.4539,times:310
+2022-11-23 05:21:22,116, INFO: Has succes Sum_MeanSquareError:0.4539, nav_time: 31.00
+2022-11-23 05:22:24,992, INFO: in Episode 532 has success rate: 0.00, collision rate: 1.00, nav time: 25.50, total reward: 36.3261,V_MeanSquareError:0.6109,times:255
+2022-11-23 05:23:35,430, INFO: in Episode 533 has success rate: 1.00, collision rate: 0.00, nav time: 28.70, total reward: 54.2911,V_MeanSquareError:0.4098,times:287
+2022-11-23 05:23:35,431, INFO: Has succes Sum_MeanSquareError:0.4098, nav_time: 28.70
+2022-11-23 05:24:57,270, INFO: in Episode 534 has success rate: 1.00, collision rate: 0.00, nav time: 33.70, total reward: 17.3743,V_MeanSquareError:0.6922,times:337
+2022-11-23 05:24:57,270, INFO: Has succes Sum_MeanSquareError:0.6922, nav_time: 33.70
+2022-11-23 05:26:10,888, INFO: in Episode 535 has success rate: 1.00, collision rate: 0.00, nav time: 31.10, total reward: 47.4226,V_MeanSquareError:0.4436,times:311
+2022-11-23 05:26:10,888, INFO: Has succes Sum_MeanSquareError:0.4436, nav_time: 31.10
+2022-11-23 05:27:23,992, INFO: in Episode 536 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 45.6685,V_MeanSquareError:0.5145,times:307
+2022-11-23 05:27:23,993, INFO: Has succes Sum_MeanSquareError:0.5145, nav_time: 30.70
+2022-11-23 05:28:40,058, INFO: in Episode 537 has success rate: 1.00, collision rate: 0.00, nav time: 31.80, total reward: 46.8604,V_MeanSquareError:0.5350,times:318
+2022-11-23 05:28:40,059, INFO: Has succes Sum_MeanSquareError:0.5350, nav_time: 31.80
+2022-11-23 05:29:50,167, INFO: in Episode 538 has success rate: 1.00, collision rate: 0.00, nav time: 28.30, total reward: 67.1347,V_MeanSquareError:0.4291,times:283
+2022-11-23 05:29:50,167, INFO: Has succes Sum_MeanSquareError:0.4291, nav_time: 28.30
+2022-11-23 05:30:23,558, INFO: in Episode 539 has success rate: 0.00, collision rate: 1.00, nav time: 13.50, total reward: 21.1604,V_MeanSquareError:0.3750,times:135
+2022-11-23 05:31:48,278, INFO: in Episode 540 has success rate: 1.00, collision rate: 0.00, nav time: 35.50, total reward: 37.6734,V_MeanSquareError:0.6074,times:355
+2022-11-23 05:31:48,279, INFO: Has succes Sum_MeanSquareError:0.6074, nav_time: 35.50
+2022-11-23 05:32:36,164, INFO: in Episode 541 has success rate: 0.00, collision rate: 1.00, nav time: 19.50, total reward: 30.2044,V_MeanSquareError:0.4958,times:195
+2022-11-23 05:33:50,408, INFO: in Episode 542 has success rate: 1.00, collision rate: 0.00, nav time: 30.10, total reward: 54.2420,V_MeanSquareError:0.5388,times:301
+2022-11-23 05:33:50,409, INFO: Has succes Sum_MeanSquareError:0.5388, nav_time: 30.10
+2022-11-23 05:35:04,255, INFO: in Episode 543 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 43.6797,V_MeanSquareError:0.4786,times:307
+2022-11-23 05:35:04,256, INFO: Has succes Sum_MeanSquareError:0.4786, nav_time: 30.70
+2022-11-23 05:36:16,435, INFO: in Episode 544 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 49.4845,V_MeanSquareError:0.4617,times:307
+2022-11-23 05:36:16,436, INFO: Has succes Sum_MeanSquareError:0.4617, nav_time: 30.70
+2022-11-23 05:37:41,791, INFO: in Episode 545 has success rate: 1.00, collision rate: 0.00, nav time: 35.20, total reward: 46.0645,V_MeanSquareError:0.7192,times:352
+2022-11-23 05:37:41,792, INFO: Has succes Sum_MeanSquareError:0.7192, nav_time: 35.20
+2022-11-23 05:38:56,752, INFO: in Episode 546 has success rate: 1.00, collision rate: 0.00, nav time: 32.30, total reward: 36.8568,V_MeanSquareError:0.5731,times:323
+2022-11-23 05:38:56,752, INFO: Has succes Sum_MeanSquareError:0.5731, nav_time: 32.30
+2022-11-23 05:40:24,422, INFO: in Episode 547 has success rate: 1.00, collision rate: 0.00, nav time: 36.60, total reward: 44.3888,V_MeanSquareError:0.8293,times:366
+2022-11-23 05:40:24,423, INFO: Has succes Sum_MeanSquareError:0.8293, nav_time: 36.60
+2022-11-23 05:41:08,705, INFO: in Episode 548 has success rate: 0.00, collision rate: 1.00, nav time: 18.50, total reward: 28.5243,V_MeanSquareError:0.4480,times:185
+2022-11-23 05:42:21,672, INFO: in Episode 549 has success rate: 1.00, collision rate: 0.00, nav time: 29.60, total reward: 53.8028,V_MeanSquareError:0.4409,times:296
+2022-11-23 05:42:21,673, INFO: Has succes Sum_MeanSquareError:0.4409, nav_time: 29.60
+2022-11-23 05:43:34,587, INFO: in Episode 550 has success rate: 1.00, collision rate: 0.00, nav time: 29.80, total reward: 61.8195,V_MeanSquareError:0.4282,times:298
+2022-11-23 05:43:34,588, INFO: Has succes Sum_MeanSquareError:0.4282, nav_time: 29.80
+2022-11-23 05:44:42,249, INFO: in Episode 551 has success rate: 1.00, collision rate: 0.00, nav time: 27.40, total reward: 63.2219,V_MeanSquareError:0.3585,times:274
+2022-11-23 05:44:42,249, INFO: Has succes Sum_MeanSquareError:0.3585, nav_time: 27.40
+2022-11-23 05:45:56,930, INFO: in Episode 552 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 37.9969,V_MeanSquareError:0.4521,times:309
+2022-11-23 05:45:56,931, INFO: Has succes Sum_MeanSquareError:0.4521, nav_time: 30.90
+2022-11-23 05:46:39,108, INFO: in Episode 553 has success rate: 0.00, collision rate: 1.00, nav time: 17.10, total reward: 7.0730,V_MeanSquareError:0.5324,times:171
+2022-11-23 05:47:53,889, INFO: in Episode 554 has success rate: 1.00, collision rate: 0.00, nav time: 29.90, total reward: 49.6655,V_MeanSquareError:0.4629,times:299
+2022-11-23 05:47:53,889, INFO: Has succes Sum_MeanSquareError:0.4629, nav_time: 29.90
+2022-11-23 05:48:45,192, INFO: in Episode 555 has success rate: 0.00, collision rate: 1.00, nav time: 20.00, total reward: 24.7509,V_MeanSquareError:0.5516,times:200
+2022-11-23 05:49:58,302, INFO: in Episode 556 has success rate: 1.00, collision rate: 0.00, nav time: 29.60, total reward: 56.9876,V_MeanSquareError:0.4839,times:296
+2022-11-23 05:49:58,302, INFO: Has succes Sum_MeanSquareError:0.4839, nav_time: 29.60
+2022-11-23 05:50:32,703, INFO: in Episode 557 has success rate: 0.00, collision rate: 1.00, nav time: 13.50, total reward: 26.9044,V_MeanSquareError:0.3775,times:135
+2022-11-23 05:51:49,427, INFO: in Episode 558 has success rate: 1.00, collision rate: 0.00, nav time: 30.30, total reward: 60.1763,V_MeanSquareError:0.4287,times:303
+2022-11-23 05:51:49,427, INFO: Has succes Sum_MeanSquareError:0.4287, nav_time: 30.30
+2022-11-23 05:53:04,471, INFO: in Episode 559 has success rate: 1.00, collision rate: 0.00, nav time: 31.60, total reward: 58.5237,V_MeanSquareError:0.4553,times:316
+2022-11-23 05:53:04,471, INFO: Has succes Sum_MeanSquareError:0.4553, nav_time: 31.60
+2022-11-23 05:54:18,203, INFO: in Episode 560 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 45.9133,V_MeanSquareError:0.4586,times:305
+2022-11-23 05:54:18,204, INFO: Has succes Sum_MeanSquareError:0.4586, nav_time: 30.50
+2022-11-23 05:55:33,358, INFO: in Episode 561 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 58.9388,V_MeanSquareError:0.5709,times:309
+2022-11-23 05:55:33,358, INFO: Has succes Sum_MeanSquareError:0.5709, nav_time: 30.90
+2022-11-23 05:56:49,253, INFO: in Episode 562 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 58.7406,V_MeanSquareError:0.5462,times:310
+2022-11-23 05:56:49,253, INFO: Has succes Sum_MeanSquareError:0.5462, nav_time: 31.00
+2022-11-23 05:58:09,758, INFO: in Episode 563 has success rate: 1.00, collision rate: 0.00, nav time: 31.70, total reward: 48.7611,V_MeanSquareError:0.5254,times:317
+2022-11-23 05:58:09,759, INFO: Has succes Sum_MeanSquareError:0.5254, nav_time: 31.70
+2022-11-23 05:59:18,465, INFO: in Episode 564 has success rate: 1.00, collision rate: 0.00, nav time: 28.10, total reward: 59.8938,V_MeanSquareError:0.3712,times:281
+2022-11-23 05:59:18,465, INFO: Has succes Sum_MeanSquareError:0.3712, nav_time: 28.10
+2022-11-23 06:00:31,108, INFO: in Episode 565 has success rate: 1.00, collision rate: 0.00, nav time: 29.50, total reward: 54.2645,V_MeanSquareError:0.4444,times:295
+2022-11-23 06:00:31,109, INFO: Has succes Sum_MeanSquareError:0.4444, nav_time: 29.50
+2022-11-23 06:01:45,647, INFO: in Episode 566 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 46.1436,V_MeanSquareError:0.4888,times:304
+2022-11-23 06:01:45,647, INFO: Has succes Sum_MeanSquareError:0.4888, nav_time: 30.40
+2022-11-23 06:02:59,059, INFO: in Episode 567 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 51.4658,V_MeanSquareError:0.4595,times:304
+2022-11-23 06:02:59,059, INFO: Has succes Sum_MeanSquareError:0.4595, nav_time: 30.40
+2022-11-23 06:04:12,854, INFO: in Episode 568 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 47.8157,V_MeanSquareError:0.4837,times:307
+2022-11-23 06:04:12,855, INFO: Has succes Sum_MeanSquareError:0.4837, nav_time: 30.70
+2022-11-23 06:05:04,573, INFO: in Episode 569 has success rate: 0.00, collision rate: 1.00, nav time: 21.10, total reward: 30.8269,V_MeanSquareError:0.5003,times:211
+2022-11-23 06:06:18,373, INFO: in Episode 570 has success rate: 1.00, collision rate: 0.00, nav time: 29.80, total reward: 50.6445,V_MeanSquareError:0.4889,times:298
+2022-11-23 06:06:18,373, INFO: Has succes Sum_MeanSquareError:0.4889, nav_time: 29.80
+2022-11-23 06:07:29,878, INFO: in Episode 571 has success rate: 1.00, collision rate: 0.00, nav time: 28.50, total reward: 62.3724,V_MeanSquareError:0.3875,times:285
+2022-11-23 06:07:29,879, INFO: Has succes Sum_MeanSquareError:0.3875, nav_time: 28.50
+2022-11-23 06:08:47,762, INFO: in Episode 572 has success rate: 1.00, collision rate: 0.00, nav time: 31.60, total reward: 50.7010,V_MeanSquareError:0.4987,times:316
+2022-11-23 06:08:47,764, INFO: Has succes Sum_MeanSquareError:0.4987, nav_time: 31.60
+2022-11-23 06:10:10,401, INFO: in Episode 573 has success rate: 1.00, collision rate: 0.00, nav time: 34.30, total reward: 35.3794,V_MeanSquareError:0.7251,times:343
+2022-11-23 06:10:10,402, INFO: Has succes Sum_MeanSquareError:0.7251, nav_time: 34.30
+2022-11-23 06:11:23,147, INFO: in Episode 574 has success rate: 1.00, collision rate: 0.00, nav time: 30.00, total reward: 53.2110,V_MeanSquareError:0.4205,times:300
+2022-11-23 06:11:23,148, INFO: Has succes Sum_MeanSquareError:0.4205, nav_time: 30.00
+2022-11-23 06:12:32,208, INFO: in Episode 575 has success rate: 1.00, collision rate: 0.00, nav time: 27.70, total reward: 64.0060,V_MeanSquareError:0.3718,times:277
+2022-11-23 06:12:32,209, INFO: Has succes Sum_MeanSquareError:0.3718, nav_time: 27.70
+2022-11-23 06:13:47,470, INFO: in Episode 576 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 48.4998,V_MeanSquareError:0.4620,times:306
+2022-11-23 06:13:47,471, INFO: Has succes Sum_MeanSquareError:0.4620, nav_time: 30.60
+2022-11-23 06:14:58,869, INFO: in Episode 577 has success rate: 1.00, collision rate: 0.00, nav time: 29.40, total reward: 53.1383,V_MeanSquareError:0.4306,times:294
+2022-11-23 06:14:58,869, INFO: Has succes Sum_MeanSquareError:0.4306, nav_time: 29.40
+2022-11-23 06:16:15,218, INFO: in Episode 578 has success rate: 1.00, collision rate: 0.00, nav time: 31.60, total reward: 55.4428,V_MeanSquareError:0.5772,times:316
+2022-11-23 06:16:15,218, INFO: Has succes Sum_MeanSquareError:0.5772, nav_time: 31.60
+2022-11-23 06:17:30,683, INFO: in Episode 579 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 57.3492,V_MeanSquareError:0.5484,times:307
+2022-11-23 06:17:30,683, INFO: Has succes Sum_MeanSquareError:0.5484, nav_time: 30.70
+2022-11-23 06:18:44,311, INFO: in Episode 580 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 46.4898,V_MeanSquareError:0.4806,times:302
+2022-11-23 06:18:44,311, INFO: Has succes Sum_MeanSquareError:0.4806, nav_time: 30.20
+2022-11-23 06:19:58,776, INFO: in Episode 581 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 61.7668,V_MeanSquareError:0.4785,times:304
+2022-11-23 06:19:58,777, INFO: Has succes Sum_MeanSquareError:0.4785, nav_time: 30.40
+2022-11-23 06:21:12,415, INFO: in Episode 582 has success rate: 1.00, collision rate: 0.00, nav time: 29.40, total reward: 59.9708,V_MeanSquareError:0.4360,times:294
+2022-11-23 06:21:12,415, INFO: Has succes Sum_MeanSquareError:0.4360, nav_time: 29.40
+2022-11-23 06:22:29,026, INFO: in Episode 583 has success rate: 1.00, collision rate: 0.00, nav time: 30.10, total reward: 59.5853,V_MeanSquareError:0.4690,times:301
+2022-11-23 06:22:29,026, INFO: Has succes Sum_MeanSquareError:0.4690, nav_time: 30.10
+2022-11-23 06:23:46,056, INFO: in Episode 584 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 60.4909,V_MeanSquareError:0.4787,times:305
+2022-11-23 06:23:46,057, INFO: Has succes Sum_MeanSquareError:0.4787, nav_time: 30.50
+2022-11-23 06:25:02,484, INFO: in Episode 585 has success rate: 1.00, collision rate: 0.00, nav time: 31.30, total reward: 55.6318,V_MeanSquareError:0.5381,times:313
+2022-11-23 06:25:02,484, INFO: Has succes Sum_MeanSquareError:0.5381, nav_time: 31.30
+2022-11-23 06:26:09,917, INFO: in Episode 586 has success rate: 1.00, collision rate: 0.00, nav time: 27.20, total reward: 66.8212,V_MeanSquareError:0.3682,times:272
+2022-11-23 06:26:09,918, INFO: Has succes Sum_MeanSquareError:0.3682, nav_time: 27.20
+2022-11-23 06:27:37,628, INFO: in Episode 587 has success rate: 1.00, collision rate: 0.00, nav time: 34.60, total reward: 55.7328,V_MeanSquareError:0.6788,times:346
+2022-11-23 06:27:37,628, INFO: Has succes Sum_MeanSquareError:0.6788, nav_time: 34.60
+2022-11-23 06:28:51,217, INFO: in Episode 588 has success rate: 1.00, collision rate: 0.00, nav time: 29.90, total reward: 47.2979,V_MeanSquareError:0.4385,times:299
+2022-11-23 06:28:51,218, INFO: Has succes Sum_MeanSquareError:0.4385, nav_time: 29.90
+2022-11-23 06:30:02,129, INFO: in Episode 589 has success rate: 1.00, collision rate: 0.00, nav time: 29.40, total reward: 56.2891,V_MeanSquareError:0.4279,times:294
+2022-11-23 06:30:02,129, INFO: Has succes Sum_MeanSquareError:0.4279, nav_time: 29.40
+2022-11-23 06:31:19,967, INFO: in Episode 590 has success rate: 1.00, collision rate: 0.00, nav time: 31.30, total reward: 44.9915,V_MeanSquareError:0.5933,times:313
+2022-11-23 06:31:19,967, INFO: Has succes Sum_MeanSquareError:0.5933, nav_time: 31.30
+2022-11-23 06:32:42,392, INFO: in Episode 591 has success rate: 1.00, collision rate: 0.00, nav time: 33.00, total reward: 53.6734,V_MeanSquareError:0.6548,times:330
+2022-11-23 06:32:42,393, INFO: Has succes Sum_MeanSquareError:0.6548, nav_time: 33.00
+2022-11-23 06:33:55,143, INFO: in Episode 592 has success rate: 1.00, collision rate: 0.00, nav time: 28.30, total reward: 64.4274,V_MeanSquareError:0.4734,times:283
+2022-11-23 06:33:55,144, INFO: Has succes Sum_MeanSquareError:0.4734, nav_time: 28.30
+2022-11-23 06:35:11,819, INFO: in Episode 593 has success rate: 1.00, collision rate: 0.00, nav time: 30.90, total reward: 49.1790,V_MeanSquareError:0.4698,times:309
+2022-11-23 06:35:11,819, INFO: Has succes Sum_MeanSquareError:0.4698, nav_time: 30.90
+2022-11-23 06:36:29,568, INFO: in Episode 594 has success rate: 1.00, collision rate: 0.00, nav time: 31.60, total reward: 61.4963,V_MeanSquareError:0.5543,times:316
+2022-11-23 06:36:29,568, INFO: Has succes Sum_MeanSquareError:0.5543, nav_time: 31.60
+2022-11-23 06:37:12,893, INFO: in Episode 595 has success rate: 0.00, collision rate: 1.00, nav time: 17.10, total reward: 25.5753,V_MeanSquareError:0.5471,times:171
+2022-11-23 06:38:25,090, INFO: in Episode 596 has success rate: 0.00, collision rate: 1.00, nav time: 29.60, total reward: 34.8373,V_MeanSquareError:0.6919,times:296
+2022-11-23 06:39:48,362, INFO: in Episode 597 has success rate: 1.00, collision rate: 0.00, nav time: 33.00, total reward: 34.5686,V_MeanSquareError:0.7001,times:330
+2022-11-23 06:39:48,362, INFO: Has succes Sum_MeanSquareError:0.7001, nav_time: 33.00
+2022-11-23 06:41:02,436, INFO: in Episode 598 has success rate: 1.00, collision rate: 0.00, nav time: 29.80, total reward: 56.7418,V_MeanSquareError:0.4477,times:298
+2022-11-23 06:41:02,436, INFO: Has succes Sum_MeanSquareError:0.4477, nav_time: 29.80
+2022-11-23 06:42:13,570, INFO: in Episode 599 has success rate: 1.00, collision rate: 0.00, nav time: 28.50, total reward: 59.7815,V_MeanSquareError:0.3853,times:285
+2022-11-23 06:42:13,570, INFO: Has succes Sum_MeanSquareError:0.3853, nav_time: 28.50
+2022-11-23 06:43:27,934, INFO: in Episode 600 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 54.8671,V_MeanSquareError:0.4407,times:304
+2022-11-23 06:43:27,935, INFO: Has succes Sum_MeanSquareError:0.4407, nav_time: 30.40
+2022-11-23 06:44:46,397, INFO: in Episode 601 has success rate: 1.00, collision rate: 0.00, nav time: 31.30, total reward: 46.6341,V_MeanSquareError:0.5858,times:313
+2022-11-23 06:44:46,397, INFO: Has succes Sum_MeanSquareError:0.5858, nav_time: 31.30
+2022-11-23 06:45:56,808, INFO: in Episode 602 has success rate: 1.00, collision rate: 0.00, nav time: 28.00, total reward: 69.1806,V_MeanSquareError:0.4067,times:280
+2022-11-23 06:45:56,808, INFO: Has succes Sum_MeanSquareError:0.4067, nav_time: 28.00
+2022-11-23 06:47:22,182, INFO: in Episode 603 has success rate: 1.00, collision rate: 0.00, nav time: 34.10, total reward: 43.0684,V_MeanSquareError:0.6779,times:341
+2022-11-23 06:47:22,183, INFO: Has succes Sum_MeanSquareError:0.6779, nav_time: 34.10
+2022-11-23 06:48:12,148, INFO: in Episode 604 has success rate: 0.00, collision rate: 1.00, nav time: 20.60, total reward: 30.8941,V_MeanSquareError:0.4220,times:206
+2022-11-23 06:49:05,365, INFO: in Episode 605 has success rate: 0.00, collision rate: 1.00, nav time: 21.50, total reward: 21.1298,V_MeanSquareError:0.5561,times:215
+2022-11-23 06:50:24,860, INFO: in Episode 606 has success rate: 1.00, collision rate: 0.00, nav time: 31.60, total reward: 68.9368,V_MeanSquareError:0.5973,times:316
+2022-11-23 06:50:24,861, INFO: Has succes Sum_MeanSquareError:0.5973, nav_time: 31.60
+2022-11-23 06:51:41,992, INFO: in Episode 607 has success rate: 1.00, collision rate: 0.00, nav time: 29.90, total reward: 47.8832,V_MeanSquareError:0.4659,times:299
+2022-11-23 06:51:41,993, INFO: Has succes Sum_MeanSquareError:0.4659, nav_time: 29.90
+2022-11-23 06:52:56,589, INFO: in Episode 608 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 65.5469,V_MeanSquareError:0.5024,times:302
+2022-11-23 06:52:56,589, INFO: Has succes Sum_MeanSquareError:0.5024, nav_time: 30.20
+2022-11-23 06:54:12,219, INFO: in Episode 609 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 39.6610,V_MeanSquareError:0.5474,times:310
+2022-11-23 06:54:12,219, INFO: Has succes Sum_MeanSquareError:0.5474, nav_time: 31.00
+2022-11-23 06:55:21,510, INFO: in Episode 610 has success rate: 1.00, collision rate: 0.00, nav time: 28.00, total reward: 55.6801,V_MeanSquareError:0.3730,times:280
+2022-11-23 06:55:21,510, INFO: Has succes Sum_MeanSquareError:0.3730, nav_time: 28.00
+2022-11-23 06:56:37,480, INFO: in Episode 611 has success rate: 1.00, collision rate: 0.00, nav time: 30.00, total reward: 52.3399,V_MeanSquareError:0.4917,times:300
+2022-11-23 06:56:37,481, INFO: Has succes Sum_MeanSquareError:0.4917, nav_time: 30.00
+2022-11-23 06:57:54,319, INFO: in Episode 612 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 61.5395,V_MeanSquareError:0.4951,times:305
+2022-11-23 06:57:54,319, INFO: Has succes Sum_MeanSquareError:0.4951, nav_time: 30.50
+2022-11-23 06:58:03,258, INFO: in Episode 613 has success rate: 0.00, collision rate: 1.00, nav time: 2.30, total reward: -15.1705,V_MeanSquareError:0.5113,times:23
+2022-11-23 06:59:19,327, INFO: in Episode 614 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 54.0502,V_MeanSquareError:0.4222,times:302
+2022-11-23 06:59:19,327, INFO: Has succes Sum_MeanSquareError:0.4222, nav_time: 30.20
+2022-11-23 07:00:40,626, INFO: in Episode 615 has success rate: 1.00, collision rate: 0.00, nav time: 32.20, total reward: 46.4820,V_MeanSquareError:0.5863,times:322
+2022-11-23 07:00:40,627, INFO: Has succes Sum_MeanSquareError:0.5863, nav_time: 32.20
+2022-11-23 07:01:55,174, INFO: in Episode 616 has success rate: 1.00, collision rate: 0.00, nav time: 29.90, total reward: 60.6888,V_MeanSquareError:0.5404,times:299
+2022-11-23 07:01:55,174, INFO: Has succes Sum_MeanSquareError:0.5404, nav_time: 29.90
+2022-11-23 07:03:07,923, INFO: in Episode 617 has success rate: 1.00, collision rate: 0.00, nav time: 29.40, total reward: 57.3197,V_MeanSquareError:0.4610,times:294
+2022-11-23 07:03:07,923, INFO: Has succes Sum_MeanSquareError:0.4610, nav_time: 29.40
+2022-11-23 07:04:23,344, INFO: in Episode 618 has success rate: 1.00, collision rate: 0.00, nav time: 29.90, total reward: 57.7156,V_MeanSquareError:0.4513,times:299
+2022-11-23 07:04:23,344, INFO: Has succes Sum_MeanSquareError:0.4513, nav_time: 29.90
+2022-11-23 07:05:33,932, INFO: in Episode 619 has success rate: 1.00, collision rate: 0.00, nav time: 28.70, total reward: 58.6941,V_MeanSquareError:0.4582,times:287
+2022-11-23 07:05:33,933, INFO: Has succes Sum_MeanSquareError:0.4582, nav_time: 28.70
+2022-11-23 07:07:01,439, INFO: in Episode 620 has success rate: 1.00, collision rate: 0.00, nav time: 34.70, total reward: 54.6876,V_MeanSquareError:0.7416,times:347
+2022-11-23 07:07:01,439, INFO: Has succes Sum_MeanSquareError:0.7416, nav_time: 34.70
+2022-11-23 07:08:09,118, INFO: in Episode 621 has success rate: 1.00, collision rate: 0.00, nav time: 27.20, total reward: 61.3463,V_MeanSquareError:0.3502,times:272
+2022-11-23 07:08:09,118, INFO: Has succes Sum_MeanSquareError:0.3502, nav_time: 27.20
+2022-11-23 07:09:26,827, INFO: in Episode 622 has success rate: 1.00, collision rate: 0.00, nav time: 31.70, total reward: 49.8541,V_MeanSquareError:0.4913,times:317
+2022-11-23 07:09:26,827, INFO: Has succes Sum_MeanSquareError:0.4913, nav_time: 31.70
+2022-11-23 07:10:41,187, INFO: in Episode 623 has success rate: 1.00, collision rate: 0.00, nav time: 29.80, total reward: 64.2618,V_MeanSquareError:0.4444,times:298
+2022-11-23 07:10:41,187, INFO: Has succes Sum_MeanSquareError:0.4444, nav_time: 29.80
+2022-11-23 07:12:00,491, INFO: in Episode 624 has success rate: 1.00, collision rate: 0.00, nav time: 31.60, total reward: 54.5830,V_MeanSquareError:0.5306,times:316
+2022-11-23 07:12:00,491, INFO: Has succes Sum_MeanSquareError:0.5306, nav_time: 31.60
+2022-11-23 07:13:17,014, INFO: in Episode 625 has success rate: 1.00, collision rate: 0.00, nav time: 30.30, total reward: 54.4939,V_MeanSquareError:0.4974,times:303
+2022-11-23 07:13:17,014, INFO: Has succes Sum_MeanSquareError:0.4974, nav_time: 30.30
+2022-11-23 07:13:59,756, INFO: in Episode 626 has success rate: 0.00, collision rate: 1.00, nav time: 17.30, total reward: -4.2460,V_MeanSquareError:0.6994,times:173
+2022-11-23 07:15:27,167, INFO: in Episode 627 has success rate: 1.00, collision rate: 0.00, nav time: 35.10, total reward: 56.2819,V_MeanSquareError:0.7224,times:351
+2022-11-23 07:15:27,168, INFO: Has succes Sum_MeanSquareError:0.7224, nav_time: 35.10
+2022-11-23 07:16:38,397, INFO: in Episode 628 has success rate: 1.00, collision rate: 0.00, nav time: 28.70, total reward: 65.1615,V_MeanSquareError:0.4075,times:287
+2022-11-23 07:16:38,398, INFO: Has succes Sum_MeanSquareError:0.4075, nav_time: 28.70
+2022-11-23 07:17:22,352, INFO: in Episode 629 has success rate: 0.00, collision rate: 1.00, nav time: 17.40, total reward: 28.4700,V_MeanSquareError:0.5197,times:174
+2022-11-23 07:18:04,605, INFO: in Episode 630 has success rate: 0.00, collision rate: 1.00, nav time: 17.20, total reward: 27.4719,V_MeanSquareError:0.5090,times:172
+2022-11-23 07:19:22,522, INFO: in Episode 631 has success rate: 1.00, collision rate: 0.00, nav time: 31.80, total reward: 35.5936,V_MeanSquareError:0.5887,times:318
+2022-11-23 07:19:22,523, INFO: Has succes Sum_MeanSquareError:0.5887, nav_time: 31.80
+2022-11-23 07:20:36,475, INFO: in Episode 632 has success rate: 1.00, collision rate: 0.00, nav time: 30.00, total reward: 51.3485,V_MeanSquareError:0.4742,times:300
+2022-11-23 07:20:36,476, INFO: Has succes Sum_MeanSquareError:0.4742, nav_time: 30.00
+2022-11-23 07:20:50,894, INFO: in Episode 633 has success rate: 0.00, collision rate: 1.00, nav time: 5.30, total reward: 3.2725,V_MeanSquareError:0.3970,times:53
+2022-11-23 07:22:01,079, INFO: in Episode 634 has success rate: 1.00, collision rate: 0.00, nav time: 27.80, total reward: 65.1146,V_MeanSquareError:0.3631,times:278
+2022-11-23 07:22:01,079, INFO: Has succes Sum_MeanSquareError:0.3631, nav_time: 27.80
+2022-11-23 07:23:16,581, INFO: in Episode 635 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 48.8902,V_MeanSquareError:0.5243,times:312
+2022-11-23 07:23:16,582, INFO: Has succes Sum_MeanSquareError:0.5243, nav_time: 31.20
+2022-11-23 07:24:30,950, INFO: in Episode 636 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 60.4770,V_MeanSquareError:0.4601,times:306
+2022-11-23 07:24:30,950, INFO: Has succes Sum_MeanSquareError:0.4601, nav_time: 30.60
+2022-11-23 07:25:47,082, INFO: in Episode 637 has success rate: 1.00, collision rate: 0.00, nav time: 31.30, total reward: 66.8832,V_MeanSquareError:0.5428,times:313
+2022-11-23 07:25:47,082, INFO: Has succes Sum_MeanSquareError:0.5428, nav_time: 31.30
+2022-11-23 07:27:00,658, INFO: in Episode 638 has success rate: 1.00, collision rate: 0.00, nav time: 29.20, total reward: 56.3087,V_MeanSquareError:0.4508,times:292
+2022-11-23 07:27:00,658, INFO: Has succes Sum_MeanSquareError:0.4508, nav_time: 29.20
+2022-11-23 07:28:09,418, INFO: in Episode 639 has success rate: 1.00, collision rate: 0.00, nav time: 28.20, total reward: 57.2119,V_MeanSquareError:0.3850,times:282
+2022-11-23 07:28:09,418, INFO: Has succes Sum_MeanSquareError:0.3850, nav_time: 28.20
+2022-11-23 07:29:24,507, INFO: in Episode 640 has success rate: 1.00, collision rate: 0.00, nav time: 29.80, total reward: 65.2679,V_MeanSquareError:0.4971,times:298
+2022-11-23 07:29:24,507, INFO: Has succes Sum_MeanSquareError:0.4971, nav_time: 29.80
+2022-11-23 07:30:40,465, INFO: in Episode 641 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 59.2136,V_MeanSquareError:0.4509,times:310
+2022-11-23 07:30:40,465, INFO: Has succes Sum_MeanSquareError:0.4509, nav_time: 31.00
+2022-11-23 07:31:55,822, INFO: in Episode 642 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 42.7868,V_MeanSquareError:0.4757,times:306
+2022-11-23 07:31:55,823, INFO: Has succes Sum_MeanSquareError:0.4757, nav_time: 30.60
+2022-11-23 07:33:09,777, INFO: in Episode 643 has success rate: 1.00, collision rate: 0.00, nav time: 29.50, total reward: 52.1817,V_MeanSquareError:0.5256,times:295
+2022-11-23 07:33:09,778, INFO: Has succes Sum_MeanSquareError:0.5256, nav_time: 29.50
+2022-11-23 07:34:27,272, INFO: in Episode 644 has success rate: 1.00, collision rate: 0.00, nav time: 31.30, total reward: 53.3288,V_MeanSquareError:0.5511,times:313
+2022-11-23 07:34:27,273, INFO: Has succes Sum_MeanSquareError:0.5511, nav_time: 31.30
+2022-11-23 07:35:50,913, INFO: in Episode 645 has success rate: 1.00, collision rate: 0.00, nav time: 33.10, total reward: 60.7425,V_MeanSquareError:0.5925,times:331
+2022-11-23 07:35:50,914, INFO: Has succes Sum_MeanSquareError:0.5925, nav_time: 33.10
+2022-11-23 07:36:59,714, INFO: in Episode 646 has success rate: 1.00, collision rate: 0.00, nav time: 28.20, total reward: 59.9640,V_MeanSquareError:0.4155,times:282
+2022-11-23 07:36:59,715, INFO: Has succes Sum_MeanSquareError:0.4155, nav_time: 28.20
+2022-11-23 07:38:24,479, INFO: in Episode 647 has success rate: 1.00, collision rate: 0.00, nav time: 33.70, total reward: 54.1441,V_MeanSquareError:0.6341,times:337
+2022-11-23 07:38:24,479, INFO: Has succes Sum_MeanSquareError:0.6341, nav_time: 33.70
+2022-11-23 07:39:37,203, INFO: in Episode 648 has success rate: 1.00, collision rate: 0.00, nav time: 29.40, total reward: 57.2173,V_MeanSquareError:0.4137,times:294
+2022-11-23 07:39:37,204, INFO: Has succes Sum_MeanSquareError:0.4137, nav_time: 29.40
+2022-11-23 07:40:50,678, INFO: in Episode 649 has success rate: 1.00, collision rate: 0.00, nav time: 28.50, total reward: 57.2253,V_MeanSquareError:0.4820,times:285
+2022-11-23 07:40:50,678, INFO: Has succes Sum_MeanSquareError:0.4820, nav_time: 28.50
+2022-11-23 07:42:01,120, INFO: in Episode 650 has success rate: 1.00, collision rate: 0.00, nav time: 27.80, total reward: 63.9230,V_MeanSquareError:0.4030,times:278
+2022-11-23 07:42:01,120, INFO: Has succes Sum_MeanSquareError:0.4030, nav_time: 27.80
+2022-11-23 07:43:14,290, INFO: in Episode 651 has success rate: 1.00, collision rate: 0.00, nav time: 29.40, total reward: 62.5323,V_MeanSquareError:0.4727,times:294
+2022-11-23 07:43:14,290, INFO: Has succes Sum_MeanSquareError:0.4727, nav_time: 29.40
+2022-11-23 07:43:50,639, INFO: in Episode 652 has success rate: 0.00, collision rate: 1.00, nav time: 13.90, total reward: 23.4359,V_MeanSquareError:0.4761,times:139
+2022-11-23 07:45:08,879, INFO: in Episode 653 has success rate: 1.00, collision rate: 0.00, nav time: 31.60, total reward: 54.3975,V_MeanSquareError:0.5995,times:316
+2022-11-23 07:45:08,879, INFO: Has succes Sum_MeanSquareError:0.5995, nav_time: 31.60
+2022-11-23 07:46:19,654, INFO: in Episode 654 has success rate: 1.00, collision rate: 0.00, nav time: 28.60, total reward: 54.0112,V_MeanSquareError:0.4176,times:286
+2022-11-23 07:46:19,655, INFO: Has succes Sum_MeanSquareError:0.4176, nav_time: 28.60
+2022-11-23 07:47:34,892, INFO: in Episode 655 has success rate: 1.00, collision rate: 0.00, nav time: 30.10, total reward: 55.6202,V_MeanSquareError:0.4699,times:301
+2022-11-23 07:47:34,892, INFO: Has succes Sum_MeanSquareError:0.4699, nav_time: 30.10
+2022-11-23 07:49:07,170, INFO: in Episode 656 has success rate: 1.00, collision rate: 0.00, nav time: 37.60, total reward: 11.0634,V_MeanSquareError:0.7982,times:376
+2022-11-23 07:49:07,170, INFO: Has succes Sum_MeanSquareError:0.7982, nav_time: 37.60
+2022-11-23 07:50:21,826, INFO: in Episode 657 has success rate: 1.00, collision rate: 0.00, nav time: 29.90, total reward: 62.5293,V_MeanSquareError:0.5122,times:299
+2022-11-23 07:50:21,827, INFO: Has succes Sum_MeanSquareError:0.5122, nav_time: 29.90
+2022-11-23 07:51:38,963, INFO: in Episode 658 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 37.7811,V_MeanSquareError:0.4434,times:304
+2022-11-23 07:51:38,964, INFO: Has succes Sum_MeanSquareError:0.4434, nav_time: 30.40
+2022-11-23 07:52:50,813, INFO: in Episode 659 has success rate: 1.00, collision rate: 0.00, nav time: 28.80, total reward: 61.1130,V_MeanSquareError:0.4305,times:288
+2022-11-23 07:52:50,813, INFO: Has succes Sum_MeanSquareError:0.4305, nav_time: 28.80
+2022-11-23 07:54:13,702, INFO: in Episode 660 has success rate: 1.00, collision rate: 0.00, nav time: 33.50, total reward: 44.4451,V_MeanSquareError:0.7338,times:335
+2022-11-23 07:54:13,702, INFO: Has succes Sum_MeanSquareError:0.7338, nav_time: 33.50
+2022-11-23 07:55:22,711, INFO: in Episode 661 has success rate: 1.00, collision rate: 0.00, nav time: 27.70, total reward: 61.3939,V_MeanSquareError:0.3462,times:277
+2022-11-23 07:55:22,712, INFO: Has succes Sum_MeanSquareError:0.3462, nav_time: 27.70
+2022-11-23 07:56:39,831, INFO: in Episode 662 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 54.7328,V_MeanSquareError:0.4935,times:307
+2022-11-23 07:56:39,831, INFO: Has succes Sum_MeanSquareError:0.4935, nav_time: 30.70
+2022-11-23 07:57:56,741, INFO: in Episode 663 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 44.0216,V_MeanSquareError:0.5133,times:307
+2022-11-23 07:57:56,741, INFO: Has succes Sum_MeanSquareError:0.5133, nav_time: 30.70
+2022-11-23 07:58:28,185, INFO: in Episode 664 has success rate: 0.00, collision rate: 1.00, nav time: 12.50, total reward: 31.8027,V_MeanSquareError:0.2889,times:125
+2022-11-23 07:59:39,723, INFO: in Episode 665 has success rate: 1.00, collision rate: 0.00, nav time: 29.50, total reward: 51.1096,V_MeanSquareError:0.4557,times:295
+2022-11-23 07:59:39,723, INFO: Has succes Sum_MeanSquareError:0.4557, nav_time: 29.50
+2022-11-23 08:00:54,017, INFO: in Episode 666 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 53.4909,V_MeanSquareError:0.4756,times:302
+2022-11-23 08:00:54,017, INFO: Has succes Sum_MeanSquareError:0.4756, nav_time: 30.20
+2022-11-23 08:02:10,314, INFO: in Episode 667 has success rate: 1.00, collision rate: 0.00, nav time: 30.80, total reward: 54.1519,V_MeanSquareError:0.4847,times:308
+2022-11-23 08:02:10,315, INFO: Has succes Sum_MeanSquareError:0.4847, nav_time: 30.80
+2022-11-23 08:03:24,561, INFO: in Episode 668 has success rate: 1.00, collision rate: 0.00, nav time: 29.00, total reward: 58.9412,V_MeanSquareError:0.4257,times:290
+2022-11-23 08:03:24,562, INFO: Has succes Sum_MeanSquareError:0.4257, nav_time: 29.00
+2022-11-23 08:04:39,766, INFO: in Episode 669 has success rate: 1.00, collision rate: 0.00, nav time: 29.40, total reward: 67.4093,V_MeanSquareError:0.4679,times:294
+2022-11-23 08:04:39,766, INFO: Has succes Sum_MeanSquareError:0.4679, nav_time: 29.40
+2022-11-23 08:05:56,083, INFO: in Episode 670 has success rate: 1.00, collision rate: 0.00, nav time: 30.10, total reward: 61.3481,V_MeanSquareError:0.4639,times:301
+2022-11-23 08:05:56,083, INFO: Has succes Sum_MeanSquareError:0.4639, nav_time: 30.10
+2022-11-23 08:07:11,392, INFO: in Episode 671 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 50.7723,V_MeanSquareError:0.4548,times:304
+2022-11-23 08:07:11,393, INFO: Has succes Sum_MeanSquareError:0.4548, nav_time: 30.40
+2022-11-23 08:08:28,324, INFO: in Episode 672 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 54.4248,V_MeanSquareError:0.5088,times:310
+2022-11-23 08:08:28,325, INFO: Has succes Sum_MeanSquareError:0.5088, nav_time: 31.00
+2022-11-23 08:09:52,562, INFO: in Episode 673 has success rate: 1.00, collision rate: 0.00, nav time: 34.20, total reward: 46.1819,V_MeanSquareError:0.6552,times:342
+2022-11-23 08:09:52,562, INFO: Has succes Sum_MeanSquareError:0.6552, nav_time: 34.20
+2022-11-23 08:11:07,159, INFO: in Episode 674 has success rate: 1.00, collision rate: 0.00, nav time: 29.50, total reward: 58.7775,V_MeanSquareError:0.4455,times:295
+2022-11-23 08:11:07,159, INFO: Has succes Sum_MeanSquareError:0.4455, nav_time: 29.50
+2022-11-23 08:12:15,459, INFO: in Episode 675 has success rate: 1.00, collision rate: 0.00, nav time: 27.50, total reward: 65.5380,V_MeanSquareError:0.3537,times:275
+2022-11-23 08:12:15,459, INFO: Has succes Sum_MeanSquareError:0.3537, nav_time: 27.50
+2022-11-23 08:13:32,165, INFO: in Episode 676 has success rate: 1.00, collision rate: 0.00, nav time: 30.10, total reward: 60.1514,V_MeanSquareError:0.4465,times:301
+2022-11-23 08:13:32,166, INFO: Has succes Sum_MeanSquareError:0.4465, nav_time: 30.10
+2022-11-23 08:14:45,994, INFO: in Episode 677 has success rate: 1.00, collision rate: 0.00, nav time: 29.60, total reward: 56.5406,V_MeanSquareError:0.4364,times:296
+2022-11-23 08:14:45,994, INFO: Has succes Sum_MeanSquareError:0.4364, nav_time: 29.60
+2022-11-23 08:16:03,593, INFO: in Episode 678 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 51.2137,V_MeanSquareError:0.4730,times:304
+2022-11-23 08:16:03,593, INFO: Has succes Sum_MeanSquareError:0.4730, nav_time: 30.40
+2022-11-23 08:17:20,417, INFO: in Episode 679 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 61.6418,V_MeanSquareError:0.5771,times:312
+2022-11-23 08:17:20,417, INFO: Has succes Sum_MeanSquareError:0.5771, nav_time: 31.20
+2022-11-23 08:18:34,148, INFO: in Episode 680 has success rate: 1.00, collision rate: 0.00, nav time: 29.80, total reward: 51.7139,V_MeanSquareError:0.4510,times:298
+2022-11-23 08:18:34,149, INFO: Has succes Sum_MeanSquareError:0.4510, nav_time: 29.80
+2022-11-23 08:19:50,066, INFO: in Episode 681 has success rate: 1.00, collision rate: 0.00, nav time: 29.80, total reward: 57.9435,V_MeanSquareError:0.5245,times:298
+2022-11-23 08:19:50,066, INFO: Has succes Sum_MeanSquareError:0.5245, nav_time: 29.80
+2022-11-23 08:21:10,256, INFO: in Episode 682 has success rate: 1.00, collision rate: 0.00, nav time: 32.40, total reward: 46.9165,V_MeanSquareError:0.5817,times:324
+2022-11-23 08:21:10,256, INFO: Has succes Sum_MeanSquareError:0.5817, nav_time: 32.40
+2022-11-23 08:22:29,867, INFO: in Episode 683 has success rate: 1.00, collision rate: 0.00, nav time: 32.00, total reward: 57.9569,V_MeanSquareError:0.5876,times:320
+2022-11-23 08:22:29,868, INFO: Has succes Sum_MeanSquareError:0.5876, nav_time: 32.00
+2022-11-23 08:23:47,956, INFO: in Episode 684 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 61.4702,V_MeanSquareError:0.4979,times:310
+2022-11-23 08:23:47,956, INFO: Has succes Sum_MeanSquareError:0.4979, nav_time: 31.00
+2022-11-23 08:25:07,048, INFO: in Episode 685 has success rate: 1.00, collision rate: 0.00, nav time: 30.50, total reward: 56.7957,V_MeanSquareError:0.4675,times:305
+2022-11-23 08:25:07,049, INFO: Has succes Sum_MeanSquareError:0.4675, nav_time: 30.50
+2022-11-23 08:26:22,403, INFO: in Episode 686 has success rate: 1.00, collision rate: 0.00, nav time: 30.00, total reward: 54.1363,V_MeanSquareError:0.5093,times:300
+2022-11-23 08:26:22,403, INFO: Has succes Sum_MeanSquareError:0.5093, nav_time: 30.00
+2022-11-23 08:27:36,499, INFO: in Episode 687 has success rate: 1.00, collision rate: 0.00, nav time: 28.50, total reward: 67.5221,V_MeanSquareError:0.4381,times:285
+2022-11-23 08:27:36,499, INFO: Has succes Sum_MeanSquareError:0.4381, nav_time: 28.50
+2022-11-23 08:28:21,566, INFO: in Episode 688 has success rate: 0.00, collision rate: 1.00, nav time: 17.50, total reward: 19.0167,V_MeanSquareError:0.7731,times:175
+2022-11-23 08:29:36,046, INFO: in Episode 689 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 60.9341,V_MeanSquareError:0.4606,times:304
+2022-11-23 08:29:36,047, INFO: Has succes Sum_MeanSquareError:0.4606, nav_time: 30.40
+2022-11-23 08:30:53,067, INFO: in Episode 690 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 58.4275,V_MeanSquareError:0.5359,times:306
+2022-11-23 08:30:53,068, INFO: Has succes Sum_MeanSquareError:0.5359, nav_time: 30.60
+2022-11-23 08:32:08,795, INFO: in Episode 691 has success rate: 1.00, collision rate: 0.00, nav time: 30.00, total reward: 61.6346,V_MeanSquareError:0.4682,times:300
+2022-11-23 08:32:08,795, INFO: Has succes Sum_MeanSquareError:0.4682, nav_time: 30.00
+2022-11-23 08:33:45,368, INFO: in Episode 692 has success rate: 1.00, collision rate: 0.00, nav time: 38.70, total reward: 3.0860,V_MeanSquareError:0.9589,times:387
+2022-11-23 08:33:45,368, INFO: Has succes Sum_MeanSquareError:0.9589, nav_time: 38.70
+2022-11-23 08:34:54,247, INFO: in Episode 693 has success rate: 1.00, collision rate: 0.00, nav time: 28.00, total reward: 60.0781,V_MeanSquareError:0.3859,times:280
+2022-11-23 08:34:54,247, INFO: Has succes Sum_MeanSquareError:0.3859, nav_time: 28.00
+2022-11-23 08:36:22,449, INFO: in Episode 694 has success rate: 1.00, collision rate: 0.00, nav time: 34.80, total reward: 57.6403,V_MeanSquareError:0.6657,times:348
+2022-11-23 08:36:22,449, INFO: Has succes Sum_MeanSquareError:0.6657, nav_time: 34.80
+2022-11-23 08:37:37,007, INFO: in Episode 695 has success rate: 1.00, collision rate: 0.00, nav time: 29.90, total reward: 42.3437,V_MeanSquareError:0.5162,times:299
+2022-11-23 08:37:37,007, INFO: Has succes Sum_MeanSquareError:0.5162, nav_time: 29.90
+2022-11-23 08:38:53,093, INFO: in Episode 696 has success rate: 1.00, collision rate: 0.00, nav time: 29.90, total reward: 62.5929,V_MeanSquareError:0.4587,times:299
+2022-11-23 08:38:53,093, INFO: Has succes Sum_MeanSquareError:0.4587, nav_time: 29.90
+2022-11-23 08:40:09,566, INFO: in Episode 697 has success rate: 1.00, collision rate: 0.00, nav time: 30.40, total reward: 60.2325,V_MeanSquareError:0.4589,times:304
+2022-11-23 08:40:09,566, INFO: Has succes Sum_MeanSquareError:0.4589, nav_time: 30.40
+2022-11-23 08:41:22,746, INFO: in Episode 698 has success rate: 1.00, collision rate: 0.00, nav time: 29.40, total reward: 59.1033,V_MeanSquareError:0.4744,times:294
+2022-11-23 08:41:22,747, INFO: Has succes Sum_MeanSquareError:0.4744, nav_time: 29.40
+2022-11-23 08:42:38,979, INFO: in Episode 699 has success rate: 1.00, collision rate: 0.00, nav time: 30.10, total reward: 58.4021,V_MeanSquareError:0.4951,times:301
+2022-11-23 08:42:38,979, INFO: Has succes Sum_MeanSquareError:0.4951, nav_time: 30.10
+2022-11-23 08:43:52,899, INFO: in Episode 700 has success rate: 1.00, collision rate: 0.00, nav time: 28.70, total reward: 64.9438,V_MeanSquareError:0.4472,times:287
+2022-11-23 08:43:52,900, INFO: Has succes Sum_MeanSquareError:0.4472, nav_time: 28.70
+2022-11-23 08:45:05,545, INFO: in Episode 701 has success rate: 1.00, collision rate: 0.00, nav time: 29.00, total reward: 47.6888,V_MeanSquareError:0.4227,times:290
+2022-11-23 08:45:05,546, INFO: Has succes Sum_MeanSquareError:0.4227, nav_time: 29.00
+2022-11-23 08:46:22,734, INFO: in Episode 702 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 65.7919,V_MeanSquareError:0.5445,times:302
+2022-11-23 08:46:22,735, INFO: Has succes Sum_MeanSquareError:0.5445, nav_time: 30.20
+2022-11-23 08:47:35,988, INFO: in Episode 703 has success rate: 1.00, collision rate: 0.00, nav time: 28.20, total reward: 67.2918,V_MeanSquareError:0.4788,times:282
+2022-11-23 08:47:35,988, INFO: Has succes Sum_MeanSquareError:0.4788, nav_time: 28.20
+2022-11-23 08:49:11,524, INFO: in Episode 704 has success rate: 1.00, collision rate: 0.00, nav time: 37.70, total reward: 41.8834,V_MeanSquareError:0.7240,times:377
+2022-11-23 08:49:11,524, INFO: Has succes Sum_MeanSquareError:0.7240, nav_time: 37.70
+2022-11-23 08:50:40,790, INFO: in Episode 705 has success rate: 1.00, collision rate: 0.00, nav time: 34.90, total reward: 8.1289,V_MeanSquareError:0.8729,times:349
+2022-11-23 08:50:40,791, INFO: Has succes Sum_MeanSquareError:0.8729, nav_time: 34.90
+2022-11-23 08:51:59,901, INFO: in Episode 706 has success rate: 1.00, collision rate: 0.00, nav time: 30.20, total reward: 66.0989,V_MeanSquareError:0.4852,times:302
+2022-11-23 08:51:59,902, INFO: Has succes Sum_MeanSquareError:0.4852, nav_time: 30.20
+2022-11-23 08:53:14,394, INFO: in Episode 707 has success rate: 1.00, collision rate: 0.00, nav time: 29.70, total reward: 63.3419,V_MeanSquareError:0.4829,times:297
+2022-11-23 08:53:14,395, INFO: Has succes Sum_MeanSquareError:0.4829, nav_time: 29.70
+2022-11-23 08:54:22,858, INFO: in Episode 708 has success rate: 1.00, collision rate: 0.00, nav time: 27.50, total reward: 65.7955,V_MeanSquareError:0.3818,times:275
+2022-11-23 08:54:22,858, INFO: Has succes Sum_MeanSquareError:0.3818, nav_time: 27.50
+2022-11-23 08:55:33,284, INFO: in Episode 709 has success rate: 1.00, collision rate: 0.00, nav time: 28.50, total reward: 60.8777,V_MeanSquareError:0.4192,times:285
+2022-11-23 08:55:33,284, INFO: Has succes Sum_MeanSquareError:0.4192, nav_time: 28.50
+2022-11-23 08:56:51,282, INFO: in Episode 710 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 59.8515,V_MeanSquareError:0.4907,times:307
+2022-11-23 08:56:51,282, INFO: Has succes Sum_MeanSquareError:0.4907, nav_time: 30.70
+2022-11-23 08:58:12,357, INFO: in Episode 711 has success rate: 1.00, collision rate: 0.00, nav time: 33.00, total reward: 59.0845,V_MeanSquareError:0.6955,times:330
+2022-11-23 08:58:12,357, INFO: Has succes Sum_MeanSquareError:0.6955, nav_time: 33.00
+2022-11-23 08:59:31,096, INFO: in Episode 712 has success rate: 1.00, collision rate: 0.00, nav time: 31.90, total reward: 33.5148,V_MeanSquareError:0.6250,times:319
+2022-11-23 08:59:31,097, INFO: Has succes Sum_MeanSquareError:0.6250, nav_time: 31.90
+2022-11-23 09:00:50,043, INFO: in Episode 713 has success rate: 1.00, collision rate: 0.00, nav time: 31.10, total reward: 50.0724,V_MeanSquareError:0.5443,times:311
+2022-11-23 09:00:50,043, INFO: Has succes Sum_MeanSquareError:0.5443, nav_time: 31.10
+2022-11-23 09:02:08,726, INFO: in Episode 714 has success rate: 1.00, collision rate: 0.00, nav time: 31.00, total reward: 57.1247,V_MeanSquareError:0.5264,times:310
+2022-11-23 09:02:08,726, INFO: Has succes Sum_MeanSquareError:0.5264, nav_time: 31.00
+2022-11-23 09:03:28,501, INFO: in Episode 715 has success rate: 1.00, collision rate: 0.00, nav time: 31.10, total reward: 69.6082,V_MeanSquareError:0.5980,times:311
+2022-11-23 09:03:28,501, INFO: Has succes Sum_MeanSquareError:0.5980, nav_time: 31.10
+2022-11-23 09:04:50,019, INFO: in Episode 716 has success rate: 1.00, collision rate: 0.00, nav time: 33.70, total reward: 46.2899,V_MeanSquareError:0.6481,times:337
+2022-11-23 09:04:50,019, INFO: Has succes Sum_MeanSquareError:0.6481, nav_time: 33.70
+2022-11-23 09:06:06,266, INFO: in Episode 717 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 63.3042,V_MeanSquareError:0.5697,times:307
+2022-11-23 09:06:06,266, INFO: Has succes Sum_MeanSquareError:0.5697, nav_time: 30.70
+2022-11-23 09:07:26,651, INFO: in Episode 718 has success rate: 1.00, collision rate: 0.00, nav time: 31.40, total reward: 59.8081,V_MeanSquareError:0.5930,times:314
+2022-11-23 09:07:26,651, INFO: Has succes Sum_MeanSquareError:0.5930, nav_time: 31.40
+2022-11-23 09:08:43,360, INFO: in Episode 719 has success rate: 1.00, collision rate: 0.00, nav time: 30.60, total reward: 57.1318,V_MeanSquareError:0.5177,times:306
+2022-11-23 09:08:43,360, INFO: Has succes Sum_MeanSquareError:0.5177, nav_time: 30.60
+2022-11-23 09:09:56,304, INFO: in Episode 720 has success rate: 1.00, collision rate: 0.00, nav time: 29.30, total reward: 59.8050,V_MeanSquareError:0.4033,times:293
+2022-11-23 09:09:56,305, INFO: Has succes Sum_MeanSquareError:0.4033, nav_time: 29.30
+2022-11-23 09:11:09,559, INFO: in Episode 721 has success rate: 1.00, collision rate: 0.00, nav time: 28.40, total reward: 62.5685,V_MeanSquareError:0.3848,times:284
+2022-11-23 09:11:09,559, INFO: Has succes Sum_MeanSquareError:0.3848, nav_time: 28.40
+2022-11-23 09:12:26,185, INFO: in Episode 722 has success rate: 1.00, collision rate: 0.00, nav time: 29.80, total reward: 67.4994,V_MeanSquareError:0.5163,times:298
+2022-11-23 09:12:26,185, INFO: Has succes Sum_MeanSquareError:0.5163, nav_time: 29.80
+2022-11-23 09:13:42,035, INFO: in Episode 723 has success rate: 1.00, collision rate: 0.00, nav time: 29.50, total reward: 64.0595,V_MeanSquareError:0.5150,times:295
+2022-11-23 09:13:42,035, INFO: Has succes Sum_MeanSquareError:0.5150, nav_time: 29.50
+2022-11-23 09:15:03,537, INFO: in Episode 724 has success rate: 1.00, collision rate: 0.00, nav time: 30.70, total reward: 63.4880,V_MeanSquareError:0.4957,times:307
+2022-11-23 09:15:03,537, INFO: Has succes Sum_MeanSquareError:0.4957, nav_time: 30.70
+2022-11-23 09:16:28,652, INFO: in Episode 725 has success rate: 1.00, collision rate: 0.00, nav time: 28.50, total reward: 69.5895,V_MeanSquareError:0.5124,times:285
+2022-11-23 09:16:28,653, INFO: Has succes Sum_MeanSquareError:0.5124, nav_time: 28.50
+2022-11-23 09:18:45,294, INFO: in Episode 726 has success rate: 1.00, collision rate: 0.00, nav time: 31.20, total reward: 57.1806,V_MeanSquareError:0.5296,times:312
+2022-11-23 09:18:45,294, INFO: Has succes Sum_MeanSquareError:0.5296, nav_time: 31.20
+2022-11-23 09:20:15,278, INFO: Mean square error of velocity is 0.28
+2022-11-23 09:20:15,278, INFO: Mean square error of angle is 0.70
+2022-11-23 09:21:08,897, INFO: in Episode 727 has success rate: 1.00, collision rate: 0.00, nav time: 30.30, total reward: 68.5000,V_MeanSquareError:0.4830,times:303
+2022-11-23 09:21:08,897, INFO: Has succes Sum_MeanSquareError:0.4830, nav_time: 30.30
+2022-11-23 09:22:18,279, INFO: It takes 28.10 seconds to finish. Final status is Reaching goal
+2022-11-23 09:23:59,349, INFO: Mean square error of velocity is 0.28
+2022-11-23 09:23:59,349, INFO: Mean square error of angle is 0.59
+2022-11-23 09:24:13,379, INFO: It takes 27.20 seconds to finish. Final status is Reaching goal
+2022-11-23 09:39:00,142, INFO: Mean square error of velocity is 0.28
+2022-11-23 09:39:00,142, INFO: Mean square error of angle is 0.93
+2022-11-23 09:40:11,986, INFO: It takes 30.40 seconds to finish. Final status is Reaching goal
+2022-11-23 09:41:47,033, INFO: Mean square error of velocity is 0.28
+2022-11-23 09:41:47,034, INFO: Mean square error of angle is 0.90
+2022-11-23 09:43:57,828, INFO: It takes 29.20 seconds to finish. Final status is Reaching goal
+2022-11-23 09:45:35,261, INFO: Mean square error of velocity is 0.28
+2022-11-23 09:45:35,262, INFO: Mean square error of angle is 0.47
+2022-11-23 09:46:26,887, INFO: It takes 29.30 seconds to finish. Final status is Reaching goal
+2022-11-23 09:46:59,991, INFO: Mean square error of velocity is 0.26
+2022-11-23 09:46:59,992, INFO: Mean square error of angle is 0.64
+2022-11-23 09:47:12,922, INFO: It takes 20.10 seconds to finish. Final status is Collision
+2022-11-23 09:47:54,187, INFO: Mean square error of velocity is 0.29
+2022-11-23 09:47:54,187, INFO: Mean square error of angle is 0.50
+2022-11-23 09:55:12,086, INFO: It takes 27.00 seconds to finish. Final status is Reaching goal
+2022-12-07 12:44:26,965, INFO: Mean square error of velocity is 0.07
+2022-12-07 12:44:26,966, INFO: Mean square error of angle is 0.28
+2022-12-07 12:46:12,449, INFO: It takes 22.60 seconds to finish. Final status is Reaching goal
